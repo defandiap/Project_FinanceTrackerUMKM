@@ -1,0 +1,1001 @@
+Order ID;Date;Product;Category; Purchase Price ; Sale Price ; Profit ;Quantity;Order Status;Delivery Date;Delivery Time (Days);Delivery Cost; Revenue ;Salesperson;Customer Name;Gender;Age;Age Group;State;Country
+1001;12/08/2022;Sandles;Footwear; 22 ; 42 ; - ;3;Cancelled;18/08/2022;2;5; - ;Lisa Rizi;Luis Howell;Male;31;Middle Age;Houston;United States
+1002;19/04/2022;Jeans;Clothing; 89 ; 129 ; 1.437 ;36;Delivered;24/04/2022;5;3; 1.440 ;Lisa Rizi;Todd Gonzalez;Male;24;Young;Washington, D.C.;United States
+1003;07/05/2022;Sandles;Footwear; 94 ; 128 ; - ;5;Cancelled;12/05/2022;2;4; - ;Chris Jordan;James Parker;Male;33;Middle Age;Boston;United States
+1004;08/03/2022;T-shirt;Clothing; 31 ; 54 ; - ;2;Cancelled;11/03/2022;1;5; - ;Arnold Fazer;Karen Payne;Male;62;Senior;Houston;United States
+1005;30/10/2022;T-shirt;Clothing; 42 ; 69 ; - ;11;Cancelled;03/11/2022;1;3; - ;Lisa Rizi;Yvonne Rivas;Male;58;Senior;Houston;United States
+1006;06/07/2022;Watch;Accessories; 70 ; 110 ; - ;48;Cancelled;07/07/2022;1;2; - ;Arnold Fazer;Nicole Simon;Male;54;Senior;Atlanta;United States
+1007;11/12/2022;TV;Electronics; 25 ; 65 ; 236 ;6;Delivered;17/12/2022;6;4; 240 ;Chris Jordan;Jeffrey Griffin;Male;56;Senior;Boston;United States
+1008;07/02/2022;Washing Machine;Appliances; 56 ; 77 ; 101 ;5;Delivered;13/02/2022;6;4; 105 ;Emily Lizz;Charles Gordon;Male;34;Middle Age;Miami;United States
+1009;23/02/2022;Sandles;Footwear; 38 ; 69 ; 897 ;29;Delivered;26/02/2022;3;2; 899 ;Chris Jordan;Pamela Holmes;Male;54;Senior;Atlanta;United States
+1010;05/10/2022;Laptop;Electronics; 79 ; 90 ; 249 ;23;Delivered;07/10/2022;2;4; 253 ;Lisa Rizi;Kimberly Ferguson;Male;36;Middle Age;Los Angeles;United States
+1011;12/05/2022;Smartphone;Electronics; 85 ; 113 ; 947 ;34;Delivered;15/05/2022;3;5; 952 ;Emily Lizz;Robert Garcia;Male;57;Senior;Miami;United States
+1012;01/02/2022;Sandles;Footwear; 32 ; 63 ; 1.361 ;44;Delivered;06/02/2022;2;3; 1.364 ;Arnold Fazer;Ricardo Sanchez;Male;18;Young;Miami;United States
+1013;26/07/2022;Washing Machine;Appliances; 21 ; 44 ; 341 ;15;Delivered;31/07/2022;5;4; 345 ;Chris Jordan;Nancy Hall;Male;51;Senior;Houston;United States
+1014;30/11/2022;Smartphone;Electronics; 74 ; 95 ; 814 ;39;Delivered;03/12/2022;3;5; 819 ;David Willy;Joseph Hampton;Male;41;Middle Age;Chicago;United States
+1015;05/09/2022;Laptop;Electronics; 74 ; 107 ; 29 ;1;Delivered;10/09/2022;5;4; 33 ;Arnold Fazer;Tiffany Hernandez;Male;36;Middle Age;Houston;United States
+1016;11/04/2022;T-shirt;Clothing; 72 ; 103 ; 1.237 ;40;Delivered;18/04/2022;1;3; 1.240 ;Emily Lizz;Barbara Hernandez;Male;36;Middle Age;Houston;United States
+1017;16/09/2022;Sneakers;Footwear; 75 ; 99 ; 1.197 ;50;Delivered;18/09/2022;2;3; 1.200 ;Arnold Fazer;Paula Long;Male;24;Young;Boston;United States
+1018;10/09/2022;Sneakers;Footwear; 65 ; 95 ; 776 ;26;Delivered;16/09/2022;6;4; 780 ;Chris Jordan;Sara Lewis;Male;57;Senior;Los Angeles;United States
+1019;26/10/2022;Jeans;Clothing; 43 ; 71 ; 220 ;8;Delivered;29/10/2022;3;4; 224 ;David Willy;Ronald Walker;Male;43;Middle Age;Boston;United States
+1020;08/11/2022;Refrigerator;Appliances; 20 ; 56 ; 320 ;9;Delivered;09/11/2022;1;4; 324 ;David Willy;Nicole Lawrence;Male;32;Middle Age;Atlanta;United States
+1021;20/01/2022;Sneakers;Footwear; 99 ; 111 ; 307 ;26;Delivered;21/01/2022;1;5; 312 ;Arnold Fazer;Denise Goodman;Male;41;Middle Age;Seattle;United States
+1022;17/02/2022;T-shirt;Clothing; 35 ; 47 ; 454 ;38;Delivered;24/02/2022;1;2; 456 ;Emily Lizz;Joshua Proctor;Male;47;Middle Age;Houston;United States
+1023;17/08/2022;Sandles;Footwear; 50 ; 71 ; 816 ;39;Delivered;18/08/2022;1;3; 819 ;Arnold Fazer;Lonnie Spencer;Male;52;Senior;Atlanta;United States
+1024;27/07/2022;Refrigerator;Appliances; 81 ; 95 ; 26 ;2;Delivered;03/08/2022;7;2; 28 ;David Willy;Lisa Miller;Male;52;Senior;San Francisco;United States
+1025;20/04/2022;Sneakers;Footwear; 93 ; 125 ; 446 ;14;Delivered;24/04/2022;4;2; 448 ;David Willy;Cindy Carter;Male;57;Senior;Los Angeles;United States
+1026;06/06/2022;Sneakers;Footwear; 46 ; 73 ; 970 ;36;Delivered;08/06/2022;2;2; 972 ;Lisa Rizi;Michael Shaw;Male;24;Young;Seattle;United States
+1027;15/12/2022;Jeans;Clothing; 46 ; 58 ; 416 ;35;Delivered;18/12/2022;3;4; 420 ;Chris Jordan;Steven Brown;Male;65;Senior;San Francisco;United States
+1028;06/11/2022;Refrigerator;Appliances; 44 ; 79 ; 1.501 ;43;Delivered;09/11/2022;3;4; 1.505 ;Arnold Fazer;Robert Goodman;Male;59;Senior;Seattle;United States
+1029;10/09/2022;Sandles;Footwear; 49 ; 83 ; 1.016 ;30;Delivered;13/09/2022;3;4; 1.020 ;Lisa Rizi;Renee Morgan;Male;59;Senior;Seattle;United States
+1030;23/06/2022;Watch;Accessories; 49 ; 72 ; 43 ;2;Delivered;27/06/2022;4;3; 46 ;Chris Jordan;Amy Wright;Male;29;Young;Washington, D.C.;United States
+1031;03/10/2022;Sandles;Footwear; 30 ; 47 ; 115 ;7;Delivered;08/10/2022;5;4; 119 ;Lisa Rizi;Karen Wright;Male;28;Young;Houston;United States
+1032;06/12/2022;Sneakers;Footwear; 83 ; 106 ; 663 ;29;Delivered;12/12/2022;6;4; 667 ;Arnold Fazer;Gilbert Martin;Male;26;Young;Chicago;United States
+1033;23/04/2022;Sneakers;Footwear; 56 ; 85 ; 403 ;14;Delivered;26/04/2022;3;3; 406 ;Lisa Rizi;Lori Watson;Male;46;Middle Age;Los Angeles;United States
+1034;10/03/2022;Jeans;Clothing; 40 ; 51 ; 171 ;16;Delivered;17/03/2022;7;5; 176 ;Emily Lizz;Ashley Savage;Male;29;Young;Chicago;United States
+1035;28/09/2022;Watch;Accessories; 83 ; 101 ; 32 ;2;Delivered;01/10/2022;3;4; 36 ;Lisa Rizi;Lauren Parsons;Male;45;Middle Age;Los Angeles;United States
+1036;01/10/2022;Laptop;Electronics; 92 ; 109 ; 218 ;13;Delivered;07/10/2022;6;3; 221 ;Chris Jordan;Nicholas Sullivan;Male;20;Young;Atlanta;United States
+1037;29/03/2022;Sneakers;Footwear; 91 ; 108 ; 472 ;28;Delivered;05/04/2022;7;4; 476 ;Emily Lizz;Gary Carr;Male;42;Middle Age;Washington, D.C.;United States
+1038;03/09/2022;Sandles;Footwear; 63 ; 90 ; 131 ;5;Delivered;09/09/2022;2;4; 135 ;David Willy;Richard Carlson;Male;37;Middle Age;Washington, D.C.;United States
+1039;17/11/2022;Laptop;Electronics; 36 ; 76 ; 116 ;3;Delivered;23/11/2022;6;4; 120 ;Lisa Rizi;Bruce Smith;Male;34;Middle Age;Seattle;United States
+1040;30/03/2022;Watch;Accessories; 26 ; 57 ; 618 ;20;Delivered;02/04/2022;3;2; 620 ;Chris Jordan;Chase Evans;Male;37;Middle Age;Seattle;United States
+1041;17/02/2022;Sneakers;Footwear; 37 ; 73 ; 1.580 ;44;Delivered;22/02/2022;5;4; 1.584 ;Arnold Fazer;David Elliott;Male;50;Middle Age;Chicago;United States
+1042;23/07/2022;Refrigerator;Appliances; 35 ; 60 ; 1.097 ;44;Delivered;26/07/2022;3;3; 1.100 ;Arnold Fazer;Mark Mcguire;Male;46;Middle Age;Miami;United States
+1043;13/04/2022;Refrigerator;Appliances; 94 ; 117 ; 964 ;42;Delivered;15/04/2022;2;2; 966 ;David Willy;Sara Diaz;Male;65;Senior;Los Angeles;United States
+1044;30/04/2022;Smartphone;Electronics; 42 ; 78 ; 139 ;4;Delivered;03/05/2022;3;5; 144 ;Lisa Rizi;Allen Fisher;Male;35;Middle Age;Miami;United States
+1045;18/12/2022;Sneakers;Footwear; 72 ; 90 ; 322 ;18;Delivered;19/12/2022;1;2; 324 ;David Willy;Timothy Brown;Male;28;Young;Houston;United States
+1046;14/09/2022;Sneakers;Footwear; 86 ; 111 ; 820 ;33;Delivered;18/09/2022;4;5; 825 ;Lisa Rizi;Justin Stevens;Male;62;Senior;Houston;United States
+1047;08/07/2022;Smartphone;Electronics; 96 ; 125 ; 780 ;27;Delivered;15/07/2022;7;3; 783 ;Arnold Fazer;Kristen Ferguson;Male;23;Young;Chicago;United States
+1048;19/11/2022;Sandles;Footwear; 93 ; 105 ; 511 ;43;Delivered;25/11/2022;2;5; 516 ;Arnold Fazer;Erica Jimenez;Male;46;Middle Age;San Francisco;United States
+1049;25/02/2022;Refrigerator;Appliances; 23 ; 46 ; 825 ;36;Delivered;02/03/2022;5;3; 828 ;Lisa Rizi;David Turner;Male;19;Young;Seattle;United States
+1050;18/01/2022;Refrigerator;Appliances; 92 ; 122 ; 295 ;10;Delivered;23/01/2022;5;5; 300 ;David Willy;Jennifer Martinez;Male;25;Young;Boston;United States
+1051;05/05/2022;T-shirt;Clothing; 99 ; 109 ; 128 ;13;Delivered;06/05/2022;1;2; 130 ;Arnold Fazer;Nicholas Kelley;Male;17;Young;Houston;United States
+1052;02/08/2022;Sandles;Footwear; 93 ; 121 ; 222 ;8;Delivered;05/08/2022;3;2; 224 ;Lisa Rizi;Morgan Campbell;Male;57;Senior;San Francisco;United States
+1053;03/09/2022;TV;Electronics; 23 ; 44 ; 1.003 ;48;Delivered;06/09/2022;3;5; 1.008 ;Chris Jordan;Andrea Ballard;Male;18;Young;Los Angeles;United States
+1054;17/11/2022;Smartphone;Electronics; 72 ; 102 ; 1.315 ;44;Delivered;21/11/2022;4;5; 1.320 ;Arnold Fazer;Mark Gibson;Male;59;Senior;Houston;United States
+1055;27/04/2022;Laptop;Electronics; 20 ; 30 ; 308 ;31;Delivered;30/04/2022;3;2; 310 ;Arnold Fazer;Nicole George;Male;48;Middle Age;Washington, D.C.;United States
+1056;10/01/2022;TV;Electronics; 47 ; 62 ; 521 ;35;Delivered;14/01/2022;4;4; 525 ;Arnold Fazer;James Johnson;Male;44;Middle Age;Los Angeles;United States
+1057;13/05/2022;Smartphone;Electronics; 64 ; 74 ; 198 ;20;Delivered;20/05/2022;7;2; 200 ;Arnold Fazer;Alexander Cole;Male;17;Young;Seattle;United States
+1058;11/03/2022;TV;Electronics; 68 ; 106 ; 1.670 ;44;Delivered;14/03/2022;3;2; 1.672 ;Chris Jordan;Jerome Acosta;Male;57;Senior;Houston;United States
+1059;12/07/2022;Sneakers;Footwear; 58 ; 93 ; 837 ;24;Delivered;15/07/2022;3;3; 840 ;Arnold Fazer;Danielle Gray;Male;45;Middle Age;Los Angeles;United States
+1060;27/08/2022;Smartphone;Electronics; 29 ; 44 ; 476 ;32;Delivered;03/09/2022;7;4; 480 ;Chris Jordan;Tina Thomas;Male;62;Senior;Chicago;United States
+1061;21/07/2022;T-shirt;Clothing; 94 ; 125 ; 429 ;14;Delivered;23/07/2022;1;5; 434 ;Lisa Rizi;Andrew Kim;Male;24;Young;Houston;United States
+1062;15/05/2022;Laptop;Electronics; 54 ; 71 ; 677 ;40;Delivered;22/05/2022;7;3; 680 ;Emily Lizz;Dr. Kelly Cooper DDS;Male;35;Middle Age;Miami;United States
+1063;07/06/2022;Smartphone;Electronics; 75 ; 93 ; 878 ;49;Delivered;10/06/2022;3;4; 882 ;David Willy;Tammy Marsh;Male;19;Young;Boston;United States
+1064;15/02/2022;Sandles;Footwear; 89 ; 110 ; 19 ;1;Delivered;17/02/2022;2;2; 21 ;David Willy;Nathan Chen;Male;28;Young;Chicago;United States
+1065;11/09/2022;Laptop;Electronics; 92 ; 113 ; 247 ;12;Delivered;12/09/2022;1;5; 252 ;David Willy;Luis Taylor Jr.;Male;45;Middle Age;Boston;United States
+1066;22/01/2022;Smartphone;Electronics; 96 ; 114 ; 67 ;4;Delivered;28/01/2022;6;5; 72 ;Arnold Fazer;Lindsey Rojas;Male;35;Middle Age;Houston;United States
+1067;21/05/2022;Sneakers;Footwear; 35 ; 58 ; 273 ;12;Delivered;26/05/2022;5;3; 276 ;Emily Lizz;Mr. Nicholas Hansen;Male;38;Middle Age;Miami;United States
+1068;19/11/2022;Sneakers;Footwear; 81 ; 106 ; 770 ;31;Delivered;20/11/2022;1;5; 775 ;Arnold Fazer;Robert Taylor;Male;16;Young;Boston;United States
+1069;27/10/2022;Jeans;Clothing; 83 ; 108 ; 747 ;30;Delivered;03/11/2022;7;3; 750 ;Emily Lizz;Paul Zhang;Male;31;Middle Age;Atlanta;United States
+1070;17/02/2022;Sandles;Footwear; 59 ; 73 ; 415 ;30;Delivered;23/02/2022;2;5; 420 ;Arnold Fazer;David Harris;Male;58;Senior;San Francisco;United States
+1071;26/03/2022;Jeans;Clothing; 95 ; 121 ; 1.194 ;46;Delivered;31/03/2022;5;2; 1.196 ;Lisa Rizi;Edward Baxter;Male;61;Senior;San Francisco;United States
+1072;17/05/2022;Laptop;Electronics; 90 ; 108 ; 716 ;40;Delivered;18/05/2022;1;4; 720 ;Chris Jordan;Tammy Schwartz;Male;47;Middle Age;Houston;United States
+1073;29/01/2022;Laptop;Electronics; 54 ; 89 ; 1.503 ;43;Delivered;05/02/2022;7;2; 1.505 ;David Willy;Lindsay Griffith;Male;54;Senior;Houston;United States
+1074;24/08/2022;Sneakers;Footwear; 52 ; 85 ; 953 ;29;Delivered;29/08/2022;5;4; 957 ;Chris Jordan;John Butler;Male;27;Young;Washington, D.C.;United States
+1075;31/05/2022;Smartphone;Electronics; 67 ; 92 ; 548 ;22;Delivered;06/06/2022;6;2; 550 ;David Willy;Alexandria Jackson;Male;43;Middle Age;Atlanta;United States
+1076;07/07/2022;Laptop;Electronics; 62 ; 83 ; 1.026 ;49;Delivered;11/07/2022;4;3; 1.029 ;Chris Jordan;Jennifer Hicks;Male;38;Middle Age;Houston;United States
+1077;06/02/2022;Refrigerator;Appliances; 75 ; 104 ; 605 ;21;Delivered;09/02/2022;3;4; 609 ;Lisa Rizi;Karen Mcdonald;Male;34;Middle Age;Atlanta;United States
+1078;11/10/2022;Jeans;Clothing; 28 ; 38 ; 167 ;17;Delivered;16/10/2022;5;3; 170 ;Arnold Fazer;Taylor Black;Male;49;Middle Age;Chicago;United States
+1079;16/12/2022;Sneakers;Footwear; 65 ; 87 ; 457 ;21;Delivered;18/12/2022;2;5; 462 ;Lisa Rizi;Michelle Reyes;Male;48;Middle Age;Seattle;United States
+1080;23/08/2022;Laptop;Electronics; 89 ; 129 ; 1.837 ;46;Delivered;24/08/2022;1;3; 1.840 ;Lisa Rizi;Russell Gutierrez;Male;38;Middle Age;Los Angeles;United States
+1081;18/04/2022;Smartphone;Electronics; 49 ; 79 ; 867 ;29;Delivered;25/04/2022;7;3; 870 ;Arnold Fazer;Jerry Villanueva;Male;41;Middle Age;Boston;United States
+1082;03/04/2022;Refrigerator;Appliances; 96 ; 108 ; 106 ;9;Delivered;10/04/2022;7;2; 108 ;Emily Lizz;Benjamin Rodriguez;Male;30;Young;Atlanta;United States
+1083;21/07/2022;Washing Machine;Appliances; 24 ; 39 ; 718 ;48;Delivered;23/07/2022;2;2; 720 ;Emily Lizz;Debra Smith;Male;38;Middle Age;Boston;United States
+1084;04/04/2022;Refrigerator;Appliances; 87 ; 125 ; 73 ;2;Delivered;07/04/2022;3;3; 76 ;Emily Lizz;Kimberly Bailey;Male;33;Middle Age;Atlanta;United States
+1085;20/02/2022;Watch;Accessories; 91 ; 114 ; 849 ;37;Delivered;22/02/2022;2;2; 851 ;Emily Lizz;John Kennedy;Male;32;Middle Age;San Francisco;United States
+1086;29/11/2022;Watch;Accessories; 89 ; 126 ; 367 ;10;Delivered;03/12/2022;4;3; 370 ;David Willy;John Williams;Male;43;Middle Age;Boston;United States
+1087;04/02/2022;Washing Machine;Appliances; 56 ; 67 ; 204 ;19;Delivered;06/02/2022;2;5; 209 ;Arnold Fazer;Wendy Ritter;Male;42;Middle Age;Boston;United States
+1088;02/04/2022;Washing Machine;Appliances; 39 ; 60 ; 395 ;19;Delivered;06/04/2022;4;4; 399 ;Lisa Rizi;Tommy Zhang;Male;30;Young;Miami;United States
+1089;14/05/2022;TV;Electronics; 26 ; 49 ; 596 ;26;Delivered;15/05/2022;1;2; 598 ;Emily Lizz;Emma Mccall;Male;42;Middle Age;San Francisco;United States
+1090;30/11/2022;Sandles;Footwear; 99 ; 126 ; 672 ;25;Delivered;01/12/2022;1;3; 675 ;David Willy;Shannon Garcia;Male;29;Young;Chicago;United States
+1091;03/12/2022;TV;Electronics; 24 ; 35 ; 260 ;24;Delivered;10/12/2022;7;4; 264 ;Arnold Fazer;Sophia Hernandez;Male;29;Young;Los Angeles;United States
+1092;24/11/2022;Washing Machine;Appliances; 25 ; 55 ; 1.136 ;38;Delivered;27/11/2022;3;4; 1.140 ;Lisa Rizi;Crystal Young;Male;56;Senior;Washington, D.C.;United States
+1093;01/03/2022;Sandles;Footwear; 49 ; 81 ; 348 ;11;Delivered;06/03/2022;5;4; 352 ;Emily Lizz;Jill Smith DDS;Male;40;Middle Age;Houston;United States
+1094;09/09/2022;Sandles;Footwear; 81 ; 118 ; 1.515 ;41;Delivered;15/09/2022;6;2; 1.517 ;Chris Jordan;Amy Rice;Male;36;Middle Age;Houston;United States
+1095;12/10/2022;Sandles;Footwear; 55 ; 78 ; 273 ;12;Delivered;19/10/2022;2;3; 276 ;Lisa Rizi;Caitlyn Frank;Male;27;Young;Miami;United States
+1096;06/07/2022;Laptop;Electronics; 57 ; 90 ; 987 ;30;Delivered;07/07/2022;1;3; 990 ;David Willy;Natalie Benson;Male;54;Senior;Houston;United States
+1097;30/03/2022;TV;Electronics; 27 ; 48 ; 794 ;38;Delivered;05/04/2022;6;4; 798 ;Arnold Fazer;Craig Perez;Male;39;Middle Age;San Francisco;United States
+1098;20/06/2022;Sneakers;Footwear; 21 ; 42 ; 1.026 ;49;Delivered;25/06/2022;5;3; 1.029 ;Arnold Fazer;Kathleen Riley;Male;34;Middle Age;San Francisco;United States
+1099;18/08/2022;Watch;Accessories; 69 ; 99 ; 1.048 ;35;Delivered;19/08/2022;1;2; 1.050 ;Chris Jordan;Judith Reed;Male;32;Middle Age;Houston;United States
+1100;02/08/2022;Refrigerator;Appliances; 44 ; 68 ; 837 ;35;Delivered;06/08/2022;4;3; 840 ;Chris Jordan;Jason Sharp;Male;25;Young;Washington, D.C.;United States
+1101;03/06/2022;Jeans;Clothing; 87 ; 123 ; 1.148 ;32;Delivered;06/06/2022;3;4; 1.152 ;David Willy;Brandi Beltran;Male;65;Senior;Atlanta;United States
+1102;27/08/2022;Watch;Accessories; 70 ; 105 ; 1.432 ;41;Delivered;29/08/2022;2;3; 1.435 ;Chris Jordan;James Young;Male;57;Senior;Washington, D.C.;United States
+1103;19/11/2022;Jeans;Clothing; 92 ; 130 ; 1.630 ;43;Delivered;21/11/2022;2;4; 1.634 ;Lisa Rizi;Stephen Montes;Male;38;Middle Age;New York;United States
+1104;23/01/2022;Refrigerator;Appliances; 72 ; 86 ; 304 ;22;Delivered;30/01/2022;7;4; 308 ;Chris Jordan;Carly Scott;Male;24;Young;Los Angeles;United States
+1105;23/04/2022;Laptop;Electronics; 45 ; 59 ; 683 ;49;Delivered;29/04/2022;6;3; 686 ;David Willy;Michael Collins;Male;21;Young;Boston;United States
+1106;06/05/2022;Jeans;Clothing; 55 ; 77 ; 393 ;18;Delivered;10/05/2022;4;3; 396 ;David Willy;David Terry;Male;16;Young;Washington, D.C.;United States
+1107;01/07/2022;Washing Machine;Appliances; 92 ; 118 ; 388 ;15;Delivered;03/07/2022;2;2; 390 ;Arnold Fazer;Linda Mullins;Male;56;Senior;New York;United States
+1108;24/08/2022;T-shirt;Clothing; 49 ; 59 ; 188 ;19;Delivered;28/08/2022;1;2; 190 ;Lisa Rizi;Randy Vargas;Male;28;Young;Houston;United States
+1109;21/04/2022;Sneakers;Footwear; 29 ; 45 ; 797 ;50;Delivered;25/04/2022;4;3; 800 ;Chris Jordan;Robin Garcia;Male;28;Young;Seattle;United States
+1110;05/04/2022;T-shirt;Clothing; 26 ; 40 ; 208 ;15;Delivered;10/04/2022;1;2; 210 ;Chris Jordan;Rebecca Jones;Male;43;Middle Age;Houston;United States
+1111;22/02/2022;Sandles;Footwear; 87 ; 116 ; 983 ;34;Delivered;26/02/2022;4;3; 986 ;Lisa Rizi;Susan Lang;Male;22;Young;Seattle;United States
+1112;13/06/2022;Washing Machine;Appliances; 85 ; 115 ; 1.346 ;45;Delivered;16/06/2022;3;4; 1.350 ;Emily Lizz;Breanna Rivera;Male;52;Senior;Atlanta;United States
+1113;28/04/2022;Jeans;Clothing; 28 ; 52 ; 332 ;14;Delivered;03/05/2022;5;4; 336 ;Chris Jordan;Lance Beasley;Male;64;Senior;Chicago;United States
+1114;23/11/2022;Laptop;Electronics; 51 ; 62 ; 295 ;27;Delivered;27/11/2022;4;2; 297 ;Arnold Fazer;Richard Curry;Male;49;Middle Age;San Francisco;United States
+1115;21/03/2022;Smartphone;Electronics; 73 ; 90 ; 100 ;6;Delivered;24/03/2022;3;2; 102 ;Chris Jordan;Jorge Jenkins;Male;60;Senior;Seattle;United States
+1116;25/01/2022;Refrigerator;Appliances; 53 ; 93 ; 1.236 ;31;Delivered;29/01/2022;4;4; 1.240 ;Lisa Rizi;Miranda Stone;Male;27;Young;Washington, D.C.;United States
+1117;15/12/2022;Watch;Accessories; 87 ; 127 ; 915 ;23;Delivered;19/12/2022;4;5; 920 ;Lisa Rizi;Ronald Cruz;Male;56;Senior;New York;United States
+1118;29/10/2022;T-shirt;Clothing; 78 ; 111 ; 259 ;8;Delivered;02/11/2022;1;5; 264 ;Emily Lizz;Larry Jordan;Male;58;Senior;Houston;United States
+1119;03/07/2022;TV;Electronics; 43 ; 71 ; 1.146 ;41;Delivered;07/07/2022;4;2; 1.148 ;Emily Lizz;Audrey Vasquez;Male;36;Middle Age;Miami;United States
+1120;29/10/2022;Washing Machine;Appliances; 100 ; 136 ; 394 ;11;Delivered;31/10/2022;2;2; 396 ;Chris Jordan;Margaret Walker;Male;28;Young;Seattle;United States
+1121;03/11/2022;Sneakers;Footwear; 38 ; 61 ; 341 ;15;Delivered;08/11/2022;5;4; 345 ;Chris Jordan;Tracy Johnson;Male;30;Young;Atlanta;United States
+1122;05/03/2022;TV;Electronics; 95 ; 135 ; 517 ;13;Delivered;12/03/2022;7;3; 520 ;Chris Jordan;Destiny Mcclain MD;Male;45;Middle Age;Houston;United States
+1123;27/05/2022;Washing Machine;Appliances; 52 ; 64 ; 368 ;31;Delivered;30/05/2022;3;4; 372 ;Chris Jordan;Shawn West;Male;24;Young;Houston;United States
+1124;24/10/2022;Laptop;Electronics; 66 ; 102 ; 502 ;14;Delivered;27/10/2022;3;2; 504 ;Lisa Rizi;Wanda Hill PhD;Male;57;Senior;New York;United States
+1125;17/09/2022;T-shirt;Clothing; 82 ; 111 ; 1.100 ;38;Delivered;18/09/2022;1;2; 1.102 ;Arnold Fazer;Stacey Walker;Male;53;Senior;Houston;United States
+1126;03/11/2022;T-shirt;Clothing; 42 ; 53 ; 140 ;13;Delivered;08/11/2022;1;3; 143 ;David Willy;Andrea Santiago;Male;57;Senior;Houston;United States
+1127;20/02/2022;Washing Machine;Appliances; 41 ; 78 ; 181 ;5;Delivered;26/02/2022;6;4; 185 ;Lisa Rizi;Nathaniel Brown PhD;Male;32;Middle Age;Atlanta;United States
+1128;05/12/2022;TV;Electronics; 60 ; 83 ; 179 ;8;Delivered;12/12/2022;7;5; 184 ;David Willy;David Richardson;Male;40;Middle Age;San Francisco;United States
+1129;23/02/2022;Sandles;Footwear; 79 ; 89 ; 195 ;20;Delivered;01/03/2022;2;5; 200 ;Emily Lizz;Lorraine Martinez;Male;60;Senior;Washington, D.C.;United States
+1130;11/05/2022;Laptop;Electronics; 53 ; 85 ; 1.182 ;37;Delivered;16/05/2022;5;2; 1.184 ;Arnold Fazer;Karen Harrison;Male;57;Senior;Los Angeles;United States
+1131;25/05/2022;Watch;Accessories; 20 ; 46 ; 986 ;38;Delivered;28/05/2022;3;2; 988 ;David Willy;Alyssa Patterson;Male;60;Senior;Los Angeles;United States
+1132;03/04/2022;Jeans;Clothing; 37 ; 53 ; 301 ;19;Delivered;09/04/2022;6;3; 304 ;Lisa Rizi;Paul Martin;Male;44;Middle Age;Houston;United States
+1133;08/04/2022;Laptop;Electronics; 24 ; 34 ; 328 ;33;Delivered;15/04/2022;7;2; 330 ;David Willy;Jill Burton;Male;27;Young;Los Angeles;United States
+1134;14/01/2022;Jeans;Clothing; 53 ; 71 ; 841 ;47;Delivered;18/01/2022;4;5; 846 ;Emily Lizz;Ronnie Weber;Male;17;Young;Miami;United States
+1135;20/10/2022;Washing Machine;Appliances; 47 ; 73 ; 1.296 ;50;Delivered;25/10/2022;5;4; 1.300 ;Emily Lizz;Jonathan Cabrera;Male;58;Senior;San Francisco;United States
+1136;20/09/2022;Sneakers;Footwear; 59 ; 86 ; 239 ;9;Delivered;26/09/2022;6;4; 243 ;Arnold Fazer;James Wilson;Male;23;Young;Boston;United States
+1137;09/09/2022;Sneakers;Footwear; 37 ; 73 ; 70 ;2;Delivered;15/09/2022;6;2; 72 ;Emily Lizz;Ronald Byrd;Male;38;Middle Age;Boston;United States
+1138;02/07/2022;Sandles;Footwear; 57 ; 90 ; 457 ;14;Delivered;03/07/2022;1;5; 462 ;Lisa Rizi;Evan Mitchell;Male;31;Middle Age;Los Angeles;United States
+1139;23/09/2022;Washing Machine;Appliances; 50 ; 81 ; 57 ;2;Delivered;26/09/2022;3;5; 62 ;Emily Lizz;Andrea Larsen;Male;58;Senior;Chicago;United States
+1140;13/02/2022;Laptop;Electronics; 65 ; 105 ; 1.478 ;37;Delivered;17/02/2022;4;2; 1.480 ;Arnold Fazer;Timothy Durham;Male;25;Young;Houston;United States
+1141;12/05/2022;Sneakers;Footwear; 36 ; 54 ; 843 ;47;Delivered;15/05/2022;3;3; 846 ;Emily Lizz;Ashley Henry;Male;48;Middle Age;Washington, D.C.;United States
+1142;08/11/2022;Smartphone;Electronics; 33 ; 65 ; 1.054 ;33;Delivered;15/11/2022;7;2; 1.056 ;Chris Jordan;Dr. James Gordon;Male;29;Young;Houston;United States
+1143;10/03/2022;Sandles;Footwear; 73 ; 101 ; 250 ;9;Delivered;17/03/2022;2;2; 252 ;Emily Lizz;Larry Silva;Male;27;Young;Miami;United States
+1144;10/02/2022;T-shirt;Clothing; 80 ; 98 ; 718 ;40;Delivered;12/02/2022;1;2; 720 ;Emily Lizz;Shannon Day;Male;32;Middle Age;Houston;United States
+1145;05/01/2022;Smartphone;Electronics; 47 ; 76 ; 605 ;21;Delivered;08/01/2022;3;4; 609 ;Lisa Rizi;Vincent Anderson;Male;45;Middle Age;Washington, D.C.;United States
+1146;05/11/2022;Sandles;Footwear; 82 ; 94 ; 513 ;43;Delivered;06/11/2022;1;3; 516 ;Emily Lizz;Kimberly Henderson;Male;45;Middle Age;Seattle;United States
+1147;25/08/2022;Washing Machine;Appliances; 24 ; 61 ; 736 ;20;Delivered;01/09/2022;7;4; 740 ;Emily Lizz;Michelle Williams;Male;40;Middle Age;San Francisco;United States
+1148;15/12/2022;Jeans;Clothing; 33 ; 49 ; 333 ;21;Delivered;19/12/2022;4;3; 336 ;Chris Jordan;William Colon;Male;61;Senior;Chicago;United States
+1149;28/05/2022;TV;Electronics; 83 ; 97 ; 487 ;35;Delivered;04/06/2022;7;3; 490 ;David Willy;Joseph Roberts;Male;49;Middle Age;Miami;United States
+1150;16/02/2022;Washing Machine;Appliances; 85 ; 116 ; 213 ;7;Delivered;23/02/2022;7;4; 217 ;Lisa Rizi;Keith Reynolds;Male;62;Senior;San Francisco;United States
+1151;26/04/2022;Jeans;Clothing; 77 ; 94 ; 320 ;19;Delivered;02/05/2022;6;3; 323 ;Arnold Fazer;James Aguirre;Male;58;Senior;Boston;United States
+1152;05/03/2022;Sneakers;Footwear; 64 ; 77 ; 556 ;43;Delivered;12/03/2022;7;3; 559 ;Chris Jordan;Brian Gomez;Male;27;Young;Washington, D.C.;United States
+1153;13/07/2022;Watch;Accessories; 55 ; 75 ; 856 ;43;Delivered;16/07/2022;3;4; 860 ;Lisa Rizi;William Walker;Male;36;Middle Age;Washington, D.C.;United States
+1154;12/12/2022;T-shirt;Clothing; 52 ; 85 ; 1.547 ;47;Delivered;17/12/2022;1;4; 1.551 ;Arnold Fazer;Ronald Bass;Male;56;Senior;Houston;United States
+1155;06/06/2022;Watch;Accessories; 85 ; 98 ; 607 ;47;Delivered;11/06/2022;5;4; 611 ;Lisa Rizi;Jason Griffin;Male;20;Young;Miami;United States
+1156;01/09/2022;T-shirt;Clothing; 53 ; 80 ; 535 ;20;Delivered;02/09/2022;1;5; 540 ;David Willy;Cheyenne Hunt;Male;44;Middle Age;Houston;United States
+1157;18/03/2022;T-shirt;Clothing; 37 ; 72 ; 1.116 ;32;Delivered;24/03/2022;1;4; 1.120 ;Lisa Rizi;Matthew Odonnell;Male;19;Young;Houston;United States
+1158;02/01/2022;T-shirt;Clothing; 45 ; 68 ; 365 ;16;Delivered;06/01/2022;1;3; 368 ;Arnold Fazer;Mercedes Wells;Male;42;Middle Age;Houston;United States
+1159;14/08/2022;Jeans;Clothing; 85 ; 101 ; 317 ;20;Delivered;15/08/2022;1;3; 320 ;Arnold Fazer;Anthony Brown;Male;51;Senior;Los Angeles;United States
+1160;07/12/2022;Sneakers;Footwear; 88 ; 119 ; 988 ;32;Delivered;11/12/2022;4;4; 992 ;Lisa Rizi;Michelle Taylor;Male;54;Senior;Los Angeles;United States
+1161;11/07/2022;Sandles;Footwear; 55 ; 82 ; 859 ;32;Delivered;13/07/2022;2;5; 864 ;Chris Jordan;Mark Spencer;Male;37;Middle Age;Atlanta;United States
+1162;20/01/2022;Refrigerator;Appliances; 57 ; 87 ; 236 ;8;Delivered;21/01/2022;1;4; 240 ;Arnold Fazer;Anita Bennett;Male;64;Senior;Houston;United States
+1163;21/02/2022;Refrigerator;Appliances; 83 ; 101 ; 499 ;28;Delivered;23/02/2022;2;5; 504 ;Emily Lizz;Adam Gonzalez IV;Male;63;Senior;Boston;United States
+1164;26/12/2022;TV;Electronics; 100 ; 135 ; 697 ;20;Delivered;28/12/2022;2;3; 700 ;David Willy;Brandon Bryant;Male;27;Young;Boston;United States
+1165;07/10/2022;Smartphone;Electronics; 74 ; 106 ; 1.563 ;49;Delivered;08/10/2022;1;5; 1.568 ;Chris Jordan;Samantha Higgins;Male;29;Young;Washington, D.C.;United States
+1166;20/10/2022;T-shirt;Clothing; 55 ; 86 ; 60 ;2;Delivered;26/10/2022;1;2; 62 ;Lisa Rizi;Mrs. Sheryl Patton;Male;59;Senior;Houston;United States
+1167;20/10/2022;Jeans;Clothing; 42 ; 76 ; 440 ;13;Delivered;26/10/2022;6;2; 442 ;Lisa Rizi;Emily Butler;Male;33;Middle Age;San Francisco;United States
+1168;15/10/2022;Sneakers;Footwear; 70 ; 87 ; 134 ;8;Delivered;18/10/2022;3;2; 136 ;Emily Lizz;Hannah Nelson;Male;64;Senior;Boston;United States
+1169;18/06/2022;Washing Machine;Appliances; 86 ; 113 ; 265 ;10;Delivered;20/06/2022;2;5; 270 ;Lisa Rizi;Susan Anderson;Male;59;Senior;Miami;United States
+1170;13/11/2022;Smartphone;Electronics; 22 ; 45 ; 985 ;43;Delivered;16/11/2022;3;4; 989 ;Arnold Fazer;Eric Cole;Male;23;Young;Washington, D.C.;United States
+1171;18/01/2022;Refrigerator;Appliances; 61 ; 95 ; 641 ;19;Delivered;22/01/2022;4;5; 646 ;Emily Lizz;Kathryn Whitaker;Male;19;Young;Atlanta;United States
+1172;24/12/2022;TV;Electronics; 56 ; 86 ; 177 ;6;Delivered;30/12/2022;6;3; 180 ;Chris Jordan;Jeffrey Richardson;Male;65;Senior;Chicago;United States
+1173;07/10/2022;Washing Machine;Appliances; 72 ; 109 ; 662 ;18;Delivered;10/10/2022;3;4; 666 ;Chris Jordan;Mallory Collins;Male;63;Senior;San Francisco;United States
+1174;13/02/2022;Jeans;Clothing; 92 ; 104 ; 560 ;47;Delivered;19/02/2022;6;4; 564 ;Emily Lizz;Jennifer Diaz;Male;17;Young;Seattle;United States
+1175;24/12/2022;T-shirt;Clothing; 21 ; 42 ; 733 ;35;Delivered;25/12/2022;1;2; 735 ;Lisa Rizi;Justin Shaffer;Male;23;Young;Houston;United States
+1176;28/04/2022;Sandles;Footwear; 34 ; 54 ; 396 ;20;Delivered;02/05/2022;2;4; 400 ;Emily Lizz;Christopher Lee;Male;23;Young;Chicago;United States
+1177;09/11/2022;Refrigerator;Appliances; 49 ; 65 ; 622 ;39;Delivered;14/11/2022;5;2; 624 ;Chris Jordan;Jason Baxter;Male;61;Senior;Atlanta;United States
+1178;18/07/2022;Refrigerator;Appliances; 34 ; 69 ; 976 ;28;Delivered;22/07/2022;4;4; 980 ;Lisa Rizi;Charles Hughes;Male;24;Young;Washington, D.C.;United States
+1179;24/01/2022;Sandles;Footwear; 51 ; 74 ; 366 ;16;Delivered;31/01/2022;2;2; 368 ;David Willy;Terry Hobbs;Male;44;Middle Age;Chicago;United States
+1180;11/06/2022;TV;Electronics; 54 ; 71 ; 522 ;31;Delivered;13/06/2022;2;5; 527 ;Arnold Fazer;Laura Anthony;Male;51;Senior;Miami;United States
+1181;22/06/2022;Laptop;Electronics; 31 ; 64 ; 656 ;20;Delivered;27/06/2022;5;4; 660 ;Lisa Rizi;Alexander Chen;Male;37;Middle Age;New York;United States
+1182;04/09/2022;Laptop;Electronics; 39 ; 64 ; 873 ;35;Delivered;09/09/2022;5;2; 875 ;Lisa Rizi;David Clarke;Male;50;Middle Age;Miami;United States
+1183;14/01/2022;Laptop;Electronics; 56 ; 77 ; 984 ;47;Delivered;15/01/2022;1;3; 987 ;Lisa Rizi;Daniel Love;Male;17;Young;Chicago;United States
+1184;24/07/2022;Smartphone;Electronics; 78 ; 113 ; 1.011 ;29;Delivered;31/07/2022;7;4; 1.015 ;Arnold Fazer;Kaitlyn Sherman;Male;41;Middle Age;Seattle;United States
+1185;15/10/2022;Watch;Accessories; 72 ; 103 ; 1.145 ;37;Delivered;22/10/2022;7;2; 1.147 ;Emily Lizz;Aaron Martin;Male;48;Middle Age;New York;United States
+1186;13/08/2022;Washing Machine;Appliances; 51 ; 81 ; 1.198 ;40;Delivered;14/08/2022;1;2; 1.200 ;Chris Jordan;Lisa Mitchell;Male;29;Young;Atlanta;United States
+1187;31/05/2022;Jeans;Clothing; 29 ; 68 ; 465 ;12;Delivered;07/06/2022;7;3; 468 ;Chris Jordan;Randy Atkinson;Male;30;Young;Atlanta;United States
+1188;03/05/2022;TV;Electronics; 89 ; 122 ; 556 ;17;Delivered;05/05/2022;2;5; 561 ;Emily Lizz;Alicia Lucero;Male;36;Middle Age;Chicago;United States
+1189;29/11/2022;Jeans;Clothing; 55 ; 81 ; 1.192 ;46;Delivered;01/12/2022;2;4; 1.196 ;Emily Lizz;John Molina;Male;17;Young;Chicago;United States
+1190;09/12/2022;TV;Electronics; 74 ; 90 ; 379 ;24;Delivered;12/12/2022;3;5; 384 ;Emily Lizz;Mr. Michael Gregory;Male;31;Middle Age;Seattle;United States
+1191;02/11/2022;Refrigerator;Appliances; 23 ; 61 ; 1.328 ;35;Delivered;09/11/2022;7;2; 1.330 ;Lisa Rizi;Barbara Nelson;Male;33;Middle Age;New York;United States
+1192;07/09/2022;Jeans;Clothing; 70 ; 94 ; 165 ;7;Delivered;09/09/2022;2;3; 168 ;Chris Jordan;Wendy Berg;Male;50;Middle Age;Chicago;United States
+1193;05/11/2022;Laptop;Electronics; 95 ; 112 ; 828 ;49;Delivered;09/11/2022;4;5; 833 ;Lisa Rizi;Alison Benton;Male;36;Middle Age;Washington, D.C.;United States
+1194;29/07/2022;Smartphone;Electronics; 96 ; 109 ; 138 ;11;Delivered;30/07/2022;1;5; 143 ;Lisa Rizi;Stephanie Pope;Male;48;Middle Age;Seattle;United States
+1195;28/11/2022;Sandles;Footwear; 31 ; 54 ; 1.146 ;50;Delivered;01/12/2022;3;4; 1.150 ;Lisa Rizi;Kenneth Robinson;Male;42;Middle Age;Seattle;United States
+1196;09/10/2022;Laptop;Electronics; 38 ; 64 ; 804 ;31;Delivered;16/10/2022;7;2; 806 ;Lisa Rizi;Sherri Coleman;Male;44;Middle Age;Washington, D.C.;United States
+1197;14/05/2022;TV;Electronics; 57 ; 79 ; 832 ;38;Delivered;18/05/2022;4;4; 836 ;David Willy;Shari Anthony;Male;26;Young;Washington, D.C.;United States
+1198;14/04/2022;Sandles;Footwear; 66 ; 83 ; 32 ;2;Delivered;19/04/2022;2;2; 34 ;David Willy;Whitney Ali;Male;23;Young;Washington, D.C.;United States
+1199;03/08/2022;Watch;Accessories; 59 ; 78 ; 262 ;14;Delivered;07/08/2022;4;4; 266 ;Lisa Rizi;Lori French;Male;43;Middle Age;Boston;United States
+1200;15/10/2022;Smartphone;Electronics; 80 ; 100 ; 35 ;2;Delivered;19/10/2022;4;5; 40 ;Chris Jordan;Stacey Escobar;Male;40;Middle Age;Houston;United States
+1201;08/08/2022;Sneakers;Footwear; 60 ; 93 ; 1.546 ;47;Delivered;15/08/2022;7;5; 1.551 ;Arnold Fazer;Jessica Howard;Male;32;Middle Age;Washington, D.C.;United States
+1202;30/09/2022;Smartphone;Electronics; 45 ; 84 ; 1.285 ;33;Delivered;06/10/2022;6;2; 1.287 ;David Willy;Stephanie Harvey;Male;46;Middle Age;Boston;United States
+1203;15/06/2022;Sneakers;Footwear; 100 ; 140 ; 1.758 ;44;Delivered;21/06/2022;6;2; 1.760 ;Chris Jordan;Lance Robinson;Male;63;Senior;Houston;United States
+1204;09/02/2022;T-shirt;Clothing; 87 ; 112 ; 998 ;40;Delivered;15/02/2022;1;2; 1.000 ;Chris Jordan;Roger Sullivan;Male;25;Young;Houston;United States
+1205;16/10/2022;Refrigerator;Appliances; 53 ; 68 ; 673 ;45;Delivered;19/10/2022;3;2; 675 ;David Willy;Joshua Lee;Male;53;Senior;San Francisco;United States
+1206;17/11/2022;Sneakers;Footwear; 69 ; 82 ; 372 ;29;Delivered;21/11/2022;4;5; 377 ;Emily Lizz;Jennifer Dickson;Male;48;Middle Age;Chicago;United States
+1207;17/01/2022;Watch;Accessories; 74 ; 86 ; 406 ;34;Delivered;22/01/2022;5;2; 408 ;Arnold Fazer;Frederick Myers;Male;33;Middle Age;New York;United States
+1208;24/03/2022;Laptop;Electronics; 62 ; 90 ; 1.256 ;45;Delivered;30/03/2022;6;4; 1.260 ;Arnold Fazer;Timothy King;Male;31;Middle Age;Chicago;United States
+1209;18/01/2022;Jeans;Clothing; 38 ; 56 ; 807 ;45;Delivered;21/01/2022;3;3; 810 ;Chris Jordan;Sally Nunez;Male;26;Young;Atlanta;United States
+1210;06/09/2022;Sandles;Footwear; 56 ; 72 ; 590 ;37;Delivered;12/09/2022;2;2; 592 ;David Willy;Jordan Clark;Male;64;Senior;Chicago;United States
+1211;11/05/2022;Refrigerator;Appliances; 33 ; 62 ; 256 ;9;Delivered;17/05/2022;6;5; 261 ;David Willy;Lisa Ingram;Male;50;Middle Age;Houston;United States
+1212;12/10/2022;Sandles;Footwear; 81 ; 95 ; 276 ;20;Delivered;14/10/2022;2;4; 280 ;Lisa Rizi;Casey Wheeler;Male;44;Middle Age;Boston;United States
+1213;29/10/2022;Smartphone;Electronics; 49 ; 89 ; 1.238 ;31;Delivered;30/10/2022;1;2; 1.240 ;Arnold Fazer;Wendy Brady;Male;23;Young;Washington, D.C.;United States
+1214;24/03/2022;Watch;Accessories; 48 ; 58 ; 87 ;9;Delivered;27/03/2022;3;3; 90 ;David Willy;Vanessa Patel;Male;57;Senior;Boston;United States
+1215;28/08/2022;Laptop;Electronics; 88 ; 101 ; 347 ;27;Delivered;29/08/2022;1;4; 351 ;Arnold Fazer;David Fleming;Male;33;Middle Age;Atlanta;United States
+1216;23/11/2022;Sneakers;Footwear; 40 ; 70 ; 866 ;29;Delivered;25/11/2022;2;4; 870 ;David Willy;Darlene Gonzalez;Male;32;Middle Age;Los Angeles;United States
+1217;16/02/2022;T-shirt;Clothing; 56 ; 92 ; 1.293 ;36;Delivered;19/02/2022;1;3; 1.296 ;Emily Lizz;Dean Berg;Male;59;Senior;New York;United States
+1218;24/09/2022;Smartphone;Electronics; 22 ; 59 ; 329 ;9;Delivered;25/09/2022;1;4; 333 ;Lisa Rizi;William Davis;Male;52;Senior;Atlanta;United States
+1219;16/05/2022;Jeans;Clothing; 93 ; 122 ; 810 ;28;Delivered;20/05/2022;4;2; 812 ;Lisa Rizi;Craig Murray;Male;46;Middle Age;Chicago;United States
+1220;03/08/2022;Jeans;Clothing; 44 ; 63 ; 359 ;19;Delivered;05/08/2022;2;2; 361 ;David Willy;Ana Clarke;Male;58;Senior;San Francisco;United States
+1221;06/04/2022;Jeans;Clothing; 94 ; 114 ; 658 ;33;Delivered;12/04/2022;6;2; 660 ;Emily Lizz;Aaron Sullivan;Male;42;Middle Age;Atlanta;United States
+1222;30/05/2022;TV;Electronics; 31 ; 71 ; - ;5;Cancelled;04/06/2022;5;5; - ;Lisa Rizi;Jonathan Washington;Male;45;Middle Age;Miami;United States
+1223;25/05/2022;Refrigerator;Appliances; 70 ; 96 ; 284 ;11;Delivered;29/05/2022;4;2; 286 ;Chris Jordan;Tracy Randall;Male;33;Middle Age;Boston;United States
+1224;08/02/2022;Jeans;Clothing; 80 ; 91 ; 162 ;15;Delivered;14/02/2022;6;3; 165 ;David Willy;Theodore Casey;Male;50;Middle Age;Washington, D.C.;United States
+1225;26/04/2022;Sneakers;Footwear; 81 ; 117 ; 466 ;13;Delivered;30/04/2022;4;2; 468 ;Chris Jordan;Amanda Young;Male;54;Senior;Houston;United States
+1226;18/02/2022;T-shirt;Clothing; 29 ; 50 ; 480 ;23;Delivered;20/02/2022;1;3; 483 ;Lisa Rizi;Kyle Jacobs;Male;62;Senior;Seattle;United States
+1227;11/10/2022;Sandles;Footwear; 96 ; 132 ; 1.400 ;39;Delivered;13/10/2022;2;4; 1.404 ;Chris Jordan;Nicholas Abbott;Male;40;Middle Age;Houston;United States
+1228;12/06/2022;Jeans;Clothing; 98 ; 108 ; 436 ;44;Delivered;14/06/2022;2;4; 440 ;Arnold Fazer;Robert Lewis;Male;64;Senior;Boston;United States
+1229;11/07/2022;Watch;Accessories; 34 ; 72 ; 72 ;2;Delivered;14/07/2022;3;4; 76 ;Chris Jordan;Alyssa Mcmillan;Male;29;Young;Washington, D.C.;United States
+1230;25/04/2022;TV;Electronics; 75 ; 86 ; 270 ;25;Delivered;02/05/2022;7;5; 275 ;Emily Lizz;Corey Gonzalez;Male;56;Senior;Atlanta;United States
+1231;05/09/2022;TV;Electronics; 51 ; 65 ; 221 ;16;Delivered;09/09/2022;4;3; 224 ;Lisa Rizi;Kevin Thomas;Male;64;Senior;Seattle;United States
+1232;24/10/2022;Sneakers;Footwear; 97 ; 137 ; 796 ;20;Delivered;30/10/2022;6;4; 800 ;Arnold Fazer;William Campbell;Male;57;Senior;Chicago;United States
+1233;20/04/2022;TV;Electronics; 39 ; 68 ; 140 ;5;Delivered;22/04/2022;2;5; 145 ;David Willy;Samantha Henson;Male;64;Senior;Boston;United States
+1234;07/08/2022;Refrigerator;Appliances; 21 ; 38 ; 593 ;35;Delivered;10/08/2022;3;2; 595 ;Lisa Rizi;Adriana George;Male;39;Middle Age;Seattle;United States
+1235;15/01/2022;Laptop;Electronics; 24 ; 42 ; 645 ;36;Delivered;21/01/2022;6;3; 648 ;Arnold Fazer;Lindsay Sharp;Male;40;Middle Age;Washington, D.C.;United States
+1236;30/04/2022;Jeans;Clothing; 43 ; 78 ; 1.045 ;30;Delivered;07/05/2022;7;5; 1.050 ;Arnold Fazer;Karina Villegas;Male;48;Middle Age;San Francisco;United States
+1237;19/12/2022;Laptop;Electronics; 37 ; 60 ; 271 ;12;Delivered;26/12/2022;7;5; 276 ;Emily Lizz;Benjamin Boone;Male;43;Middle Age;San Francisco;United States
+1238;21/12/2022;TV;Electronics; 100 ; 125 ; 573 ;23;Delivered;26/12/2022;5;2; 575 ;Emily Lizz;Reginald Harrison;Male;16;Young;Atlanta;United States
+1239;03/10/2022;Washing Machine;Appliances; 21 ; 43 ; 1.008 ;46;Delivered;06/10/2022;3;4; 1.012 ;Chris Jordan;Helen Jarvis;Male;27;Young;Los Angeles;United States
+1240;12/10/2022;Washing Machine;Appliances; 74 ; 88 ; 278 ;20;Delivered;19/10/2022;7;2; 280 ;Chris Jordan;Cassandra Wu;Male;24;Young;Seattle;United States
+1241;12/09/2022;TV;Electronics; 62 ; 94 ; 1.468 ;46;Delivered;15/09/2022;3;4; 1.472 ;Chris Jordan;Karen Martinez;Male;44;Middle Age;Seattle;United States
+1242;09/05/2022;Washing Machine;Appliances; 77 ; 87 ; 126 ;13;Delivered;15/05/2022;6;4; 130 ;Arnold Fazer;Brandy Kim;Male;31;Middle Age;Miami;United States
+1243;03/06/2022;TV;Electronics; 68 ; 92 ; 214 ;9;Delivered;04/06/2022;1;2; 216 ;Lisa Rizi;John Anderson;Male;56;Senior;Los Angeles;United States
+1244;22/07/2022;T-shirt;Clothing; 24 ; 42 ; 645 ;36;Delivered;27/07/2022;1;3; 648 ;Emily Lizz;Shawn Hughes;Male;45;Middle Age;Miami;United States
+1245;15/01/2022;Smartphone;Electronics; 23 ; 61 ; 1.401 ;37;Delivered;21/01/2022;6;5; 1.406 ;Chris Jordan;Cristina Dorsey;Male;58;Senior;San Francisco;United States
+1246;22/12/2022;Laptop;Electronics; 43 ; 79 ; 1.653 ;46;Delivered;28/12/2022;6;3; 1.656 ;Lisa Rizi;Thomas King;Male;57;Senior;Los Angeles;United States
+1247;01/07/2022;Washing Machine;Appliances; 43 ; 59 ; 444 ;28;Delivered;02/07/2022;1;4; 448 ;Chris Jordan;Victor Meyer;Male;54;Senior;Atlanta;United States
+1248;19/11/2022;Washing Machine;Appliances; 84 ; 102 ; 322 ;18;Delivered;25/11/2022;6;2; 324 ;Lisa Rizi;Andrew Howard;Male;62;Senior;Seattle;United States
+1249;14/03/2022;Washing Machine;Appliances; 96 ; 133 ; 1.846 ;50;Delivered;21/03/2022;7;4; 1.850 ;David Willy;Blake Peters;Male;21;Young;Houston;United States
+1250;14/10/2022;TV;Electronics; 71 ; 87 ; 268 ;17;Delivered;17/10/2022;3;4; 272 ;Chris Jordan;Timothy Newton;Male;19;Young;Atlanta;United States
+1251;10/10/2022;Sneakers;Footwear; 20 ; 48 ; 1.339 ;48;Delivered;17/10/2022;7;5; 1.344 ;Lisa Rizi;Yvonne Wright;Male;47;Middle Age;Seattle;United States
+1252;23/02/2022;Watch;Accessories; 38 ; 59 ; 206 ;10;Delivered;24/02/2022;1;4; 210 ;Lisa Rizi;Shannon Harmon;Male;64;Senior;San Francisco;United States
+1253;06/07/2022;Watch;Accessories; 57 ; 80 ; 1.147 ;50;Delivered;07/07/2022;1;3; 1.150 ;Emily Lizz;Kent Berger;Male;38;Middle Age;San Francisco;United States
+1254;27/01/2022;Washing Machine;Appliances; 29 ; 41 ; 405 ;34;Delivered;01/02/2022;5;3; 408 ;Chris Jordan;Craig Sanders;Male;54;Senior;San Francisco;United States
+1255;14/12/2022;Refrigerator;Appliances; 83 ; 109 ; 360 ;14;Delivered;19/12/2022;5;4; 364 ;Chris Jordan;Gregory Smith;Male;34;Middle Age;Houston;United States
+1256;26/01/2022;Jeans;Clothing; 90 ; 116 ; 958 ;37;Delivered;01/02/2022;6;4; 962 ;Lisa Rizi;Ashley Cunningham;Male;52;Senior;San Francisco;United States
+1257;17/06/2022;Watch;Accessories; 44 ; 57 ; 541 ;42;Delivered;24/06/2022;7;5; 546 ;Lisa Rizi;Shane Ward;Male;26;Young;Seattle;United States
+1258;13/11/2022;Watch;Accessories; 61 ; 71 ; 417 ;42;Delivered;17/11/2022;4;3; 420 ;Emily Lizz;Kevin Page;Male;18;Young;New York;United States
+1259;09/05/2022;Sandles;Footwear; 25 ; 54 ; 781 ;27;Delivered;10/05/2022;1;2; 783 ;David Willy;Jennifer Avery;Male;56;Senior;New York;United States
+1260;14/11/2022;Jeans;Clothing; 79 ; 103 ; 1.172 ;49;Delivered;20/11/2022;6;4; 1.176 ;Emily Lizz;Scott Moore;Male;39;Middle Age;Chicago;United States
+1261;12/04/2022;Sneakers;Footwear; 44 ; 55 ; 326 ;30;Delivered;14/04/2022;2;4; 330 ;Emily Lizz;Roy Sanchez;Male;37;Middle Age;Los Angeles;United States
+1262;20/01/2022;Washing Machine;Appliances; 97 ; 124 ; 1.049 ;39;Delivered;24/01/2022;4;4; 1.053 ;Emily Lizz;Nathan Hill;Male;36;Middle Age;Boston;United States
+1263;17/02/2022;Laptop;Electronics; 65 ; 97 ; 1.212 ;38;Delivered;20/02/2022;3;4; 1.216 ;Chris Jordan;Kimberly Martin;Male;36;Middle Age;Atlanta;United States
+1264;23/09/2022;TV;Electronics; 78 ; 117 ; 1.399 ;36;Delivered;26/09/2022;3;5; 1.404 ;Arnold Fazer;Bobby Brown;Male;55;Senior;Atlanta;United States
+1265;29/05/2022;Sneakers;Footwear; 89 ; 110 ; 669 ;32;Delivered;02/06/2022;4;3; 672 ;Lisa Rizi;Scott Wilson;Male;31;Middle Age;Miami;United States
+1266;17/03/2022;Refrigerator;Appliances; 27 ; 62 ; 908 ;26;Delivered;19/03/2022;2;2; 910 ;Chris Jordan;Valerie Reed;Male;42;Middle Age;Washington, D.C.;United States
+1267;26/01/2022;Washing Machine;Appliances; 80 ; 96 ; 92 ;6;Delivered;29/01/2022;3;4; 96 ;Emily Lizz;Jennifer Suarez;Male;18;Young;Washington, D.C.;United States
+1268;27/05/2022;Washing Machine;Appliances; 84 ; 124 ; 1.836 ;46;Delivered;02/06/2022;6;4; 1.840 ;David Willy;Jennifer Moran;Male;63;Senior;New York;United States
+1269;28/03/2022;Washing Machine;Appliances; 89 ; 128 ; 1.243 ;32;Delivered;30/03/2022;2;5; 1.248 ;Chris Jordan;Steven Smith;Male;18;Young;Atlanta;United States
+1270;08/02/2022;Laptop;Electronics; 77 ; 110 ; 589 ;18;Delivered;10/02/2022;2;5; 594 ;Arnold Fazer;Yvonne York;Male;22;Young;Houston;United States
+1271;06/04/2022;Smartphone;Electronics; 45 ; 85 ; 436 ;11;Delivered;12/04/2022;6;4; 440 ;Lisa Rizi;Stacy Kaiser;Male;60;Senior;Houston;United States
+1272;19/04/2022;T-shirt;Clothing; 49 ; 66 ; 14 ;1;Delivered;23/04/2022;1;3; 17 ;Emily Lizz;Mr. Christopher Brown;Male;26;Young;Atlanta;United States
+1273;03/07/2022;T-shirt;Clothing; 37 ; 52 ; 508 ;34;Delivered;09/07/2022;1;2; 510 ;Arnold Fazer;Jennifer Cruz;Male;17;Young;Houston;United States
+1274;31/07/2022;Jeans;Clothing; 34 ; 46 ; 177 ;15;Delivered;06/08/2022;6;3; 180 ;Emily Lizz;Tracey Cunningham;Male;53;Senior;Atlanta;United States
+1275;20/11/2022;Smartphone;Electronics; 40 ; 50 ; 275 ;28;Delivered;26/11/2022;6;5; 280 ;Emily Lizz;Monica Pittman;Male;29;Young;Boston;United States
+1276;22/01/2022;Refrigerator;Appliances; 99 ; 110 ; 96 ;9;Delivered;27/01/2022;5;3; 99 ;Lisa Rizi;Megan Atkins;Male;19;Young;Atlanta;United States
+1277;20/01/2022;Watch;Accessories; 79 ; 107 ; 360 ;13;Delivered;27/01/2022;7;4; 364 ;Arnold Fazer;Deborah Martin;Male;60;Senior;Boston;United States
+1278;10/09/2022;TV;Electronics; 95 ; 122 ; 916 ;34;Delivered;13/09/2022;3;2; 918 ;Chris Jordan;Annette Chavez;Male;18;Young;New York;United States
+1279;27/04/2022;Laptop;Electronics; 88 ; 100 ; 20 ;2;Delivered;04/05/2022;7;4; 24 ;Chris Jordan;Jennifer Murray;Male;16;Young;Seattle;United States
+1280;30/05/2022;Smartphone;Electronics; 92 ; 123 ; 709 ;23;Delivered;02/06/2022;3;4; 713 ;Emily Lizz;Katelyn Rogers;Male;65;Senior;Chicago;United States
+1281;16/02/2022;Watch;Accessories; 42 ; 82 ; 597 ;15;Delivered;21/02/2022;5;3; 600 ;Arnold Fazer;Andrea Hayes;Male;55;Senior;Washington, D.C.;United States
+1282;14/10/2022;TV;Electronics; 62 ; 92 ; 1.468 ;49;Delivered;20/10/2022;6;2; 1.470 ;Lisa Rizi;Megan Parker;Male;20;Young;Miami;United States
+1283;08/09/2022;T-shirt;Clothing; 86 ; 115 ; 867 ;30;Delivered;14/09/2022;1;3; 870 ;Lisa Rizi;Michael Stewart;Male;48;Middle Age;Washington, D.C.;United States
+1284;06/10/2022;Watch;Accessories; 62 ; 94 ; 862 ;27;Delivered;12/10/2022;6;2; 864 ;Chris Jordan;Dr. Mathew Cain;Male;21;Young;Boston;United States
+1285;16/04/2022;Watch;Accessories; 78 ; 100 ; 1.008 ;46;Delivered;22/04/2022;6;4; 1.012 ;Emily Lizz;Richard Brennan;Male;28;Young;Houston;United States
+1286;18/07/2022;TV;Electronics; 70 ; 101 ; 1.173 ;38;Delivered;25/07/2022;7;5; 1.178 ;Chris Jordan;Zachary Underwood;Male;35;Middle Age;San Francisco;United States
+1287;16/08/2022;Smartphone;Electronics; 53 ; 77 ; 285 ;12;Delivered;17/08/2022;1;3; 288 ;Lisa Rizi;Matthew Erickson;Male;45;Middle Age;Houston;United States
+1288;04/06/2022;Watch;Accessories; 25 ; 44 ; 188 ;10;Delivered;11/06/2022;7;2; 190 ;Arnold Fazer;Alexis Kelly;Male;25;Young;Houston;United States
+1289;02/08/2022;Watch;Accessories; 60 ; 87 ; 1.184 ;44;Delivered;08/08/2022;6;4; 1.188 ;Chris Jordan;Albert Smith;Male;24;Young;Los Angeles;United States
+1290;03/12/2022;Watch;Accessories; 67 ; 95 ; 1.145 ;41;Delivered;08/12/2022;5;3; 1.148 ;Arnold Fazer;Mark Ball;Male;21;Young;Seattle;United States
+1291;25/03/2022;Sandles;Footwear; 93 ; 111 ; 284 ;16;Delivered;31/03/2022;2;4; 288 ;David Willy;Jason Stevens;Male;27;Young;Washington, D.C.;United States
+1292;02/02/2022;TV;Electronics; 20 ; 48 ; 1.061 ;38;Delivered;07/02/2022;5;3; 1.064 ;David Willy;Allen Martin;Male;29;Young;Atlanta;United States
+1293;18/12/2022;TV;Electronics; 99 ; 110 ; 19 ;2;Delivered;20/12/2022;2;3; 22 ;David Willy;Mark Beard;Male;58;Senior;Atlanta;United States
+1294;07/02/2022;Washing Machine;Appliances; 95 ; 128 ; 755 ;23;Delivered;09/02/2022;2;4; 759 ;Arnold Fazer;Julie Smith;Male;37;Middle Age;Washington, D.C.;United States
+1295;23/01/2022;Washing Machine;Appliances; 96 ; 118 ; 812 ;37;Delivered;25/01/2022;2;2; 814 ;Emily Lizz;Elizabeth Russell;Male;20;Young;San Francisco;United States
+1296;27/09/2022;Jeans;Clothing; 46 ; 75 ; 1.418 ;49;Delivered;28/09/2022;1;3; 1.421 ;Lisa Rizi;Jessica Flowers;Male;24;Young;Seattle;United States
+1297;28/07/2022;Watch;Accessories; 75 ; 97 ; 105 ;5;Delivered;01/08/2022;4;5; 110 ;Chris Jordan;Susan Lutz;Male;22;Young;Chicago;United States
+1298;13/03/2022;Washing Machine;Appliances; 89 ; 119 ; 1.166 ;39;Delivered;17/03/2022;4;4; 1.170 ;Lisa Rizi;Linda Burke;Male;44;Middle Age;San Francisco;United States
+1299;13/01/2022;Watch;Accessories; 99 ; 123 ; 475 ;20;Delivered;17/01/2022;4;5; 480 ;David Willy;Alexandra Rowe;Male;43;Middle Age;Atlanta;United States
+1300;02/04/2022;TV;Electronics; 89 ; 114 ; 647 ;26;Delivered;07/04/2022;5;3; 650 ;Lisa Rizi;Katelyn Scott;Male;39;Middle Age;Seattle;United States
+1301;25/02/2022;Laptop;Electronics; 23 ; 41 ; 430 ;24;Delivered;03/03/2022;6;2; 432 ;David Willy;Carrie Vaughn;Male;27;Young;Chicago;United States
+1302;13/11/2022;T-shirt;Clothing; 42 ; 63 ; 607 ;29;Delivered;18/11/2022;1;2; 609 ;Arnold Fazer;Katie Williams;Male;42;Middle Age;New York;United States
+1303;05/09/2022;Sneakers;Footwear; 82 ; 101 ; 585 ;31;Delivered;10/09/2022;5;4; 589 ;Arnold Fazer;Diana Sosa;Male;52;Senior;Atlanta;United States
+1304;12/02/2022;Laptop;Electronics; 88 ; 98 ; 85 ;9;Delivered;18/02/2022;6;5; 90 ;Arnold Fazer;Jessica Chapman;Male;34;Middle Age;San Francisco;United States
+1305;06/09/2022;Laptop;Electronics; 74 ; 84 ; 368 ;37;Delivered;09/09/2022;3;2; 370 ;Arnold Fazer;David Rodriguez;Male;43;Middle Age;San Francisco;United States
+1306;03/07/2022;Laptop;Electronics; 80 ; 108 ; 305 ;11;Delivered;04/07/2022;1;3; 308 ;Chris Jordan;Rachel Campbell;Male;47;Middle Age;Houston;United States
+1307;11/01/2022;Smartphone;Electronics; 21 ; 58 ; 997 ;27;Delivered;17/01/2022;6;2; 999 ;Lisa Rizi;Leslie Reid;Male;17;Young;New York;United States
+1308;17/04/2022;Refrigerator;Appliances; 100 ; 120 ; 115 ;6;Delivered;20/04/2022;3;5; 120 ;Emily Lizz;Laurie Medina;Male;42;Middle Age;San Francisco;United States
+1309;19/12/2022;Refrigerator;Appliances; 62 ; 87 ; 821 ;33;Delivered;24/12/2022;5;4; 825 ;Arnold Fazer;Judith Martinez;Male;46;Middle Age;Chicago;United States
+1310;29/07/2022;Jeans;Clothing; 35 ; 46 ; 108 ;10;Delivered;31/07/2022;2;2; 110 ;Chris Jordan;Anna Ortega;Male;50;Middle Age;New York;United States
+1311;28/12/2022;Refrigerator;Appliances; 91 ; 131 ; 158 ;4;Delivered;01/01/2023;4;2; 160 ;Chris Jordan;Courtney Chan;Male;50;Middle Age;Houston;United States
+1312;10/11/2022;Smartphone;Electronics; 62 ; 76 ; 23 ;2;Delivered;12/11/2022;2;5; 28 ;David Willy;Charles Barber;Male;23;Young;Washington, D.C.;United States
+1313;11/09/2022;TV;Electronics; 67 ; 106 ; 583 ;15;Delivered;14/09/2022;3;2; 585 ;Arnold Fazer;Elizabeth Middleton;Male;16;Young;Atlanta;United States
+1314;16/01/2022;T-shirt;Clothing; 51 ; 71 ; 976 ;49;Delivered;23/01/2022;1;4; 980 ;David Willy;Kathleen Hunt;Male;34;Middle Age;Miami;United States
+1315;18/11/2022;Smartphone;Electronics; 61 ; 93 ; 412 ;13;Delivered;23/11/2022;5;4; 416 ;Chris Jordan;Michael Castro;Male;25;Young;New York;United States
+1316;21/01/2022;Washing Machine;Appliances; 50 ; 78 ; 276 ;10;Delivered;24/01/2022;3;4; 280 ;Arnold Fazer;Debra Diaz;Male;43;Middle Age;Seattle;United States
+1317;09/12/2022;Jeans;Clothing; 45 ; 63 ; 177 ;10;Delivered;15/12/2022;6;3; 180 ;David Willy;George Johnson;Male;48;Middle Age;Boston;United States
+1318;15/02/2022;TV;Electronics; 92 ; 106 ; 262 ;19;Delivered;18/02/2022;3;4; 266 ;Chris Jordan;Linda Sanders;Male;34;Middle Age;Houston;United States
+1319;10/10/2022;Jeans;Clothing; 37 ; 60 ; 688 ;30;Delivered;16/10/2022;6;2; 690 ;Arnold Fazer;Gary Duran;Male;23;Young;Seattle;United States
+1320;09/06/2022;Refrigerator;Appliances; 32 ; 42 ; 106 ;11;Delivered;14/06/2022;5;4; 110 ;Chris Jordan;Eric Johnson;Male;63;Senior;Chicago;United States
+1321;10/09/2022;Laptop;Electronics; 47 ; 82 ; 1.536 ;44;Delivered;14/09/2022;4;4; 1.540 ;Emily Lizz;Brian Arellano;Male;40;Middle Age;Atlanta;United States
+1322;21/06/2022;Washing Machine;Appliances; 33 ; 72 ; 973 ;25;Delivered;28/06/2022;7;2; 975 ;Emily Lizz;Kenneth Hutchinson;Male;37;Middle Age;Houston;United States
+1323;03/10/2022;Jeans;Clothing; 98 ; 114 ; 764 ;48;Delivered;10/10/2022;7;4; 768 ;Lisa Rizi;Kelly Rocha;Male;46;Middle Age;New York;United States
+1324;24/09/2022;Jeans;Clothing; 89 ; 122 ; 1.119 ;34;Delivered;28/09/2022;4;3; 1.122 ;David Willy;Robert Kaufman;Male;46;Middle Age;Los Angeles;United States
+1325;05/07/2022;T-shirt;Clothing; 27 ; 44 ; 729 ;43;Delivered;11/07/2022;1;2; 731 ;Arnold Fazer;Angela Williams;Male;29;Young;Atlanta;United States
+1326;24/04/2022;TV;Electronics; 67 ; 97 ; 386 ;13;Delivered;27/04/2022;3;4; 390 ;Lisa Rizi;Matthew Munoz;Male;33;Middle Age;Houston;United States
+1327;17/06/2022;TV;Electronics; 98 ; 116 ; 752 ;42;Delivered;19/06/2022;2;4; 756 ;David Willy;Xavier Perez MD;Male;41;Middle Age;Chicago;United States
+1328;20/04/2022;Refrigerator;Appliances; 48 ; 65 ; 539 ;32;Delivered;27/04/2022;7;5; 544 ;David Willy;Carla Briggs;Male;60;Senior;Boston;United States
+1329;28/12/2022;Jeans;Clothing; 28 ; 62 ; 1.321 ;39;Delivered;02/01/2023;5;5; 1.326 ;Lisa Rizi;Matthew Ramsey;Male;65;Senior;Houston;United States
+1330;01/06/2022;T-shirt;Clothing; 51 ; 69 ; 176 ;10;Delivered;04/06/2022;1;4; 180 ;David Willy;Henry Mcguire;Male;31;Middle Age;Miami;United States
+1331;24/04/2022;Washing Machine;Appliances; 87 ; 113 ; 335 ;13;Delivered;27/04/2022;3;3; 338 ;David Willy;Robin Rogers;Male;19;Young;San Francisco;United States
+1332;30/01/2022;Jeans;Clothing; 23 ; 41 ; 502 ;28;Delivered;04/02/2022;5;2; 504 ;Arnold Fazer;Rebecca Gordon;Male;55;Senior;Seattle;United States
+1333;19/09/2022;Sandles;Footwear; 53 ; 79 ; 335 ;13;Delivered;22/09/2022;3;3; 338 ;Arnold Fazer;Chad Spence;Male;49;Middle Age;San Francisco;United States
+1334;24/03/2022;Refrigerator;Appliances; 95 ; 108 ; 60 ;5;Delivered;26/03/2022;2;5; 65 ;Arnold Fazer;Alyssa Carroll;Male;17;Young;Chicago;United States
+1335;21/11/2022;TV;Electronics; 41 ; 75 ; 1.255 ;37;Delivered;23/11/2022;2;3; 1.258 ;Chris Jordan;Nathaniel Jefferson;Male;59;Senior;Chicago;United States
+1336;24/11/2022;Laptop;Electronics; 75 ; 94 ; 35 ;2;Delivered;27/11/2022;3;3; 38 ;David Willy;Carolyn Martinez;Male;36;Middle Age;Chicago;United States
+1337;17/09/2022;Washing Machine;Appliances; 21 ; 47 ; 1.036 ;40;Delivered;20/09/2022;3;4; 1.040 ;Emily Lizz;Kelly Daniels;Male;26;Young;Boston;United States
+1338;29/12/2022;TV;Electronics; 60 ; 88 ; 1.396 ;50;Delivered;02/01/2023;4;4; 1.400 ;Arnold Fazer;Paige Cook;Male;47;Middle Age;Miami;United States
+1339;31/08/2022;TV;Electronics; 83 ; 95 ; 283 ;24;Delivered;03/09/2022;3;5; 288 ;Lisa Rizi;John Avery;Male;64;Senior;Boston;United States
+1340;21/10/2022;Sandles;Footwear; 86 ; 97 ; 501 ;46;Delivered;24/10/2022;3;5; 506 ;David Willy;David Allen;Male;41;Middle Age;Houston;United States
+1341;13/10/2022;Sneakers;Footwear; 67 ; 102 ; 488 ;14;Delivered;15/10/2022;2;2; 490 ;Chris Jordan;Patricia Mckenzie;Male;17;Young;Atlanta;United States
+1342;22/09/2022;Refrigerator;Appliances; 58 ; 97 ; 385 ;10;Delivered;27/09/2022;5;5; 390 ;Arnold Fazer;Ian Jones;Male;51;Senior;New York;United States
+1343;17/04/2022;Refrigerator;Appliances; 37 ; 70 ; 558 ;17;Delivered;21/04/2022;4;3; 561 ;Arnold Fazer;Jacob Anderson MD;Male;28;Young;Atlanta;United States
+1344;11/01/2022;Jeans;Clothing; 54 ; 73 ; 432 ;23;Delivered;18/01/2022;7;5; 437 ;Emily Lizz;Deanna Santos;Male;51;Senior;San Francisco;United States
+1345;19/09/2022;Refrigerator;Appliances; 60 ; 100 ; 518 ;13;Delivered;24/09/2022;5;2; 520 ;Lisa Rizi;Alexis Jensen;Male;58;Senior;Los Angeles;United States
+1346;06/12/2022;Watch;Accessories; 76 ; 116 ; 555 ;14;Delivered;12/12/2022;6;5; 560 ;Chris Jordan;Joshua Lee;Male;36;Middle Age;Atlanta;United States
+1347;21/01/2022;Jeans;Clothing; 38 ; 64 ; 231 ;9;Delivered;25/01/2022;4;3; 234 ;Arnold Fazer;Kyle Dunn;Male;35;Middle Age;Chicago;United States
+1348;10/10/2022;Smartphone;Electronics; 47 ; 65 ; 68 ;4;Delivered;16/10/2022;6;4; 72 ;David Willy;Maria Johnson;Male;31;Middle Age;Washington, D.C.;United States
+1349;30/06/2022;Washing Machine;Appliances; 35 ; 46 ; 480 ;44;Delivered;04/07/2022;4;4; 484 ;Lisa Rizi;Chris Phillips;Male;57;Senior;Chicago;United States
+1350;09/09/2022;Refrigerator;Appliances; 28 ; 61 ; 1.084 ;33;Delivered;14/09/2022;5;5; 1.089 ;Lisa Rizi;Joseph Friedman;Male;48;Middle Age;Seattle;United States
+1351;04/10/2022;Jeans;Clothing; 76 ; 114 ; 73 ;2;Delivered;06/10/2022;2;3; 76 ;Chris Jordan;Stefanie Rodriguez;Male;63;Senior;Seattle;United States
+1352;26/11/2022;Sandles;Footwear; 86 ; 103 ; 644 ;38;Delivered;02/12/2022;2;2; 646 ;David Willy;Casey Anderson;Male;18;Young;Los Angeles;United States
+1353;16/11/2022;Watch;Accessories; 80 ; 117 ; 1.218 ;33;Delivered;21/11/2022;5;3; 1.221 ;Lisa Rizi;Melissa Nelson;Male;61;Senior;Washington, D.C.;United States
+1354;21/08/2022;Sandles;Footwear; 59 ; 71 ; 310 ;26;Delivered;27/08/2022;2;2; 312 ;Arnold Fazer;Rachael James;Male;34;Middle Age;Miami;United States
+1355;19/06/2022;Refrigerator;Appliances; 48 ; 84 ; 536 ;15;Delivered;26/06/2022;7;4; 540 ;David Willy;Patricia Moore;Male;31;Middle Age;San Francisco;United States
+1356;05/11/2022;Washing Machine;Appliances; 55 ; 65 ; 185 ;19;Delivered;08/11/2022;3;5; 190 ;David Willy;Marcus Moody;Male;28;Young;Boston;United States
+1357;19/11/2022;Watch;Accessories; 92 ; 121 ; 924 ;32;Delivered;20/11/2022;1;4; 928 ;Chris Jordan;Brian Cox;Male;54;Senior;Chicago;United States
+1358;25/11/2022;Sandles;Footwear; 28 ; 56 ; 976 ;35;Delivered;27/11/2022;2;4; 980 ;Emily Lizz;Curtis Dean;Male;17;Young;New York;United States
+1359;14/06/2022;Smartphone;Electronics; 31 ; 65 ; 1.357 ;40;Delivered;21/06/2022;7;3; 1.360 ;Lisa Rizi;Christina Jenkins;Male;32;Middle Age;Miami;United States
+1360;01/10/2022;TV;Electronics; 20 ; 36 ; 108 ;7;Delivered;04/10/2022;3;4; 112 ;David Willy;Melody Jackson;Male;60;Senior;Seattle;United States
+1361;11/10/2022;Watch;Accessories; 82 ; 114 ; 1.180 ;37;Delivered;15/10/2022;4;4; 1.184 ;Arnold Fazer;Christian Smith;Male;43;Middle Age;Boston;United States
+1362;16/02/2022;Sandles;Footwear; 79 ; 117 ; 985 ;26;Delivered;18/02/2022;2;3; 988 ;Emily Lizz;Misty Romero;Male;19;Young;Chicago;United States
+1363;26/04/2022;TV;Electronics; 91 ; 111 ; 475 ;24;Delivered;01/05/2022;5;5; 480 ;Emily Lizz;Mark Smith;Male;50;Middle Age;Boston;United States
+1364;07/10/2022;Laptop;Electronics; 38 ; 65 ; 751 ;28;Delivered;08/10/2022;1;5; 756 ;Emily Lizz;Meghan Vazquez;Male;63;Senior;San Francisco;United States
+1365;19/06/2022;Jeans;Clothing; 95 ; 132 ; 1.623 ;44;Delivered;26/06/2022;7;5; 1.628 ;Arnold Fazer;Shane Rice;Male;58;Senior;Chicago;United States
+1366;23/06/2022;Sandles;Footwear; 96 ; 121 ; 1.045 ;42;Delivered;28/06/2022;1;5; 1.050 ;David Willy;Holly Harrington;Male;64;Senior;Atlanta;United States
+1367;09/06/2022;Laptop;Electronics; 54 ; 68 ; 513 ;37;Delivered;12/06/2022;3;5; 518 ;David Willy;Bruce Carroll;Male;31;Middle Age;Miami;United States
+1368;17/11/2022;Sandles;Footwear; 94 ; 109 ; 42 ;3;Delivered;24/11/2022;1;3; 45 ;Emily Lizz;Yesenia Thomas;Male;23;Young;San Francisco;United States
+1369;27/12/2022;TV;Electronics; 33 ; 65 ; 158 ;5;Delivered;03/01/2023;7;2; 160 ;David Willy;Jose Gonzalez;Male;53;Senior;Los Angeles;United States
+1370;16/12/2022;Washing Machine;Appliances; 47 ; 73 ; 336 ;13;Delivered;19/12/2022;3;2; 338 ;David Willy;Edward Davis;Male;47;Middle Age;San Francisco;United States
+1371;22/03/2022;Jeans;Clothing; 76 ; 105 ; 635 ;22;Delivered;27/03/2022;5;3; 638 ;Emily Lizz;Johnny Parker;Male;18;Young;Seattle;United States
+1372;19/06/2022;Watch;Accessories; 72 ; 82 ; 488 ;49;Delivered;20/06/2022;1;2; 490 ;Emily Lizz;Monica Phillips;Male;37;Middle Age;Miami;United States
+1373;30/04/2022;Refrigerator;Appliances; 88 ; 123 ; 1.640 ;47;Delivered;07/05/2022;7;5; 1.645 ;Arnold Fazer;Jessica Rios;Male;25;Young;Miami;United States
+1374;16/04/2022;Washing Machine;Appliances; 87 ; 122 ; 103 ;3;Delivered;17/04/2022;1;2; 105 ;Arnold Fazer;Linda Johnson;Male;34;Middle Age;Houston;United States
+1375;28/08/2022;Refrigerator;Appliances; 44 ; 82 ; 1.174 ;31;Delivered;02/09/2022;5;4; 1.178 ;David Willy;Kimberly Larson;Male;55;Senior;Atlanta;United States
+1376;10/08/2022;Sneakers;Footwear; 67 ; 82 ; 312 ;21;Delivered;13/08/2022;3;3; 315 ;Emily Lizz;Elizabeth Beasley;Male;56;Senior;Houston;United States
+1377;11/01/2022;Smartphone;Electronics; 51 ; 72 ; 374 ;18;Delivered;16/01/2022;5;4; 378 ;David Willy;Teresa Mueller;Male;39;Middle Age;Chicago;United States
+1378;10/02/2022;Watch;Accessories; 64 ; 77 ; 646 ;50;Delivered;14/02/2022;4;4; 650 ;Chris Jordan;Isaiah Garcia;Male;36;Middle Age;Washington, D.C.;United States
+1379;06/12/2022;TV;Electronics; 37 ; 76 ; 1.400 ;36;Delivered;09/12/2022;3;4; 1.404 ;Chris Jordan;Daniel Weaver;Male;61;Senior;Atlanta;United States
+1380;05/02/2022;Sneakers;Footwear; 88 ; 121 ; 127 ;4;Delivered;10/02/2022;5;5; 132 ;Emily Lizz;Sean Robertson;Male;51;Senior;Los Angeles;United States
+1381;03/02/2022;Sandles;Footwear; 97 ; 107 ; 215 ;22;Delivered;07/02/2022;4;5; 220 ;Lisa Rizi;Lydia Elliott;Male;61;Senior;Atlanta;United States
+1382;08/08/2022;Sneakers;Footwear; 26 ; 57 ; 832 ;27;Delivered;12/08/2022;4;5; 837 ;Arnold Fazer;Taylor Knapp;Male;56;Senior;Atlanta;United States
+1383;30/03/2022;Sandles;Footwear; 46 ; 57 ; 272 ;25;Delivered;05/04/2022;1;3; 275 ;Lisa Rizi;Andres Byrd;Male;47;Middle Age;Boston;United States
+1384;04/12/2022;Watch;Accessories; 100 ; 131 ; 1.205 ;39;Delivered;05/12/2022;1;4; 1.209 ;Chris Jordan;Stephanie Ballard;Male;58;Senior;Los Angeles;United States
+1385;05/11/2022;Washing Machine;Appliances; 47 ; 84 ; 1.367 ;37;Delivered;12/11/2022;7;2; 1.369 ;David Willy;Michael Brown;Male;46;Middle Age;New York;United States
+1386;23/05/2022;Refrigerator;Appliances; 29 ; 58 ; 520 ;18;Delivered;24/05/2022;1;2; 522 ;Chris Jordan;Chris Mccall;Male;60;Senior;Washington, D.C.;United States
+1387;19/12/2022;Sneakers;Footwear; 48 ; 76 ; 612 ;22;Delivered;21/12/2022;2;4; 616 ;David Willy;Chad Ferguson;Male;43;Middle Age;New York;United States
+1388;13/06/2022;Sneakers;Footwear; 49 ; 69 ; 755 ;38;Delivered;17/06/2022;4;5; 760 ;Emily Lizz;James Mendoza;Male;46;Middle Age;Atlanta;United States
+1389;06/12/2022;T-shirt;Clothing; 95 ; 134 ; 1.868 ;48;Delivered;09/12/2022;1;4; 1.872 ;Emily Lizz;Michael Pierce;Male;63;Senior;Atlanta;United States
+1390;29/12/2022;Sandles;Footwear; 49 ; 74 ; 972 ;39;Delivered;01/01/2023;3;3; 975 ;David Willy;Colleen Hensley;Male;27;Young;Miami;United States
+1391;25/11/2022;Jeans;Clothing; 79 ; 100 ; 751 ;36;Delivered;29/11/2022;4;5; 756 ;Lisa Rizi;Austin Watts;Male;16;Young;Boston;United States
+1392;28/11/2022;Laptop;Electronics; 38 ; 68 ; 535 ;18;Delivered;03/12/2022;5;5; 540 ;Chris Jordan;Elizabeth Johnson;Male;23;Young;Atlanta;United States
+1393;10/02/2022;Sandles;Footwear; 97 ; 118 ; 16 ;1;Delivered;15/02/2022;5;5; 21 ;Lisa Rizi;Kyle Kerr;Male;46;Middle Age;Seattle;United States
+1394;21/06/2022;Refrigerator;Appliances; 24 ; 54 ; 1.165 ;39;Delivered;27/06/2022;6;5; 1.170 ;Chris Jordan;Kyle Smith;Male;33;Middle Age;Washington, D.C.;United States
+1395;21/12/2022;Jeans;Clothing; 66 ; 91 ; 746 ;30;Delivered;22/12/2022;1;4; 750 ;David Willy;Deborah Oconnor;Male;46;Middle Age;Los Angeles;United States
+1396;14/02/2022;Washing Machine;Appliances; 85 ; 102 ; 590 ;35;Delivered;20/02/2022;6;5; 595 ;Emily Lizz;Wendy Conner;Male;31;Middle Age;Boston;United States
+1397;18/11/2022;TV;Electronics; 46 ; 79 ; 985 ;30;Delivered;23/11/2022;5;5; 990 ;Emily Lizz;Dylan White;Male;36;Middle Age;Los Angeles;United States
+1398;27/11/2022;Laptop;Electronics; 58 ; 77 ; 758 ;40;Delivered;02/12/2022;5;2; 760 ;Emily Lizz;Toni Schmitt;Male;18;Young;New York;United States
+1399;21/01/2022;Refrigerator;Appliances; 66 ; 82 ; 414 ;26;Delivered;22/01/2022;1;2; 416 ;Chris Jordan;Abigail Garcia;Male;23;Young;Washington, D.C.;United States
+1400;24/07/2022;Refrigerator;Appliances; 68 ; 84 ; 398 ;25;Delivered;31/07/2022;7;2; 400 ;Chris Jordan;Kevin Ramirez;Male;27;Young;Chicago;United States
+1401;17/04/2022;Washing Machine;Appliances; 31 ; 62 ; 1.114 ;36;Delivered;19/04/2022;2;2; 1.116 ;Lisa Rizi;Andrea Walker;Male;45;Middle Age;Atlanta;United States
+1402;17/11/2022;Jeans;Clothing; 92 ; 106 ; 541 ;39;Delivered;21/11/2022;4;5; 546 ;David Willy;Jacqueline Meyer;Male;25;Young;Boston;United States
+1403;03/10/2022;Washing Machine;Appliances; 77 ; 103 ; 48 ;2;Delivered;10/10/2022;7;4; 52 ;Emily Lizz;Nicholas Davis;Male;64;Senior;San Francisco;United States
+1404;18/12/2022;Sandles;Footwear; 85 ; 111 ; 127 ;5;Delivered;20/12/2022;2;3; 130 ;Arnold Fazer;Debbie Campbell;Male;55;Senior;New York;United States
+1405;14/03/2022;Laptop;Electronics; 51 ; 83 ; 1.470 ;46;Delivered;15/03/2022;1;2; 1.472 ;Chris Jordan;Michael Galvan;Male;62;Senior;Miami;United States
+1406;19/03/2022;Jeans;Clothing; 74 ; 111 ; 774 ;21;Delivered;20/03/2022;1;3; 777 ;Emily Lizz;Jackie Knapp;Male;17;Young;New York;United States
+1407;15/12/2022;T-shirt;Clothing; 87 ; 113 ; 1.220 ;47;Delivered;18/12/2022;1;2; 1.222 ;Lisa Rizi;Jackie Williams;Male;47;Middle Age;New York;United States
+1408;26/08/2022;Sneakers;Footwear; 26 ; 39 ; 425 ;33;Delivered;01/09/2022;6;4; 429 ;Chris Jordan;James Heath;Male;33;Middle Age;Atlanta;United States
+1409;20/05/2022;Watch;Accessories; 41 ; 53 ; 44 ;4;Delivered;25/05/2022;5;4; 48 ;Chris Jordan;Brandy Harper;Male;18;Young;New York;United States
+1410;10/10/2022;Smartphone;Electronics; 46 ; 68 ; 1.010 ;46;Delivered;15/10/2022;5;2; 1.012 ;Arnold Fazer;Jill Jordan;Male;40;Middle Age;Seattle;United States
+1411;25/03/2022;Laptop;Electronics; 91 ; 130 ; 1.440 ;37;Delivered;01/04/2022;7;3; 1.443 ;Chris Jordan;Bryan Davis;Male;22;Young;Washington, D.C.;United States
+1412;27/11/2022;Sandles;Footwear; 89 ; 112 ; 709 ;31;Delivered;02/12/2022;5;4; 713 ;Lisa Rizi;Leslie Young;Male;29;Young;Los Angeles;United States
+1413;03/05/2022;Laptop;Electronics; 29 ; 57 ; 782 ;28;Delivered;05/05/2022;2;2; 784 ;David Willy;Natasha Bridges;Male;49;Middle Age;Los Angeles;United States
+1414;14/12/2022;Smartphone;Electronics; 71 ; 108 ; 1.700 ;46;Delivered;21/12/2022;7;2; 1.702 ;Chris Jordan;Ashley Brown;Male;43;Middle Age;Atlanta;United States
+1415;27/07/2022;Washing Machine;Appliances; 79 ; 96 ; 83 ;5;Delivered;30/07/2022;3;2; 85 ;Emily Lizz;Paul Mays;Male;44;Middle Age;Houston;United States
+1416;01/04/2022;T-shirt;Clothing; 40 ; 59 ; 585 ;31;Delivered;05/04/2022;1;4; 589 ;Emily Lizz;Michele Aguilar MD;Male;34;Middle Age;Miami;United States
+1417;26/02/2022;T-shirt;Clothing; 48 ; 83 ; 453 ;13;Delivered;01/03/2022;1;2; 455 ;David Willy;Diana Alexander;Male;58;Senior;Houston;United States
+1418;18/09/2022;Laptop;Electronics; 100 ; 129 ; 607 ;21;Delivered;20/09/2022;2;2; 609 ;Arnold Fazer;Margaret Ward;Male;23;Young;Miami;United States
+1419;15/11/2022;TV;Electronics; 42 ; 68 ; 647 ;25;Delivered;17/11/2022;2;3; 650 ;Chris Jordan;Kevin Harvey;Male;19;Young;New York;United States
+1420;28/05/2022;Watch;Accessories; 62 ; 101 ; 697 ;18;Delivered;04/06/2022;7;5; 702 ;David Willy;Daniel Wise;Male;65;Senior;Washington, D.C.;United States
+1421;27/11/2022;TV;Electronics; 80 ; 96 ; 654 ;41;Delivered;28/11/2022;1;2; 656 ;Arnold Fazer;Bryan Jensen;Male;58;Senior;San Francisco;United States
+1422;15/03/2022;Smartphone;Electronics; 69 ; 91 ; 636 ;29;Delivered;21/03/2022;6;2; 638 ;David Willy;Claudia Waters;Male;65;Senior;Chicago;United States
+1423;01/05/2022;Smartphone;Electronics; 34 ; 70 ; 1.654 ;46;Delivered;08/05/2022;7;2; 1.656 ;Arnold Fazer;Wesley Williams;Male;44;Middle Age;Washington, D.C.;United States
+1424;29/01/2022;Washing Machine;Appliances; 97 ; 112 ; 222 ;15;Delivered;01/02/2022;3;3; 225 ;David Willy;Eddie Reynolds;Male;64;Senior;New York;United States
+1425;29/08/2022;T-shirt;Clothing; 63 ; 77 ; 93 ;7;Delivered;05/09/2022;1;5; 98 ;Chris Jordan;Kevin Hernandez;Male;32;Middle Age;Miami;United States
+1426;22/11/2022;Watch;Accessories; 89 ; 113 ; 835 ;35;Delivered;29/11/2022;7;5; 840 ;Chris Jordan;Natasha Robertson;Male;58;Senior;Boston;United States
+1427;30/04/2022;TV;Electronics; 75 ; 98 ; 917 ;40;Delivered;01/05/2022;1;3; 920 ;David Willy;Peter Monroe;Male;43;Middle Age;Miami;United States
+1428;17/12/2022;Sandles;Footwear; 30 ; 65 ; 173 ;5;Delivered;20/12/2022;3;2; 175 ;Arnold Fazer;Kayla Love;Male;40;Middle Age;Seattle;United States
+1429;09/09/2022;Jeans;Clothing; 77 ; 96 ; 454 ;24;Delivered;14/09/2022;5;2; 456 ;Chris Jordan;Robert Harrison;Male;55;Senior;New York;United States
+1430;13/07/2022;Refrigerator;Appliances; 26 ; 52 ; 802 ;31;Delivered;15/07/2022;2;4; 806 ;Emily Lizz;Ashley Graham;Male;56;Senior;Chicago;United States
+1431;09/08/2022;Jeans;Clothing; 43 ; 67 ; 235 ;10;Delivered;14/08/2022;5;5; 240 ;David Willy;Angela Johnson;Male;64;Senior;Los Angeles;United States
+1432;02/02/2022;Jeans;Clothing; 88 ; 124 ; 213 ;6;Delivered;05/02/2022;3;3; 216 ;David Willy;Anna Howell;Male;61;Senior;Los Angeles;United States
+1433;12/01/2022;Sandles;Footwear; 54 ; 67 ; 556 ;43;Delivered;13/01/2022;1;3; 559 ;Lisa Rizi;Donna Johnson;Male;64;Senior;Atlanta;United States
+1434;25/10/2022;Refrigerator;Appliances; 81 ; 108 ; 508 ;19;Delivered;26/10/2022;1;5; 513 ;Chris Jordan;Cody Smith;Male;58;Senior;Washington, D.C.;United States
+1435;12/08/2022;Sneakers;Footwear; 33 ; 62 ; - ;40;Cancelled;18/08/2022;6;5; - ;Lisa Rizi;John Ortiz;Male;40;Middle Age;Chicago;United States
+1436;11/10/2022;Jeans;Clothing; 64 ; 89 ; - ;26;Cancelled;16/10/2022;5;3; - ;Chris Jordan;Shannon Murphy;Male;65;Senior;Houston;United States
+1437;19/03/2022;Watch;Accessories; 77 ; 87 ; 306 ;31;Delivered;23/03/2022;4;4; 310 ;Chris Jordan;David Rose;Male;20;Young;Atlanta;United States
+1438;19/12/2022;Sandles;Footwear; 55 ; 74 ; 72 ;4;Delivered;22/12/2022;3;4; 76 ;Arnold Fazer;Rachel Smith;Male;56;Senior;Seattle;United States
+1439;18/02/2022;Jeans;Clothing; 93 ; 131 ; 1.706 ;45;Delivered;24/02/2022;6;4; 1.710 ;Lisa Rizi;Pamela Webb;Male;23;Young;Miami;United States
+1440;05/09/2022;TV;Electronics; 41 ; 65 ; 139 ;6;Delivered;08/09/2022;3;5; 144 ;Lisa Rizi;Marilyn Carter;Male;20;Young;San Francisco;United States
+1441;12/06/2022;Sneakers;Footwear; 25 ; 53 ; 417 ;15;Delivered;15/06/2022;3;3; 420 ;Chris Jordan;Eric Heath;Male;58;Senior;Boston;United States
+1442;15/12/2022;Smartphone;Electronics; 72 ; 110 ; 1.668 ;44;Delivered;16/12/2022;1;4; 1.672 ;David Willy;Sabrina Howard;Male;23;Young;Houston;United States
+1443;12/08/2022;T-shirt;Clothing; 76 ; 107 ; 339 ;11;Delivered;19/08/2022;1;2; 341 ;David Willy;Kimberly Arnold;Male;48;Middle Age;Miami;United States
+1444;24/08/2022;Watch;Accessories; 91 ; 114 ; 503 ;22;Delivered;30/08/2022;6;3; 506 ;Emily Lizz;Erica Gibson;Male;59;Senior;Chicago;United States
+1445;18/03/2022;TV;Electronics; 46 ; 68 ; 546 ;25;Delivered;20/03/2022;2;4; 550 ;David Willy;Ricky Washington;Male;63;Senior;San Francisco;United States
+1446;30/11/2022;Washing Machine;Appliances; 60 ; 77 ; 694 ;41;Delivered;06/12/2022;6;3; 697 ;Chris Jordan;Sarah Ruiz;Male;18;Young;Washington, D.C.;United States
+1447;06/09/2022;Refrigerator;Appliances; 40 ; 71 ; 462 ;15;Delivered;08/09/2022;2;3; 465 ;David Willy;Julie Huff;Male;32;Middle Age;Los Angeles;United States
+1448;03/04/2022;Smartphone;Electronics; 72 ; 83 ; 414 ;38;Delivered;07/04/2022;4;4; 418 ;David Willy;Michael Rodriguez;Male;26;Young;Houston;United States
+1449;28/07/2022;Sandles;Footwear; 82 ; 102 ; 18 ;1;Delivered;04/08/2022;7;2; 20 ;David Willy;Charlene Steele;Male;56;Senior;Atlanta;United States
+1450;20/08/2022;Refrigerator;Appliances; 33 ; 52 ; 71 ;4;Delivered;22/08/2022;2;5; 76 ;David Willy;Gail Turner;Male;56;Senior;Boston;United States
+1451;27/06/2022;Laptop;Electronics; 32 ; 62 ; 1.165 ;39;Delivered;02/07/2022;5;5; 1.170 ;David Willy;William Price;Male;63;Senior;Boston;United States
+1452;01/11/2022;T-shirt;Clothing; 33 ; 61 ; 1.370 ;49;Delivered;06/11/2022;1;2; 1.372 ;David Willy;Julie Hogan;Male;38;Middle Age;Miami;United States
+1453;20/02/2022;Washing Machine;Appliances; 67 ; 98 ; 739 ;24;Delivered;21/02/2022;1;5; 744 ;David Willy;Alyssa Rodriguez;Male;45;Middle Age;San Francisco;United States
+1454;31/10/2022;T-shirt;Clothing; 73 ; 92 ; 186 ;10;Delivered;06/11/2022;1;4; 190 ;Arnold Fazer;Margaret Crawford;Male;48;Middle Age;Miami;United States
+1455;12/01/2022;Laptop;Electronics; 96 ; 130 ; 233 ;7;Delivered;13/01/2022;1;5; 238 ;David Willy;Amber Martin;Male;31;Middle Age;Atlanta;United States
+1456;18/05/2022;Watch;Accessories; 39 ; 74 ; 1.395 ;40;Delivered;23/05/2022;5;5; 1.400 ;Lisa Rizi;Joseph Myers;Male;41;Middle Age;Washington, D.C.;United States
+1457;20/01/2022;Washing Machine;Appliances; 22 ; 48 ; 620 ;24;Delivered;26/01/2022;6;4; 624 ;Chris Jordan;Michael Jackson;Male;28;Young;Boston;United States
+1458;24/08/2022;Watch;Accessories; 85 ; 125 ; 1.316 ;33;Delivered;27/08/2022;3;4; 1.320 ;David Willy;Heather Ali;Male;57;Senior;New York;United States
+1459;16/04/2022;Washing Machine;Appliances; 32 ; 57 ; 821 ;33;Delivered;21/04/2022;5;4; 825 ;David Willy;Christine Owen;Male;41;Middle Age;Atlanta;United States
+1460;28/01/2022;Watch;Accessories; 74 ; 111 ; 809 ;22;Delivered;02/02/2022;5;5; 814 ;Lisa Rizi;Erica Wright;Male;42;Middle Age;New York;United States
+1461;25/05/2022;T-shirt;Clothing; 59 ; 85 ; 750 ;29;Delivered;28/05/2022;1;4; 754 ;Arnold Fazer;Donald Quinn;Male;37;Middle Age;Miami;United States
+1462;04/07/2022;Washing Machine;Appliances; 87 ; 113 ; 206 ;8;Delivered;06/07/2022;2;2; 208 ;David Willy;Nicholas Clark;Male;22;Young;San Francisco;United States
+1463;07/08/2022;Refrigerator;Appliances; 98 ; 129 ; 401 ;13;Delivered;14/08/2022;7;2; 403 ;David Willy;Austin Gonzales;Male;63;Senior;Chicago;United States
+1464;21/06/2022;Watch;Accessories; 63 ; 87 ; 141 ;6;Delivered;24/06/2022;3;3; 144 ;David Willy;Nicholas Morris;Male;59;Senior;Atlanta;United States
+1465;08/05/2022;T-shirt;Clothing; 91 ; 116 ; 870 ;35;Delivered;14/05/2022;1;5; 875 ;Arnold Fazer;Suzanne Ortiz;Male;46;Middle Age;Miami;United States
+1466;23/05/2022;Refrigerator;Appliances; 33 ; 54 ; 919 ;44;Delivered;25/05/2022;2;5; 924 ;Lisa Rizi;John Smith;Male;53;Senior;Los Angeles;United States
+1467;14/08/2022;Smartphone;Electronics; 69 ; 80 ; 448 ;41;Delivered;19/08/2022;5;3; 451 ;Chris Jordan;Kayla Lucas;Male;39;Middle Age;Houston;United States
+1468;08/12/2022;Sneakers;Footwear; 84 ; 110 ; 1.090 ;42;Delivered;09/12/2022;1;2; 1.092 ;Emily Lizz;Wendy Rogers;Male;24;Young;Los Angeles;United States
+1469;20/01/2022;Jeans;Clothing; 93 ; 107 ; 206 ;15;Delivered;24/01/2022;4;4; 210 ;Lisa Rizi;Shannon Charles;Male;31;Middle Age;Seattle;United States
+1470;02/05/2022;Refrigerator;Appliances; 95 ; 123 ; 500 ;18;Delivered;05/05/2022;3;4; 504 ;Emily Lizz;Richard Armstrong;Male;32;Middle Age;Miami;United States
+1471;31/03/2022;T-shirt;Clothing; 58 ; 85 ; 484 ;18;Delivered;02/04/2022;2;2; 486 ;Lisa Rizi;Sierra Murray;Male;60;Senior;Miami;United States
+1472;03/08/2022;Sandles;Footwear; 30 ; 61 ; 305 ;10;Delivered;07/08/2022;4;5; 310 ;Chris Jordan;Jennifer Garza;Male;60;Senior;Houston;United States
+1473;13/04/2022;Refrigerator;Appliances; 51 ; 81 ; 176 ;6;Delivered;20/04/2022;7;4; 180 ;Emily Lizz;Emily Stevens;Male;64;Senior;Chicago;United States
+1474;28/07/2022;Laptop;Electronics; 97 ; 123 ; 1.168 ;45;Delivered;04/08/2022;7;2; 1.170 ;David Willy;Ashley Olson;Male;30;Young;Chicago;United States
+1475;18/06/2022;Laptop;Electronics; 59 ; 75 ; 444 ;28;Delivered;22/06/2022;4;4; 448 ;David Willy;Raymond Case;Male;57;Senior;Chicago;United States
+1476;28/11/2022;Refrigerator;Appliances; 88 ; 105 ; 199 ;12;Delivered;30/11/2022;2;5; 204 ;Emily Lizz;Destiny Trevino;Male;22;Young;Chicago;United States
+1477;19/01/2022;T-shirt;Clothing; 52 ; 62 ; 175 ;18;Delivered;24/01/2022;5;5; 180 ;Lisa Rizi;Laura Hawkins;Male;54;Senior;Miami;United States
+1478;21/08/2022;T-shirt;Clothing; 48 ; 78 ; 657 ;22;Delivered;23/08/2022;2;3; 660 ;David Willy;Matthew Higgins;Male;54;Senior;Miami;United States
+1479;18/04/2022;Smartphone;Electronics; 73 ; 104 ; 90 ;3;Delivered;25/04/2022;7;3; 93 ;Arnold Fazer;Erin Diaz;Male;36;Middle Age;Miami;United States
+1480;21/01/2022;Laptop;Electronics; 66 ; 105 ; 660 ;17;Delivered;25/01/2022;4;3; 663 ;Emily Lizz;Brandi Brown;Male;25;Young;Los Angeles;United States
+1481;26/03/2022;Watch;Accessories; 45 ; 64 ; 397 ;21;Delivered;02/04/2022;7;2; 399 ;Lisa Rizi;Lisa Gray;Male;28;Young;Atlanta;United States
+1482;11/05/2022;Refrigerator;Appliances; 42 ; 58 ; 251 ;16;Delivered;18/05/2022;7;5; 256 ;Lisa Rizi;Adriana Perez;Male;42;Middle Age;San Francisco;United States
+1483;29/05/2022;Laptop;Electronics; 53 ; 92 ; 1.206 ;31;Delivered;31/05/2022;2;3; 1.209 ;Chris Jordan;Mark Barron;Male;47;Middle Age;Los Angeles;United States
+1484;06/01/2022;Refrigerator;Appliances; 72 ; 103 ; 150 ;5;Delivered;09/01/2022;3;5; 155 ;David Willy;Michael Gonzalez;Male;20;Young;Boston;United States
+1485;28/09/2022;TV;Electronics; 86 ; 120 ; 981 ;29;Delivered;30/09/2022;2;5; 986 ;Chris Jordan;Cory Edwards;Male;23;Young;Miami;United States
+1486;28/10/2022;Smartphone;Electronics; 27 ; 49 ; 260 ;12;Delivered;01/11/2022;4;4; 264 ;Chris Jordan;Jasmine Davis;Male;34;Middle Age;New York;United States
+1487;29/08/2022;TV;Electronics; 32 ; 44 ; 380 ;32;Delivered;01/09/2022;3;4; 384 ;Chris Jordan;Stephanie Clark;Male;52;Senior;Washington, D.C.;United States
+1488;31/03/2022;Jeans;Clothing; 88 ; 114 ; 801 ;31;Delivered;05/04/2022;5;5; 806 ;Arnold Fazer;Michael Smith;Male;19;Young;Seattle;United States
+1489;20/12/2022;TV;Electronics; 24 ; 51 ; 1.237 ;46;Delivered;24/12/2022;4;5; 1.242 ;Arnold Fazer;Warren Clark;Male;32;Middle Age;Chicago;United States
+1490;07/02/2022;Laptop;Electronics; 78 ; 106 ; 81 ;3;Delivered;11/02/2022;4;3; 84 ;Lisa Rizi;Andrew Graves Jr.;Male;41;Middle Age;New York;United States
+1491;14/05/2022;Refrigerator;Appliances; 44 ; 81 ; 921 ;25;Delivered;18/05/2022;4;4; 925 ;Chris Jordan;Amber Mcbride;Male;62;Senior;Seattle;United States
+1492;04/07/2022;Watch;Accessories; 72 ; 112 ; 1.116 ;28;Delivered;10/07/2022;6;4; 1.120 ;Arnold Fazer;Meagan Mitchell;Male;51;Senior;Miami;United States
+1493;02/03/2022;Sneakers;Footwear; 62 ; 91 ; 490 ;17;Delivered;04/03/2022;2;3; 493 ;Lisa Rizi;Amy Hall;Male;29;Young;New York;United States
+1494;08/07/2022;Refrigerator;Appliances; 37 ; 77 ; 1.076 ;27;Delivered;14/07/2022;6;4; 1.080 ;David Willy;Thomas Carpenter;Male;26;Young;Seattle;United States
+1495;15/04/2022;T-shirt;Clothing; 52 ; 78 ; 310 ;12;Delivered;18/04/2022;3;2; 312 ;Emily Lizz;Michelle Schwartz;Male;47;Middle Age;Miami;United States
+1496;14/04/2022;Refrigerator;Appliances; 60 ; 94 ; 269 ;8;Delivered;20/04/2022;6;3; 272 ;David Willy;Dr. Robert Villanueva;Male;41;Middle Age;Atlanta;United States
+1497;27/06/2022;Sandles;Footwear; 20 ; 55 ; 628 ;18;Delivered;04/07/2022;7;2; 630 ;David Willy;Roger Cortez;Male;37;Middle Age;Atlanta;United States
+1498;19/12/2022;Sandles;Footwear; 28 ; 66 ; 1.098 ;29;Delivered;25/12/2022;6;4; 1.102 ;Emily Lizz;Janice Reyes;Male;60;Senior;Washington, D.C.;United States
+1499;22/06/2022;TV;Electronics; 62 ; 91 ; 1.271 ;44;Delivered;26/06/2022;4;5; 1.276 ;Chris Jordan;Jennifer Curry;Male;38;Middle Age;New York;United States
+1500;04/03/2022;Watch;Accessories; 37 ; 63 ; 309 ;12;Delivered;10/03/2022;6;3; 312 ;Chris Jordan;Philip Barber;Male;44;Middle Age;Seattle;United States
+1501;03/06/2022;Smartphone;Electronics; 40 ; 56 ; 348 ;22;Delivered;09/06/2022;6;4; 352 ;Arnold Fazer;Christopher White;Male;21;Young;Houston;United States
+1502;17/10/2022;T-shirt;Clothing; 77 ; 109 ; 1.405 ;44;Delivered;23/10/2022;6;3; 1.408 ;Emily Lizz;Matthew Pope;Male;56;Senior;Miami;United States
+1503;23/10/2022;Smartphone;Electronics; 70 ; 81 ; 86 ;8;Delivered;28/10/2022;5;2; 88 ;Lisa Rizi;Brittany Garza;Male;47;Middle Age;New York;United States
+1504;26/03/2022;TV;Electronics; 40 ; 53 ; 609 ;47;Delivered;27/03/2022;1;2; 611 ;Arnold Fazer;Susan Washington;Male;56;Senior;New York;United States
+1505;06/08/2022;Watch;Accessories; 41 ; 60 ; 891 ;47;Delivered;11/08/2022;5;2; 893 ;Lisa Rizi;Andre Taylor Jr.;Male;35;Middle Age;New York;United States
+1506;20/01/2022;Washing Machine;Appliances; 78 ; 118 ; 635 ;16;Delivered;23/01/2022;3;5; 640 ;Lisa Rizi;Olivia Bean;Male;54;Senior;Miami;United States
+1507;23/08/2022;Smartphone;Electronics; 38 ; 76 ; 681 ;18;Delivered;28/08/2022;5;3; 684 ;Lisa Rizi;Mary Campbell;Male;44;Middle Age;Los Angeles;United States
+1508;27/12/2022;Sandles;Footwear; 35 ; 59 ; 934 ;39;Delivered;30/12/2022;3;2; 936 ;David Willy;Daniel Gonzalez;Male;54;Senior;Atlanta;United States
+1509;15/07/2022;Washing Machine;Appliances; 43 ; 66 ; 319 ;14;Delivered;18/07/2022;3;3; 322 ;Chris Jordan;Emily Pollard;Male;19;Young;Washington, D.C.;United States
+1510;25/01/2022;Refrigerator;Appliances; 64 ; 80 ; 717 ;45;Delivered;29/01/2022;4;3; 720 ;David Willy;Cassidy Carroll;Male;16;Young;Boston;United States
+1511;02/11/2022;Sneakers;Footwear; 43 ; 76 ; 1.119 ;34;Delivered;09/11/2022;7;3; 1.122 ;Emily Lizz;Bonnie Matthews DDS;Male;53;Senior;Chicago;United States
+1512;27/03/2022;Laptop;Electronics; 43 ; 56 ; 270 ;21;Delivered;01/04/2022;5;3; 273 ;David Willy;Lacey Marshall;Male;26;Young;Houston;United States
+1513;19/02/2022;Watch;Accessories; 50 ; 64 ; 306 ;22;Delivered;20/02/2022;1;2; 308 ;Emily Lizz;Tanner Wiggins;Male;35;Middle Age;Houston;United States
+1514;07/02/2022;Sneakers;Footwear; 97 ; 132 ; 803 ;23;Delivered;10/02/2022;3;2; 805 ;Arnold Fazer;Michael Reynolds;Male;23;Young;Atlanta;United States
+1515;26/04/2022;Refrigerator;Appliances; 82 ; 105 ; 227 ;10;Delivered;03/05/2022;7;3; 230 ;Lisa Rizi;Jeremy Stewart;Male;62;Senior;New York;United States
+1516;11/03/2022;Washing Machine;Appliances; 20 ; 44 ; 669 ;28;Delivered;17/03/2022;6;3; 672 ;Emily Lizz;Diana Thompson MD;Male;27;Young;Chicago;United States
+1517;25/09/2022;Smartphone;Electronics; 23 ; 57 ; 1.561 ;46;Delivered;02/10/2022;7;3; 1.564 ;Lisa Rizi;Brian Carr;Male;55;Senior;Miami;United States
+1518;24/09/2022;Smartphone;Electronics; 33 ; 65 ; 1.373 ;43;Delivered;27/09/2022;3;3; 1.376 ;Chris Jordan;Miss Sandra Wise;Male;30;Young;New York;United States
+1519;16/03/2022;Sandles;Footwear; 34 ; 53 ; 661 ;35;Delivered;20/03/2022;4;4; 665 ;Emily Lizz;Johnny Lewis;Male;41;Middle Age;Houston;United States
+1520;08/07/2022;Washing Machine;Appliances; 88 ; 121 ; 1.283 ;39;Delivered;12/07/2022;4;4; 1.287 ;Arnold Fazer;Colleen Jensen;Male;60;Senior;Houston;United States
+1521;26/02/2022;T-shirt;Clothing; 36 ; 57 ; 962 ;46;Delivered;27/02/2022;1;4; 966 ;David Willy;Jessica Cohen;Male;38;Middle Age;Miami;United States
+1522;26/11/2022;T-shirt;Clothing; 82 ; 111 ; 24 ;1;Delivered;30/11/2022;4;5; 29 ;Arnold Fazer;Christopher Beard;Male;61;Senior;Miami;United States
+1523;15/02/2022;Laptop;Electronics; 33 ; 56 ; 1.122 ;49;Delivered;20/02/2022;5;5; 1.127 ;Lisa Rizi;Brandon Fischer;Male;20;Young;Chicago;United States
+1524;06/02/2022;Jeans;Clothing; 43 ; 63 ; 338 ;17;Delivered;11/02/2022;5;2; 340 ;Emily Lizz;Deborah Long;Male;46;Middle Age;Atlanta;United States
+1525;06/05/2022;Smartphone;Electronics; 27 ; 49 ; 105 ;5;Delivered;11/05/2022;5;5; 110 ;Lisa Rizi;Jason Garcia;Male;56;Senior;Washington, D.C.;United States
+1526;25/03/2022;Jeans;Clothing; 76 ; 102 ; 1.140 ;44;Delivered;01/04/2022;7;4; 1.144 ;Lisa Rizi;Ashley Reed;Male;16;Young;Atlanta;United States
+1527;18/08/2022;Refrigerator;Appliances; 43 ; 72 ; 143 ;5;Delivered;19/08/2022;1;2; 145 ;Lisa Rizi;Brian Haas;Male;45;Middle Age;Houston;United States
+1528;30/07/2022;Watch;Accessories; 55 ; 87 ; 123 ;4;Delivered;01/08/2022;2;5; 128 ;David Willy;Kristi Schmidt;Male;30;Young;Chicago;United States
+1529;23/06/2022;Watch;Accessories; 31 ; 66 ; 1.675 ;48;Delivered;28/06/2022;5;5; 1.680 ;Emily Lizz;Tiffany Nolan;Male;19;Young;Chicago;United States
+1530;09/03/2022;TV;Electronics; 30 ; 50 ; 456 ;23;Delivered;14/03/2022;5;4; 460 ;Emily Lizz;Margaret Arellano;Male;20;Young;New York;United States
+1531;05/04/2022;Watch;Accessories; 98 ; 114 ; 734 ;46;Delivered;12/04/2022;7;2; 736 ;David Willy;Jesse Hammond;Male;49;Middle Age;Houston;United States
+1532;18/09/2022;Refrigerator;Appliances; 38 ; 50 ; 439 ;37;Delivered;23/09/2022;5;5; 444 ;Chris Jordan;John Parker;Male;27;Young;New York;United States
+1533;24/12/2022;Sneakers;Footwear; 99 ; 134 ; 380 ;11;Delivered;31/12/2022;7;5; 385 ;David Willy;Donna Stewart;Male;16;Young;Chicago;United States
+1534;30/05/2022;Watch;Accessories; 62 ; 90 ; 1.201 ;43;Delivered;05/06/2022;6;3; 1.204 ;Emily Lizz;Andrea White;Male;34;Middle Age;Los Angeles;United States
+1535;28/06/2022;Jeans;Clothing; 52 ; 63 ; 8 ;1;Delivered;03/07/2022;5;3; 11 ;Chris Jordan;Christie Greer;Male;41;Middle Age;Los Angeles;United States
+1536;01/06/2022;Sneakers;Footwear; 43 ; 81 ; 720 ;19;Delivered;06/06/2022;5;2; 722 ;Chris Jordan;Dominique Long;Male;25;Young;Boston;United States
+1537;10/02/2022;TV;Electronics; 70 ; 82 ; 32 ;3;Delivered;12/02/2022;2;4; 36 ;Chris Jordan;Ebony Wright;Male;21;Young;Atlanta;United States
+1538;30/10/2022;Smartphone;Electronics; 49 ; 61 ; 392 ;33;Delivered;05/11/2022;6;4; 396 ;Emily Lizz;Lauren King;Male;38;Middle Age;Houston;United States
+1539;05/10/2022;Refrigerator;Appliances; 36 ; 67 ; 1.269 ;41;Delivered;12/10/2022;7;2; 1.271 ;Arnold Fazer;Barbara Thompson;Male;37;Middle Age;Washington, D.C.;United States
+1540;28/01/2022;Sneakers;Footwear; 33 ; 55 ; 129 ;6;Delivered;30/01/2022;2;3; 132 ;David Willy;Dr. Charles Matthews;Male;26;Young;Chicago;United States
+1541;20/09/2022;Watch;Accessories; 41 ; 70 ; 488 ;17;Delivered;25/09/2022;5;5; 493 ;Lisa Rizi;Mr. William Zamora;Male;44;Middle Age;Chicago;United States
+1542;14/04/2022;Washing Machine;Appliances; 45 ; 62 ; 372 ;22;Delivered;20/04/2022;6;2; 374 ;Emily Lizz;Lori Morales;Male;45;Middle Age;Chicago;United States
+1543;13/12/2022;Laptop;Electronics; 93 ; 107 ; 375 ;27;Delivered;14/12/2022;1;3; 378 ;Lisa Rizi;Jessica Salazar;Male;57;Senior;Boston;United States
+1544;15/04/2022;Laptop;Electronics; 31 ; 48 ; 406 ;24;Delivered;22/04/2022;7;2; 408 ;David Willy;Rebecca Harris;Male;46;Middle Age;Seattle;United States
+1545;04/06/2022;Sneakers;Footwear; 88 ; 118 ; 298 ;10;Delivered;11/06/2022;7;2; 300 ;David Willy;Courtney Curtis;Male;52;Senior;Houston;United States
+1546;04/08/2022;Smartphone;Electronics; 75 ; 103 ; 247 ;9;Delivered;05/08/2022;1;5; 252 ;Emily Lizz;Christopher Riley;Male;58;Senior;Los Angeles;United States
+1547;29/10/2022;T-shirt;Clothing; 73 ; 91 ; 302 ;17;Delivered;04/11/2022;6;4; 306 ;David Willy;Thomas Leon;Male;22;Young;Miami;United States
+1548;15/05/2022;Sneakers;Footwear; 35 ; 60 ; 670 ;27;Delivered;18/05/2022;3;5; 675 ;Arnold Fazer;Kristy Wright;Male;19;Young;Houston;United States
+1549;04/11/2022;TV;Electronics; 43 ; 54 ; 149 ;14;Delivered;10/11/2022;6;5; 154 ;Emily Lizz;Daniel Robinson;Male;16;Young;Seattle;United States
+1550;09/04/2022;Smartphone;Electronics; 93 ; 126 ; 326 ;10;Delivered;10/04/2022;1;4; 330 ;Arnold Fazer;Brenda Thomas;Male;61;Senior;Atlanta;United States
+1551;16/08/2022;Laptop;Electronics; 42 ; 55 ; 112 ;9;Delivered;17/08/2022;1;5; 117 ;Emily Lizz;Carol Hill;Male;47;Middle Age;Chicago;United States
+1552;11/04/2022;Refrigerator;Appliances; 76 ; 116 ; 1.718 ;43;Delivered;16/04/2022;5;2; 1.720 ;Arnold Fazer;Christopher Wallace;Male;33;Middle Age;San Francisco;United States
+1553;09/04/2022;Watch;Accessories; 86 ; 113 ; 481 ;18;Delivered;10/04/2022;1;5; 486 ;Lisa Rizi;Scott Miller;Male;19;Young;Washington, D.C.;United States
+1554;29/04/2022;Washing Machine;Appliances; 20 ; 52 ; 1.115 ;35;Delivered;03/05/2022;4;5; 1.120 ;Arnold Fazer;Samuel White;Male;41;Middle Age;Atlanta;United States
+1555;08/04/2022;Jeans;Clothing; 98 ; 133 ; 65 ;2;Delivered;10/04/2022;2;5; 70 ;Chris Jordan;Patricia Wheeler;Male;35;Middle Age;Washington, D.C.;United States
+1556;25/05/2022;Laptop;Electronics; 94 ; 122 ; 863 ;31;Delivered;29/05/2022;4;5; 868 ;David Willy;Veronica Brown;Male;51;Senior;San Francisco;United States
+1557;04/01/2022;Refrigerator;Appliances; 48 ; 70 ; 569 ;26;Delivered;06/01/2022;2;3; 572 ;Emily Lizz;Brian Anderson;Male;16;Young;Seattle;United States
+1558;07/08/2022;Laptop;Electronics; 24 ; 46 ; 1.029 ;47;Delivered;13/08/2022;6;5; 1.034 ;Arnold Fazer;Walter Gutierrez;Male;59;Senior;Washington, D.C.;United States
+1559;11/03/2022;Smartphone;Electronics; 42 ; 71 ; 488 ;17;Delivered;12/03/2022;1;5; 493 ;Lisa Rizi;Daniel Huffman;Male;37;Middle Age;Seattle;United States
+1560;22/07/2022;Watch;Accessories; 83 ; 118 ; 1.573 ;45;Delivered;26/07/2022;4;2; 1.575 ;Emily Lizz;Teresa Myers;Male;30;Young;Houston;United States
+1561;04/11/2022;Smartphone;Electronics; 22 ; 48 ; 281 ;11;Delivered;11/11/2022;7;5; 286 ;Chris Jordan;Jill Velasquez;Male;35;Middle Age;Los Angeles;United States
+1562;08/03/2022;Washing Machine;Appliances; 35 ; 48 ; 349 ;27;Delivered;15/03/2022;7;2; 351 ;Emily Lizz;Brittany Young;Male;53;Senior;New York;United States
+1563;31/08/2022;Jeans;Clothing; 100 ; 135 ; 1.396 ;40;Delivered;03/09/2022;3;4; 1.400 ;Lisa Rizi;Jerry Lang;Male;63;Senior;New York;United States
+1564;12/01/2022;Watch;Accessories; 87 ; 103 ; 333 ;21;Delivered;17/01/2022;5;3; 336 ;Lisa Rizi;Jordan Castaneda;Male;32;Middle Age;San Francisco;United States
+1565;26/06/2022;Sandles;Footwear; 70 ; 107 ; 1.771 ;48;Delivered;29/06/2022;3;5; 1.776 ;Chris Jordan;Jason Long;Male;46;Middle Age;Miami;United States
+1566;22/04/2022;Sneakers;Footwear; 94 ; 133 ; 1.129 ;29;Delivered;26/04/2022;4;2; 1.131 ;Emily Lizz;Eric Wyatt;Male;61;Senior;Washington, D.C.;United States
+1567;23/07/2022;Refrigerator;Appliances; 85 ; 106 ; 145 ;7;Delivered;27/07/2022;4;2; 147 ;Chris Jordan;Kenneth Johnson;Male;64;Senior;Seattle;United States
+1568;21/03/2022;T-shirt;Clothing; 94 ; 110 ; 446 ;28;Delivered;26/03/2022;5;2; 448 ;David Willy;Yvonne Smith;Male;35;Middle Age;Miami;United States
+1569;01/04/2022;Refrigerator;Appliances; 30 ; 69 ; 115 ;3;Delivered;08/04/2022;7;2; 117 ;David Willy;Kyle Little;Male;44;Middle Age;Atlanta;United States
+1570;17/05/2022;Jeans;Clothing; 49 ; 84 ; 1.012 ;29;Delivered;19/05/2022;2;3; 1.015 ;Lisa Rizi;Kimberly Johnson;Male;24;Young;San Francisco;United States
+1571;12/06/2022;Refrigerator;Appliances; 96 ; 134 ; 1.746 ;46;Delivered;16/06/2022;4;2; 1.748 ;Lisa Rizi;Ann Glenn;Male;56;Senior;Washington, D.C.;United States
+1572;10/01/2022;T-shirt;Clothing; 51 ; 91 ; 356 ;9;Delivered;15/01/2022;5;4; 360 ;David Willy;Dana Willis;Male;47;Middle Age;San Francisco;United States
+1573;25/08/2022;TV;Electronics; 56 ; 82 ; 620 ;24;Delivered;01/09/2022;7;4; 624 ;Emily Lizz;James Warren;Male;39;Middle Age;Los Angeles;United States
+1574;05/10/2022;Washing Machine;Appliances; 80 ; 120 ; 277 ;7;Delivered;11/10/2022;6;3; 280 ;Lisa Rizi;Amanda Townsend;Male;56;Senior;Houston;United States
+1575;23/08/2022;Smartphone;Electronics; 77 ; 109 ; 1.566 ;49;Delivered;30/08/2022;7;2; 1.568 ;Chris Jordan;Elizabeth Williams;Male;20;Young;New York;United States
+1576;20/08/2022;Washing Machine;Appliances; 82 ; 121 ; 1.635 ;42;Delivered;26/08/2022;6;3; 1.638 ;Lisa Rizi;Sean Rice;Male;26;Young;Boston;United States
+1577;18/06/2022;Laptop;Electronics; 33 ; 45 ; 67 ;6;Delivered;23/06/2022;5;5; 72 ;David Willy;Darius Vincent;Male;33;Middle Age;Boston;United States
+1578;31/08/2022;T-shirt;Clothing; 23 ; 50 ; 76 ;3;Delivered;02/09/2022;2;5; 81 ;Lisa Rizi;Carol Graves;Male;50;Middle Age;Boston;United States
+1579;03/08/2022;Jeans;Clothing; 76 ; 108 ; 444 ;14;Delivered;09/08/2022;6;4; 448 ;Emily Lizz;Tiffany Kim;Male;24;Young;Los Angeles;United States
+1580;05/10/2022;Laptop;Electronics; 35 ; 75 ; 157 ;4;Delivered;09/10/2022;4;3; 160 ;Arnold Fazer;David Campbell;Male;26;Young;New York;United States
+1581;29/07/2022;Watch;Accessories; 33 ; 59 ; 256 ;10;Delivered;04/08/2022;6;4; 260 ;Arnold Fazer;Ross Pacheco;Male;41;Middle Age;New York;United States
+1582;21/11/2022;Laptop;Electronics; 76 ; 104 ; 782 ;28;Delivered;22/11/2022;1;2; 784 ;David Willy;Mr. Douglas Hebert;Male;65;Senior;Los Angeles;United States
+1583;12/03/2022;T-shirt;Clothing; 50 ; 79 ; 807 ;28;Delivered;16/03/2022;4;5; 812 ;David Willy;Leslie White;Male;51;Senior;Chicago;United States
+1584;31/01/2022;Watch;Accessories; 21 ; 54 ; 1.117 ;34;Delivered;02/02/2022;2;5; 1.122 ;Emily Lizz;Lydia Gonzalez;Male;49;Middle Age;Washington, D.C.;United States
+1585;23/03/2022;Sandles;Footwear; 82 ; 120 ; 1.211 ;32;Delivered;28/03/2022;5;5; 1.216 ;David Willy;Robert Lee;Male;40;Middle Age;Seattle;United States
+1586;01/08/2022;Jeans;Clothing; 92 ; 114 ; 391 ;18;Delivered;03/08/2022;2;5; 396 ;Lisa Rizi;Nicole Anderson;Male;32;Middle Age;Atlanta;United States
+1587;11/08/2022;Jeans;Clothing; 59 ; 78 ; 148 ;8;Delivered;18/08/2022;7;4; 152 ;David Willy;Mark Oneal;Male;29;Young;Miami;United States
+1588;01/02/2022;Jeans;Clothing; 63 ; 103 ; 1.955 ;49;Delivered;05/02/2022;4;5; 1.960 ;Chris Jordan;Joshua Smith MD;Male;30;Young;New York;United States
+1589;30/01/2022;Smartphone;Electronics; 68 ; 105 ; 812 ;22;Delivered;02/02/2022;3;2; 814 ;Arnold Fazer;Jill Bailey;Male;60;Senior;Chicago;United States
+1590;19/01/2022;Washing Machine;Appliances; 82 ; 95 ; 88 ;7;Delivered;22/01/2022;3;3; 91 ;Arnold Fazer;Nicole Peterson;Male;21;Young;Houston;United States
+1591;26/06/2022;T-shirt;Clothing; 46 ; 75 ; 1.215 ;42;Delivered;03/07/2022;7;3; 1.218 ;Chris Jordan;Stephen Long;Male;48;Middle Age;Washington, D.C.;United States
+1592;16/10/2022;Watch;Accessories; 44 ; 54 ; 315 ;32;Delivered;18/10/2022;2;5; 320 ;Arnold Fazer;Ryan Boone;Male;41;Middle Age;Boston;United States
+1593;10/02/2022;Watch;Accessories; 76 ; 93 ; 846 ;50;Delivered;15/02/2022;5;4; 850 ;Lisa Rizi;Sydney Phillips;Male;46;Middle Age;Boston;United States
+1594;30/08/2022;Laptop;Electronics; 57 ; 93 ; 862 ;24;Delivered;05/09/2022;6;2; 864 ;David Willy;Thomas Floyd;Male;33;Middle Age;Seattle;United States
+1595;23/02/2022;T-shirt;Clothing; 29 ; 52 ; 1.007 ;44;Delivered;02/03/2022;7;5; 1.012 ;Lisa Rizi;Christopher Cruz;Male;59;Senior;New York;United States
+1596;18/01/2022;Sandles;Footwear; 53 ; 81 ; 1.089 ;39;Delivered;19/01/2022;1;3; 1.092 ;Arnold Fazer;Amanda Brooks;Male;65;Senior;New York;United States
+1597;10/03/2022;Sandles;Footwear; 96 ; 114 ; 896 ;50;Delivered;14/03/2022;4;4; 900 ;Lisa Rizi;Mr. Bruce Lopez;Male;36;Middle Age;Boston;United States
+1598;07/06/2022;TV;Electronics; 30 ; 40 ; 375 ;38;Delivered;12/06/2022;5;5; 380 ;Arnold Fazer;Chris Ashley;Male;51;Senior;Atlanta;United States
+1599;03/01/2022;Laptop;Electronics; 88 ; 98 ; 168 ;17;Delivered;08/01/2022;5;2; 170 ;Lisa Rizi;Jeffrey Reynolds;Male;34;Middle Age;Seattle;United States
+1600;17/09/2022;T-shirt;Clothing; 24 ; 35 ; 96 ;9;Delivered;19/09/2022;2;3; 99 ;Emily Lizz;Cody Torres;Male;33;Middle Age;Los Angeles;United States
+1601;09/06/2022;Sneakers;Footwear; 64 ; 88 ; 980 ;41;Delivered;13/06/2022;4;4; 984 ;David Willy;Patrick Cabrera;Male;45;Middle Age;New York;United States
+1602;13/03/2022;Sandles;Footwear; 46 ; 64 ; 878 ;49;Delivered;20/03/2022;7;4; 882 ;Emily Lizz;John Mullins;Male;29;Young;Los Angeles;United States
+1603;25/09/2022;Refrigerator;Appliances; 85 ; 104 ; 814 ;43;Delivered;01/10/2022;6;3; 817 ;Emily Lizz;Christina Brown;Male;25;Young;Atlanta;United States
+1604;15/04/2022;Sandles;Footwear; 98 ; 123 ; 72 ;3;Delivered;21/04/2022;6;3; 75 ;Lisa Rizi;Stephanie Scott;Male;37;Middle Age;Houston;United States
+1605;12/08/2022;T-shirt;Clothing; 49 ; 86 ; 1.365 ;37;Delivered;19/08/2022;7;4; 1.369 ;David Willy;Amy Hernandez;Male;53;Senior;Washington, D.C.;United States
+1606;18/12/2022;Jeans;Clothing; 82 ; 102 ; 316 ;16;Delivered;25/12/2022;7;4; 320 ;Lisa Rizi;Brady Holmes;Male;24;Young;Chicago;United States
+1607;03/07/2022;Jeans;Clothing; 94 ; 111 ; 185 ;11;Delivered;07/07/2022;4;2; 187 ;Emily Lizz;Megan Kerr;Male;60;Senior;New York;United States
+1608;28/07/2022;Smartphone;Electronics; 60 ; 73 ; 323 ;25;Delivered;03/08/2022;6;2; 325 ;Arnold Fazer;Brian Flores;Male;59;Senior;Seattle;United States
+1609;05/08/2022;Smartphone;Electronics; 80 ; 103 ; 1.123 ;49;Delivered;11/08/2022;6;4; 1.127 ;Chris Jordan;Kayla Long;Male;49;Middle Age;San Francisco;United States
+1610;05/06/2022;TV;Electronics; 57 ; 71 ; 683 ;49;Delivered;09/06/2022;4;3; 686 ;Arnold Fazer;Sean Hernandez;Male;33;Middle Age;New York;United States
+1611;31/10/2022;Watch;Accessories; 57 ; 88 ; 492 ;16;Delivered;01/11/2022;1;4; 496 ;David Willy;Catherine Hays;Male;55;Senior;New York;United States
+1612;27/07/2022;Refrigerator;Appliances; 38 ; 60 ; 965 ;44;Delivered;02/08/2022;6;3; 968 ;Emily Lizz;Sierra Pena;Male;38;Middle Age;Seattle;United States
+1613;22/01/2022;Sandles;Footwear; 20 ; 58 ; 1.478 ;39;Delivered;24/01/2022;2;4; 1.482 ;David Willy;Gabriel Brewer;Male;53;Senior;Seattle;United States
+1614;06/08/2022;Washing Machine;Appliances; 95 ; 127 ; 699 ;22;Delivered;09/08/2022;3;5; 704 ;Emily Lizz;Jason Alexander;Male;53;Senior;Atlanta;United States
+1615;21/09/2022;Watch;Accessories; 71 ; 109 ; 793 ;21;Delivered;26/09/2022;5;5; 798 ;Arnold Fazer;Adrienne Lyons;Male;41;Middle Age;Boston;United States
+1616;14/07/2022;Watch;Accessories; 79 ; 113 ; 539 ;16;Delivered;19/07/2022;5;5; 544 ;Emily Lizz;John Reyes;Male;36;Middle Age;Los Angeles;United States
+1617;20/06/2022;T-shirt;Clothing; 22 ; 34 ; 357 ;30;Delivered;23/06/2022;3;3; 360 ;Arnold Fazer;Tina Jackson;Male;60;Senior;Miami;United States
+1618;14/03/2022;Sandles;Footwear; 53 ; 85 ; 221 ;7;Delivered;15/03/2022;1;3; 224 ;Arnold Fazer;Abigail Miller;Male;54;Senior;Chicago;United States
+1619;15/04/2022;Washing Machine;Appliances; 77 ; 99 ; 525 ;24;Delivered;16/04/2022;1;3; 528 ;David Willy;Melissa Davidson;Male;47;Middle Age;Seattle;United States
+1620;06/09/2022;Sneakers;Footwear; 38 ; 51 ; 141 ;11;Delivered;09/09/2022;3;2; 143 ;David Willy;Zachary Hamilton;Male;56;Senior;Miami;United States
+1621;05/04/2022;Sandles;Footwear; 59 ; 84 ; 897 ;36;Delivered;12/04/2022;7;3; 900 ;Arnold Fazer;Edward Benitez;Male;45;Middle Age;Atlanta;United States
+1622;02/03/2022;Laptop;Electronics; 62 ; 89 ; 1.132 ;42;Delivered;07/03/2022;5;2; 1.134 ;Lisa Rizi;Anthony Mathews;Male;26;Young;San Francisco;United States
+1623;15/05/2022;Refrigerator;Appliances; 95 ; 119 ; 836 ;35;Delivered;19/05/2022;4;4; 840 ;Lisa Rizi;Alexis Clark;Male;16;Young;New York;United States
+1624;29/05/2022;Watch;Accessories; 55 ; 87 ; 638 ;20;Delivered;05/06/2022;7;2; 640 ;Arnold Fazer;Angelica Hines;Male;31;Middle Age;Boston;United States
+1625;25/03/2022;T-shirt;Clothing; 48 ; 67 ; 736 ;39;Delivered;01/04/2022;7;5; 741 ;Emily Lizz;Lindsay Harris;Male;39;Middle Age;Miami;United States
+1626;24/11/2022;Jeans;Clothing; 59 ; 70 ; 261 ;24;Delivered;01/12/2022;7;3; 264 ;Arnold Fazer;David Gamble;Male;57;Senior;Boston;United States
+1627;13/04/2022;T-shirt;Clothing; 52 ; 84 ; 1.372 ;43;Delivered;16/04/2022;3;4; 1.376 ;Emily Lizz;Emily Fuller;Male;40;Middle Age;Washington, D.C.;United States
+1628;29/08/2022;Sneakers;Footwear; 91 ; 129 ; 337 ;9;Delivered;02/09/2022;4;5; 342 ;Emily Lizz;Michelle Mckee;Male;48;Middle Age;Boston;United States
+1629;01/01/2022;Sneakers;Footwear; 71 ; 83 ; 116 ;10;Delivered;06/01/2022;5;4; 120 ;Emily Lizz;Troy Boyd;Male;37;Middle Age;Los Angeles;United States
+1630;10/10/2022;Washing Machine;Appliances; 37 ; 50 ; 621 ;48;Delivered;15/10/2022;5;3; 624 ;Chris Jordan;Whitney Anderson;Male;38;Middle Age;Seattle;United States
+1631;15/10/2022;Smartphone;Electronics; 59 ; 90 ; 121 ;4;Delivered;17/10/2022;2;3; 124 ;Emily Lizz;Lindsay Frazier;Male;20;Young;Boston;United States
+1632;27/04/2022;Jeans;Clothing; 20 ; 44 ; 526 ;22;Delivered;03/05/2022;6;2; 528 ;Emily Lizz;Hunter Lee;Male;25;Young;Seattle;United States
+1633;26/12/2022;Laptop;Electronics; 90 ; 107 ; 353 ;21;Delivered;28/12/2022;2;4; 357 ;Arnold Fazer;Jacob Parker;Male;37;Middle Age;Boston;United States
+1634;30/07/2022;Washing Machine;Appliances; 72 ; 88 ; 60 ;4;Delivered;05/08/2022;6;4; 64 ;Arnold Fazer;Dennis Ayala Jr.;Male;64;Senior;Chicago;United States
+1635;02/04/2022;Jeans;Clothing; 23 ; 48 ; 421 ;17;Delivered;08/04/2022;6;4; 425 ;Emily Lizz;Tanya Joseph;Male;16;Young;New York;United States
+1636;04/04/2022;T-shirt;Clothing; 24 ; 50 ; 1.114 ;43;Delivered;08/04/2022;4;4; 1.118 ;David Willy;Holly Scott;Male;50;Middle Age;New York;United States
+1637;30/05/2022;Jeans;Clothing; 91 ; 116 ; 397 ;16;Delivered;01/06/2022;2;3; 400 ;Chris Jordan;Angela Rice;Male;37;Middle Age;Chicago;United States
+1638;21/07/2022;Laptop;Electronics; 98 ; 111 ; 295 ;23;Delivered;27/07/2022;6;4; 299 ;Lisa Rizi;Glenn Wright;Male;53;Senior;Boston;United States
+1639;06/04/2022;Washing Machine;Appliances; 20 ; 36 ; 316 ;20;Delivered;11/04/2022;5;4; 320 ;Arnold Fazer;Michael Boyd;Male;22;Young;Boston;United States
+1640;28/01/2022;Watch;Accessories; 36 ; 58 ; 985 ;45;Delivered;29/01/2022;1;5; 990 ;Emily Lizz;Dr. Dana Hayes;Male;40;Middle Age;Chicago;United States
+1641;18/12/2022;Laptop;Electronics; 23 ; 50 ; 403 ;15;Delivered;22/12/2022;4;2; 405 ;David Willy;Morgan Leonard;Male;37;Middle Age;Boston;United States
+1642;07/06/2022;Jeans;Clothing; 23 ; 51 ; 975 ;35;Delivered;12/06/2022;5;5; 980 ;Arnold Fazer;Dennis Hartman;Male;48;Middle Age;Miami;United States
+1643;27/09/2022;Jeans;Clothing; 38 ; 65 ; 700 ;26;Delivered;02/10/2022;5;2; 702 ;Chris Jordan;Tammy Evans;Male;27;Young;Washington, D.C.;United States
+1644;13/07/2022;Watch;Accessories; 32 ; 57 ; 1.096 ;44;Delivered;18/07/2022;5;4; 1.100 ;Lisa Rizi;Miss Pamela Sanford;Male;59;Senior;Washington, D.C.;United States
+1645;16/04/2022;Smartphone;Electronics; 54 ; 68 ; 290 ;21;Delivered;22/04/2022;6;4; 294 ;David Willy;Jeffrey Warner;Male;34;Middle Age;Seattle;United States
+1646;21/02/2022;TV;Electronics; 47 ; 69 ; 986 ;45;Delivered;27/02/2022;6;4; 990 ;Lisa Rizi;Brandon Watson;Male;19;Young;Atlanta;United States
+1647;06/10/2022;Jeans;Clothing; 65 ; 97 ; 1.054 ;33;Delivered;13/10/2022;7;2; 1.056 ;David Willy;Kevin Saunders;Male;61;Senior;Los Angeles;United States
+1648;13/05/2022;T-shirt;Clothing; 57 ; 93 ; 1.400 ;39;Delivered;19/05/2022;6;4; 1.404 ;Arnold Fazer;Kim Harris;Male;26;Young;Atlanta;United States
+1649;03/10/2022;TV;Electronics; 65 ; 95 ; 1.375 ;46;Delivered;07/10/2022;4;5; 1.380 ;Lisa Rizi;Zachary Moody;Male;46;Middle Age;Miami;United States
+1650;19/06/2022;Jeans;Clothing; 36 ; 53 ; 541 ;32;Delivered;21/06/2022;2;3; 544 ;Arnold Fazer;Adam Goodwin;Male;40;Middle Age;Atlanta;United States
+1651;07/04/2022;Jeans;Clothing; 77 ; 89 ; 286 ;24;Delivered;14/04/2022;7;2; 288 ;Arnold Fazer;Ricky Walker;Male;38;Middle Age;Los Angeles;United States
+1652;21/05/2022;Sandles;Footwear; 88 ; 106 ; 445 ;25;Delivered;24/05/2022;3;5; 450 ;David Willy;Antonio Johnson;Male;40;Middle Age;Seattle;United States
+1653;15/02/2022;Jeans;Clothing; 21 ; 47 ; 1.140 ;44;Delivered;19/02/2022;4;4; 1.144 ;David Willy;James Rodriguez;Male;62;Senior;Seattle;United States
+1654;21/12/2022;Washing Machine;Appliances; 30 ; 69 ; 619 ;16;Delivered;23/12/2022;2;5; 624 ;Chris Jordan;Michael Johnson;Male;29;Young;Seattle;United States
+1655;31/03/2022;T-shirt;Clothing; 98 ; 130 ; 254 ;8;Delivered;07/04/2022;7;2; 256 ;Emily Lizz;Danielle Wong;Male;57;Senior;Chicago;United States
+1656;14/11/2022;Refrigerator;Appliances; 33 ; 71 ; 680 ;18;Delivered;16/11/2022;2;4; 684 ;David Willy;Katherine Delgado;Male;39;Middle Age;New York;United States
+1657;18/12/2022;T-shirt;Clothing; 46 ; 73 ; 671 ;25;Delivered;20/12/2022;2;4; 675 ;Emily Lizz;Chase Parker;Male;50;Middle Age;Houston;United States
+1658;26/11/2022;Jeans;Clothing; 86 ; 118 ; 605 ;19;Delivered;01/12/2022;5;3; 608 ;Emily Lizz;Kyle Robbins;Male;36;Middle Age;Atlanta;United States
+1659;03/03/2022;Laptop;Electronics; 42 ; 77 ; 30 ;1;Delivered;04/03/2022;1;5; 35 ;Lisa Rizi;Edward Craig;Male;61;Senior;Houston;United States
+1660;09/11/2022;Jeans;Clothing; 41 ; 75 ; 1.288 ;38;Delivered;12/11/2022;3;4; 1.292 ;Arnold Fazer;William Ferrell;Male;34;Middle Age;Atlanta;United States
+1661;13/10/2022;TV;Electronics; 79 ; 90 ; 130 ;12;Delivered;16/10/2022;3;2; 132 ;Arnold Fazer;Tiffany Walker;Male;30;Young;Seattle;United States
+1662;20/02/2022;Watch;Accessories; 21 ; 32 ; 248 ;23;Delivered;23/02/2022;3;5; 253 ;Emily Lizz;Heather King;Male;16;Young;Boston;United States
+1663;12/05/2022;Jeans;Clothing; 78 ; 89 ; 470 ;43;Delivered;19/05/2022;7;3; 473 ;Chris Jordan;Amanda Ward;Male;24;Young;Seattle;United States
+1664;04/09/2022;Smartphone;Electronics; 49 ; 79 ; 506 ;17;Delivered;06/09/2022;2;4; 510 ;Chris Jordan;Rachel Nichols;Male;23;Young;Washington, D.C.;United States
+1665;31/01/2022;Laptop;Electronics; 27 ; 55 ; 1.003 ;36;Delivered;06/02/2022;6;5; 1.008 ;David Willy;Judith Rose;Male;51;Senior;Seattle;United States
+1666;16/05/2022;Washing Machine;Appliances; 74 ; 101 ; 968 ;36;Delivered;18/05/2022;2;4; 972 ;Chris Jordan;Jeremy Gutierrez;Male;16;Young;Seattle;United States
+1667;03/04/2022;Sandles;Footwear; 34 ; 58 ; 20 ;1;Delivered;04/04/2022;1;4; 24 ;Emily Lizz;Tammie Shields;Male;55;Senior;Chicago;United States
+1668;07/05/2022;T-shirt;Clothing; 77 ; 108 ; 1.421 ;46;Delivered;14/05/2022;7;5; 1.426 ;Chris Jordan;David Glass;Male;51;Senior;Chicago;United States
+1669;28/05/2022;Jeans;Clothing; 97 ; 121 ; 1.077 ;45;Delivered;02/06/2022;5;3; 1.080 ;Lisa Rizi;Tiffany Mcintyre;Male;47;Middle Age;New York;United States
+1670;04/10/2022;Laptop;Electronics; 25 ; 62 ; 1.105 ;30;Delivered;08/10/2022;4;5; 1.110 ;Emily Lizz;Mrs. Christina Warner;Male;34;Middle Age;Chicago;United States
+1671;14/05/2022;Refrigerator;Appliances; 86 ; 100 ; 23 ;2;Delivered;20/05/2022;6;5; 28 ;David Willy;Christine Thomas;Male;48;Middle Age;Atlanta;United States
+1672;19/03/2022;TV;Electronics; 93 ; 115 ; 237 ;11;Delivered;25/03/2022;6;5; 242 ;Chris Jordan;Barbara Grimes;Male;48;Middle Age;Seattle;United States
+1673;04/09/2022;TV;Electronics; 64 ; 99 ; 486 ;14;Delivered;08/09/2022;4;4; 490 ;David Willy;Kent Newton;Male;44;Middle Age;New York;United States
+1674;10/02/2022;Laptop;Electronics; 63 ; 92 ; 1.242 ;43;Delivered;15/02/2022;5;5; 1.247 ;David Willy;Tammy Davis;Male;60;Senior;Seattle;United States
+1675;12/08/2022;Sandles;Footwear; 69 ; 92 ; 457 ;20;Delivered;17/08/2022;5;3; 460 ;Emily Lizz;Crystal Garcia;Male;35;Middle Age;New York;United States
+1676;03/09/2022;Watch;Accessories; 78 ; 116 ; 948 ;25;Delivered;06/09/2022;3;2; 950 ;David Willy;Mary Mitchell;Male;42;Middle Age;Chicago;United States
+1677;16/10/2022;TV;Electronics; 84 ; 94 ; 105 ;11;Delivered;23/10/2022;7;5; 110 ;David Willy;Michelle Glover;Male;60;Senior;Miami;United States
+1678;27/05/2022;TV;Electronics; 38 ; 54 ; 654 ;41;Delivered;31/05/2022;4;2; 656 ;Chris Jordan;William Abbott;Male;58;Senior;San Francisco;United States
+1679;05/03/2022;Sneakers;Footwear; 41 ; 61 ; 958 ;48;Delivered;11/03/2022;6;2; 960 ;Arnold Fazer;Kelli Miller;Male;47;Middle Age;Los Angeles;United States
+1680;16/07/2022;Smartphone;Electronics; 39 ; 70 ; 370 ;12;Delivered;17/07/2022;1;2; 372 ;David Willy;Tabitha Perez;Male;43;Middle Age;Seattle;United States
+1681;19/06/2022;Sandles;Footwear; 85 ; 98 ; 309 ;24;Delivered;20/06/2022;1;3; 312 ;Lisa Rizi;William Paul;Male;28;Young;Boston;United States
+1682;30/04/2022;Refrigerator;Appliances; 44 ; 67 ; 88 ;4;Delivered;07/05/2022;7;4; 92 ;Lisa Rizi;Jessica Smith;Male;62;Senior;Houston;United States
+1683;22/02/2022;Sneakers;Footwear; 95 ; 127 ; 637 ;20;Delivered;26/02/2022;4;3; 640 ;David Willy;Christopher Carroll;Male;30;Young;Los Angeles;United States
+1684;08/05/2022;Watch;Accessories; 92 ; 123 ; 462 ;15;Delivered;11/05/2022;3;3; 465 ;Lisa Rizi;Susan Myers;Male;59;Senior;Seattle;United States
+1685;23/01/2022;Smartphone;Electronics; 30 ; 66 ; 1.617 ;45;Delivered;29/01/2022;6;3; 1.620 ;David Willy;Vanessa Black;Male;32;Middle Age;Houston;United States
+1686;18/07/2022;Washing Machine;Appliances; 91 ; 115 ; 188 ;8;Delivered;24/07/2022;6;4; 192 ;Chris Jordan;Michelle Brooks;Male;19;Young;New York;United States
+1687;10/06/2022;Sneakers;Footwear; 36 ; 52 ; 187 ;12;Delivered;14/06/2022;4;5; 192 ;Chris Jordan;Jacob Andrews;Male;52;Senior;Boston;United States
+1688;27/11/2022;T-shirt;Clothing; 76 ; 111 ; 450 ;13;Delivered;03/12/2022;6;5; 455 ;Chris Jordan;Joseph Fleming;Male;55;Senior;Houston;United States
+1689;10/07/2022;Sneakers;Footwear; 96 ; 129 ; 229 ;7;Delivered;12/07/2022;2;2; 231 ;Arnold Fazer;Jeffrey Cannon;Male;56;Senior;Los Angeles;United States
+1690;30/09/2022;Washing Machine;Appliances; 40 ; 70 ; 86 ;3;Delivered;04/10/2022;4;4; 90 ;David Willy;Olivia Mcdowell;Male;27;Young;New York;United States
+1691;01/08/2022;Smartphone;Electronics; 56 ; 71 ; 731 ;49;Delivered;05/08/2022;4;4; 735 ;Chris Jordan;Kim Martinez;Male;61;Senior;San Francisco;United States
+1692;07/02/2022;Jeans;Clothing; 53 ; 75 ; 416 ;19;Delivered;14/02/2022;7;2; 418 ;Chris Jordan;Debra George;Male;16;Young;Houston;United States
+1693;19/04/2022;Laptop;Electronics; 91 ; 122 ; 1.330 ;43;Delivered;23/04/2022;4;3; 1.333 ;Chris Jordan;Amy Guerrero;Male;38;Middle Age;Washington, D.C.;United States
+1694;25/10/2022;Washing Machine;Appliances; 54 ; 88 ; 1.221 ;36;Delivered;29/10/2022;4;3; 1.224 ;David Willy;Randy Edwards;Male;64;Senior;Chicago;United States
+1695;14/06/2022;Laptop;Electronics; 69 ; 90 ; 583 ;28;Delivered;18/06/2022;4;5; 588 ;Emily Lizz;Robert Mcintyre;Male;28;Young;Washington, D.C.;United States
+1696;22/09/2022;Refrigerator;Appliances; 25 ; 43 ; 33 ;2;Delivered;25/09/2022;3;3; 36 ;Lisa Rizi;Richard Reid;Male;56;Senior;Atlanta;United States
+1697;02/05/2022;Refrigerator;Appliances; 61 ; 88 ; 886 ;33;Delivered;07/05/2022;5;5; 891 ;Emily Lizz;Shannon Willis;Male;44;Middle Age;Miami;United States
+1698;18/12/2022;Jeans;Clothing; 61 ; 74 ; 437 ;34;Delivered;25/12/2022;7;5; 442 ;David Willy;Richard Hood;Male;58;Senior;New York;United States
+1699;07/03/2022;Washing Machine;Appliances; 51 ; 66 ; 613 ;41;Delivered;08/03/2022;1;2; 615 ;David Willy;Ms. Hannah Hall;Male;37;Middle Age;San Francisco;United States
+1700;24/10/2022;T-shirt;Clothing; 42 ; 70 ; 362 ;13;Delivered;27/10/2022;3;2; 364 ;Lisa Rizi;Elizabeth Smith;Male;28;Young;Los Angeles;United States
+1701;08/05/2022;Watch;Accessories; 59 ; 92 ; 622 ;19;Delivered;10/05/2022;2;5; 627 ;Arnold Fazer;Mary Garcia;Male;34;Middle Age;Boston;United States
+1702;20/08/2022;T-shirt;Clothing; 23 ; 33 ; 128 ;13;Delivered;26/08/2022;6;2; 130 ;Arnold Fazer;Amy Johnson;Male;28;Young;Miami;United States
+1703;12/02/2022;Laptop;Electronics; 64 ; 84 ; 377 ;19;Delivered;18/02/2022;6;3; 380 ;Emily Lizz;Jason Stewart;Male;16;Young;San Francisco;United States
+1704;07/05/2022;Smartphone;Electronics; 39 ; 59 ; 557 ;28;Delivered;08/05/2022;1;3; 560 ;David Willy;Jacob Garcia;Male;50;Middle Age;Los Angeles;United States
+1705;04/05/2022;Refrigerator;Appliances; 33 ; 67 ; 97 ;3;Delivered;11/05/2022;7;5; 102 ;David Willy;Paul Ferguson;Male;48;Middle Age;San Francisco;United States
+1706;10/02/2022;T-shirt;Clothing; 98 ; 133 ; 33 ;1;Delivered;16/02/2022;6;2; 35 ;Chris Jordan;Jennifer Jones;Male;54;Senior;Chicago;United States
+1707;17/07/2022;Watch;Accessories; 50 ; 79 ; 404 ;14;Delivered;21/07/2022;4;2; 406 ;Chris Jordan;Emily Hopkins;Male;28;Young;New York;United States
+1708;28/11/2022;Washing Machine;Appliances; 37 ; 52 ; 747 ;50;Delivered;05/12/2022;7;3; 750 ;Chris Jordan;Steven Martinez;Male;50;Middle Age;San Francisco;United States
+1709;24/03/2022;TV;Electronics; 59 ; 72 ; 86 ;7;Delivered;31/03/2022;7;5; 91 ;Arnold Fazer;Donald Lucero;Male;32;Middle Age;Washington, D.C.;United States
+1710;03/04/2022;Sandles;Footwear; 26 ; 43 ; 795 ;47;Delivered;04/04/2022;1;4; 799 ;Arnold Fazer;Joseph Sanchez;Male;35;Middle Age;Los Angeles;United States
+1711;24/01/2022;Sneakers;Footwear; 66 ; 99 ; 427 ;13;Delivered;29/01/2022;5;2; 429 ;Arnold Fazer;Tracy Williams;Male;33;Middle Age;Atlanta;United States
+1712;09/05/2022;Washing Machine;Appliances; 94 ; 123 ; 577 ;20;Delivered;13/05/2022;4;3; 580 ;Emily Lizz;Scott Ross MD;Male;37;Middle Age;Boston;United States
+1713;16/02/2022;Sandles;Footwear; 66 ; 81 ; 41 ;3;Delivered;22/02/2022;6;4; 45 ;David Willy;Devin Everett;Male;27;Young;San Francisco;United States
+1714;16/10/2022;Watch;Accessories; 52 ; 71 ; 851 ;45;Delivered;19/10/2022;3;4; 855 ;Emily Lizz;Elizabeth Whitney;Female;55;Senior;New York;United States
+1715;15/05/2022;Laptop;Electronics; 20 ; 47 ; 481 ;18;Delivered;16/05/2022;1;5; 486 ;Lisa Rizi;Christine Williams;Female;29;Young;Atlanta;United States
+1716;06/06/2022;Washing Machine;Appliances; 34 ; 46 ; 476 ;40;Delivered;07/06/2022;1;4; 480 ;Arnold Fazer;Sean Wilson;Male;30;Young;Chicago;United States
+1717;17/03/2022;Laptop;Electronics; 66 ; 100 ; 812 ;24;Delivered;24/03/2022;7;4; 816 ;Arnold Fazer;Jamie Williams;Female;33;Middle Age;Los Angeles;United States
+1718;25/08/2022;Washing Machine;Appliances; 35 ; 75 ; 1.356 ;34;Delivered;30/08/2022;5;4; 1.360 ;Chris Jordan;Sonya Dawson;Male;28;Young;Houston;United States
+1719;18/02/2022;TV;Electronics; 25 ; 36 ; 50 ;5;Delivered;24/02/2022;6;5; 55 ;David Willy;Dalton Ramirez;Male;59;Senior;Miami;United States
+1720;10/11/2022;Refrigerator;Appliances; 45 ; 73 ; 667 ;24;Delivered;12/11/2022;2;5; 672 ;Lisa Rizi;Madeline Jones;Male;43;Middle Age;Chicago;United States
+1721;12/11/2022;Smartphone;Electronics; 36 ; 67 ; 91 ;3;Delivered;16/11/2022;4;2; 93 ;Lisa Rizi;Heidi Abbott;Female;50;Middle Age;New York;United States
+1722;19/01/2022;Jeans;Clothing; 98 ; 130 ; 475 ;15;Delivered;25/01/2022;6;5; 480 ;David Willy;Kristy Gonzalez;Female;48;Middle Age;Seattle;United States
+1723;26/02/2022;TV;Electronics; 43 ; 81 ; 1.822 ;48;Delivered;03/03/2022;5;2; 1.824 ;Emily Lizz;Seth Clark;Female;25;Young;Atlanta;United States
+1724;13/09/2022;Laptop;Electronics; 51 ; 82 ; 617 ;20;Delivered;15/09/2022;2;3; 620 ;Emily Lizz;Crystal Russell;Female;32;Middle Age;Chicago;United States
+1725;08/08/2022;Jeans;Clothing; 21 ; 48 ; 1.213 ;45;Delivered;12/08/2022;4;2; 1.215 ;Lisa Rizi;Cassandra Taylor;Female;29;Young;Los Angeles;United States
+1726;27/07/2022;Sandles;Footwear; 50 ; 67 ; 166 ;10;Delivered;03/08/2022;7;4; 170 ;Emily Lizz;Paul Reed;Male;64;Senior;New York;United States
+1727;21/08/2022;Sneakers;Footwear; 45 ; 74 ; 112 ;4;Delivered;25/08/2022;4;4; 116 ;David Willy;Dustin Brown;Male;62;Senior;San Francisco;United States
+1728;23/09/2022;Watch;Accessories; 75 ; 92 ; 49 ;3;Delivered;27/09/2022;4;2; 51 ;Arnold Fazer;Daniel Murphy;Female;16;Young;Boston;United States
+1729;10/09/2022;Laptop;Electronics; 30 ; 57 ; 592 ;22;Delivered;17/09/2022;7;2; 594 ;Lisa Rizi;Jennifer Mitchell;Female;55;Senior;Washington, D.C.;United States
+1730;19/02/2022;Smartphone;Electronics; 79 ; 114 ; 1.677 ;48;Delivered;26/02/2022;7;3; 1.680 ;Lisa Rizi;Beverly Salazar;Female;21;Young;Los Angeles;United States
+1731;09/07/2022;TV;Electronics; 95 ; 134 ; 190 ;5;Delivered;16/07/2022;7;5; 195 ;Chris Jordan;Tanner Taylor;Male;63;Senior;San Francisco;United States
+1732;09/09/2022;Laptop;Electronics; 57 ; 67 ; 257 ;26;Delivered;14/09/2022;5;3; 260 ;Chris Jordan;Dana Sexton;Female;23;Young;Los Angeles;United States
+1733;11/08/2022;Watch;Accessories; 51 ; 82 ; 401 ;13;Delivered;12/08/2022;1;2; 403 ;Emily Lizz;Sandy Walter;Male;27;Young;Houston;United States
+1734;12/04/2022;Sneakers;Footwear; 97 ; 115 ; 34 ;2;Delivered;15/04/2022;3;2; 36 ;Arnold Fazer;Penny Walker;Female;27;Young;Miami;United States
+1735;31/08/2022;Watch;Accessories; 73 ; 111 ; 109 ;3;Delivered;03/09/2022;3;5; 114 ;Arnold Fazer;Rebecca Cruz;Male;65;Senior;Chicago;United States
+1736;01/01/2022;Washing Machine;Appliances; 30 ; 65 ; 521 ;15;Delivered;02/01/2022;1;4; 525 ;David Willy;John Smith;Male;31;Middle Age;Atlanta;United States
+1737;21/05/2022;Watch;Accessories; 56 ; 87 ; 212 ;7;Delivered;25/05/2022;4;5; 217 ;Emily Lizz;Ashley Bryan;Male;47;Middle Age;Los Angeles;United States
+1738;13/01/2022;T-shirt;Clothing; 65 ; 97 ; 251 ;8;Delivered;19/01/2022;6;5; 256 ;Lisa Rizi;Tyler Gates;Male;33;Middle Age;Boston;United States
+1739;17/05/2022;Washing Machine;Appliances; 57 ; 91 ; 1.494 ;44;Delivered;22/05/2022;5;2; 1.496 ;David Willy;Kevin Alvarado;Female;58;Senior;Los Angeles;United States
+1740;02/06/2022;Washing Machine;Appliances; 80 ; 98 ; 358 ;20;Delivered;04/06/2022;2;2; 360 ;Chris Jordan;Lauren Mccall;Male;20;Young;Los Angeles;United States
+1741;12/04/2022;T-shirt;Clothing; 80 ; 90 ; 255 ;26;Delivered;16/04/2022;4;5; 260 ;Chris Jordan;Michael Flores;Male;24;Young;Seattle;United States
+1742;25/04/2022;Watch;Accessories; 26 ; 45 ; 643 ;34;Delivered;02/05/2022;7;3; 646 ;Emily Lizz;John Davis;Female;56;Senior;Chicago;United States
+1743;24/07/2022;TV;Electronics; 26 ; 43 ; 29 ;2;Delivered;31/07/2022;7;5; 34 ;Chris Jordan;Martin Wilson;Female;44;Middle Age;Boston;United States
+1744;10/07/2022;Refrigerator;Appliances; 55 ; 72 ; 813 ;48;Delivered;17/07/2022;7;3; 816 ;Lisa Rizi;Dr. Raymond Smith;Female;62;Senior;Atlanta;United States
+1745;13/04/2022;Sandles;Footwear; 36 ; 56 ; 218 ;11;Delivered;15/04/2022;2;2; 220 ;Chris Jordan;Deborah Stafford;Female;47;Middle Age;Chicago;United States
+1746;02/09/2022;T-shirt;Clothing; 68 ; 96 ; 1.284 ;46;Delivered;09/09/2022;7;4; 1.288 ;Emily Lizz;Julia Nguyen;Male;25;Young;Los Angeles;United States
+1747;11/05/2022;T-shirt;Clothing; 28 ; 68 ; 516 ;13;Delivered;16/05/2022;5;4; 520 ;Lisa Rizi;Tracy Bowers;Male;25;Young;Houston;United States
+1748;07/02/2022;Sandles;Footwear; 87 ; 97 ; 186 ;19;Delivered;12/02/2022;5;4; 190 ;David Willy;Patricia Johnson;Female;51;Senior;Seattle;United States
+1749;23/11/2022;TV;Electronics; 45 ; 85 ; 1.438 ;36;Delivered;28/11/2022;5;2; 1.440 ;David Willy;Robin Sullivan;Female;56;Senior;Chicago;United States
+1750;19/07/2022;Jeans;Clothing; 67 ; 80 ; 99 ;8;Delivered;25/07/2022;6;5; 104 ;Emily Lizz;Tammy Mccormick;Female;33;Middle Age;Los Angeles;United States
+1751;24/07/2022;T-shirt;Clothing; 81 ; 99 ; 608 ;34;Delivered;25/07/2022;1;4; 612 ;Emily Lizz;Jason Payne;Male;21;Young;Los Angeles;United States
+1752;05/11/2022;Jeans;Clothing; 61 ; 88 ; 1.024 ;38;Delivered;10/11/2022;5;2; 1.026 ;Arnold Fazer;Ashley Hughes;Female;60;Senior;Boston;United States
+1753;14/07/2022;TV;Electronics; 99 ; 127 ; 555 ;20;Delivered;21/07/2022;7;5; 560 ;Arnold Fazer;Cody Holden;Male;27;Young;Washington, D.C.;United States
+1754;05/08/2022;Jeans;Clothing; 32 ; 47 ; 57 ;4;Delivered;10/08/2022;5;3; 60 ;Arnold Fazer;Michael Nguyen;Male;34;Middle Age;Chicago;United States
+1755;01/06/2022;Sandles;Footwear; 96 ; 128 ; 1.342 ;42;Delivered;04/06/2022;3;2; 1.344 ;Lisa Rizi;Michael Johnson;Female;58;Senior;Houston;United States
+1756;18/09/2022;TV;Electronics; 43 ; 60 ; 642 ;38;Delivered;20/09/2022;2;4; 646 ;Lisa Rizi;Anthony Rowe;Female;48;Middle Age;Miami;United States
+1757;15/12/2022;Refrigerator;Appliances; 92 ; 121 ; 199 ;7;Delivered;19/12/2022;4;4; 203 ;Chris Jordan;Michael Pacheco;Male;23;Young;New York;United States
+1758;30/07/2022;Jeans;Clothing; 40 ; 53 ; 543 ;42;Delivered;06/08/2022;7;3; 546 ;David Willy;William Meyers;Female;43;Middle Age;Miami;United States
+1759;24/05/2022;Laptop;Electronics; 23 ; 57 ; 677 ;20;Delivered;29/05/2022;5;3; 680 ;Arnold Fazer;Brandon Wagner;Female;28;Young;Seattle;United States
+1760;10/03/2022;Sandles;Footwear; 20 ; 49 ; 1.099 ;38;Delivered;12/03/2022;2;3; 1.102 ;Chris Jordan;Richard Gonzalez;Female;23;Young;Washington, D.C.;United States
+1761;12/10/2022;Watch;Accessories; 85 ; 123 ; 1.708 ;45;Delivered;18/10/2022;6;2; 1.710 ;Lisa Rizi;Alexa Brown;Female;54;Senior;San Francisco;United States
+1762;14/08/2022;Sneakers;Footwear; 45 ; 78 ; 1.117 ;34;Delivered;19/08/2022;5;5; 1.122 ;Chris Jordan;David Tran;Female;64;Senior;Houston;United States
+1763;10/02/2022;T-shirt;Clothing; 97 ; 107 ; 26 ;3;Delivered;14/02/2022;1;4; 30 ;Chris Jordan;Jessica Duffy;Male;61;Senior;Seattle;United States
+1764;28/11/2022;Washing Machine;Appliances; 87 ; 109 ; 658 ;30;Delivered;04/12/2022;6;2; 660 ;Emily Lizz;Alex Smith;Male;34;Middle Age;Atlanta;United States
+1765;25/01/2022;Sneakers;Footwear; 39 ; 51 ; 19 ;2;Delivered;31/01/2022;6;5; 24 ;David Willy;Rachel Smith;Male;22;Young;Los Angeles;United States
+1766;30/01/2022;Jeans;Clothing; 27 ; 64 ; 1.846 ;50;Delivered;05/02/2022;6;4; 1.850 ;Emily Lizz;Lisa Kim;Male;25;Young;San Francisco;United States
+1767;02/07/2022;TV;Electronics; 91 ; 102 ; 413 ;38;Delivered;09/07/2022;7;5; 418 ;Arnold Fazer;Dr. Mallory Johnston;Male;21;Young;Chicago;United States
+1768;22/09/2022;Laptop;Electronics; 88 ; 104 ; 542 ;34;Delivered;27/09/2022;5;2; 544 ;David Willy;Brittney Wolf;Female;51;Senior;Boston;United States
+1769;20/08/2022;TV;Electronics; 95 ; 134 ; 112 ;3;Delivered;23/08/2022;3;5; 117 ;David Willy;Stephanie Clark;Male;28;Young;Washington, D.C.;United States
+1770;28/01/2022;Jeans;Clothing; 67 ; 92 ; 248 ;10;Delivered;02/02/2022;5;2; 250 ;Arnold Fazer;Dr. Kenneth Wilson;Male;49;Middle Age;Los Angeles;United States
+1771;22/06/2022;T-shirt;Clothing; 86 ; 105 ; 71 ;4;Delivered;23/06/2022;1;5; 76 ;Arnold Fazer;Kirk Sims;Male;25;Young;Houston;United States
+1772;04/08/2022;Smartphone;Electronics; 84 ; 116 ; 1.021 ;32;Delivered;07/08/2022;3;3; 1.024 ;Chris Jordan;Debra Sherman;Female;25;Young;Miami;United States
+1773;30/01/2022;Refrigerator;Appliances; 35 ; 67 ; 572 ;18;Delivered;01/02/2022;2;4; 576 ;Lisa Rizi;Christopher Weaver;Female;58;Senior;Chicago;United States
+1774;15/06/2022;Refrigerator;Appliances; 85 ; 119 ; 1.151 ;34;Delivered;21/06/2022;6;5; 1.156 ;Lisa Rizi;Isaac Key;Female;57;Senior;Chicago;United States
+1775;17/07/2022;Sneakers;Footwear; 92 ; 115 ; 641 ;28;Delivered;20/07/2022;3;3; 644 ;David Willy;Richard Mcbride;Male;59;Senior;Houston;United States
+1776;10/06/2022;Watch;Accessories; 99 ; 130 ; 1.174 ;38;Delivered;15/06/2022;5;4; 1.178 ;Chris Jordan;Joseph Johnson;Male;31;Middle Age;Washington, D.C.;United States
+1777;03/04/2022;Watch;Accessories; 70 ; 100 ; 958 ;32;Delivered;10/04/2022;7;2; 960 ;Lisa Rizi;Stephanie Hall;Female;16;Young;New York;United States
+1778;23/01/2022;Washing Machine;Appliances; 34 ; 51 ; 218 ;13;Delivered;30/01/2022;7;3; 221 ;Lisa Rizi;Samantha Palmer;Female;18;Young;Seattle;United States
+1779;17/11/2022;Refrigerator;Appliances; 83 ; 119 ; 574 ;16;Delivered;24/11/2022;7;2; 576 ;Arnold Fazer;Anna Thomas;Male;34;Middle Age;San Francisco;United States
+1780;02/04/2022;Sneakers;Footwear; 37 ; 47 ; 317 ;32;Delivered;08/04/2022;6;3; 320 ;Emily Lizz;Darrell Thompson;Female;46;Middle Age;New York;United States
+1781;03/04/2022;Smartphone;Electronics; 22 ; 53 ; 1.329 ;43;Delivered;06/04/2022;3;4; 1.333 ;Chris Jordan;Bradley Johnson;Female;37;Middle Age;Atlanta;United States
+1782;30/08/2022;Jeans;Clothing; 82 ; 99 ; 404 ;24;Delivered;06/09/2022;7;4; 408 ;Lisa Rizi;Rebecca Miller;Male;28;Young;Houston;United States
+1783;08/01/2022;T-shirt;Clothing; 44 ; 65 ; 1.047 ;50;Delivered;09/01/2022;1;3; 1.050 ;Arnold Fazer;Victor Mack;Male;50;Middle Age;Houston;United States
+1784;05/08/2022;Washing Machine;Appliances; 45 ; 59 ; 121 ;9;Delivered;11/08/2022;6;5; 126 ;Emily Lizz;Sara Watson;Female;32;Middle Age;New York;United States
+1785;21/09/2022;Washing Machine;Appliances; 54 ; 66 ; 463 ;39;Delivered;25/09/2022;4;5; 468 ;Chris Jordan;Ralph Montgomery;Male;44;Middle Age;Seattle;United States
+1786;23/11/2022;Smartphone;Electronics; 25 ; 36 ; 185 ;17;Delivered;25/11/2022;2;2; 187 ;David Willy;Allen Griffith;Female;21;Young;Los Angeles;United States
+1787;02/05/2022;Watch;Accessories; 38 ; 73 ; 1.676 ;48;Delivered;05/05/2022;3;4; 1.680 ;Lisa Rizi;Robert Snyder;Female;57;Senior;Miami;United States
+1788;18/02/2022;Sneakers;Footwear; 54 ; 66 ; 307 ;26;Delivered;22/02/2022;4;5; 312 ;David Willy;Matthew Kerr;Female;58;Senior;Miami;United States
+1789;21/12/2022;Sandles;Footwear; 54 ; 66 ; 322 ;27;Delivered;22/12/2022;1;2; 324 ;Chris Jordan;Adam Harris;Male;51;Senior;Los Angeles;United States
+1790;03/05/2022;Jeans;Clothing; 83 ; 94 ; 470 ;43;Delivered;06/05/2022;3;3; 473 ;Emily Lizz;Angela Mills;Male;27;Young;Houston;United States
+1791;15/09/2022;T-shirt;Clothing; 38 ; 53 ; 416 ;28;Delivered;17/09/2022;1;4; 420 ;Chris Jordan;Felicia Estes;Male;50;Middle Age;Washington, D.C.;United States
+1792;23/05/2022;Sandles;Footwear; 76 ; 98 ; 502 ;23;Delivered;25/05/2022;2;4; 506 ;Emily Lizz;Samantha Matthews DVM;Female;36;Middle Age;Los Angeles;United States
+1793;19/08/2022;Refrigerator;Appliances; 38 ; 68 ; 355 ;12;Delivered;24/08/2022;5;5; 360 ;Chris Jordan;Richard Bowman;Male;44;Middle Age;Miami;United States
+1794;23/06/2022;Laptop;Electronics; 66 ; 78 ; 223 ;19;Delivered;27/06/2022;4;5; 228 ;Chris Jordan;Sara Watkins;Male;51;Senior;Washington, D.C.;United States
+1795;16/06/2022;Jeans;Clothing; 37 ; 66 ; 228 ;8;Delivered;17/06/2022;1;4; 232 ;David Willy;Michelle Newman;Male;17;Young;Seattle;United States
+1796;12/09/2022;Jeans;Clothing; 64 ; 86 ; 1.096 ;50;Delivered;19/09/2022;7;4; 1.100 ;Emily Lizz;Heidi White;Female;38;Middle Age;Chicago;United States
+1797;01/09/2022;T-shirt;Clothing; 98 ; 137 ; 154 ;4;Delivered;06/09/2022;1;2; 156 ;Chris Jordan;Barbara Gomez;Male;26;Young;Los Angeles;United States
+1798;28/06/2022;Watch;Accessories; 97 ; 123 ; 1.141 ;44;Delivered;05/07/2022;7;3; 1.144 ;Emily Lizz;Brian Davis;Male;43;Middle Age;Seattle;United States
+1799;17/05/2022;Laptop;Electronics; 97 ; 132 ; 278 ;8;Delivered;22/05/2022;5;2; 280 ;Chris Jordan;Sandra Reed;Female;49;Middle Age;Atlanta;United States
+1800;19/11/2022;T-shirt;Clothing; 59 ; 69 ; 198 ;20;Delivered;20/11/2022;1;2; 200 ;Lisa Rizi;Megan Jordan;Male;53;Senior;Miami;United States
+1801;16/04/2022;Laptop;Electronics; 50 ; 83 ; 822 ;25;Delivered;17/04/2022;1;3; 825 ;Arnold Fazer;Amy Mcmahon;Female;18;Young;New York;United States
+1802;18/03/2022;Refrigerator;Appliances; 79 ; 90 ; 259 ;24;Delivered;25/03/2022;7;5; 264 ;Lisa Rizi;Dave Beck;Female;45;Middle Age;Los Angeles;United States
+1803;13/02/2022;T-shirt;Clothing; 98 ; 112 ; 403 ;29;Delivered;17/02/2022;1;3; 406 ;Lisa Rizi;Jennifer George;Male;17;Young;Los Angeles;United States
+1804;03/09/2022;Sneakers;Footwear; 64 ; 103 ; 1.479 ;38;Delivered;09/09/2022;6;3; 1.482 ;Arnold Fazer;Melissa Brown MD;Female;39;Middle Age;New York;United States
+1805;19/06/2022;Sandles;Footwear; 36 ; 71 ; 30 ;1;Delivered;23/06/2022;4;5; 35 ;David Willy;Veronica Payne;Male;49;Middle Age;New York;United States
+1806;19/01/2022;Jeans;Clothing; 39 ; 59 ; 397 ;20;Delivered;26/01/2022;7;3; 400 ;Chris Jordan;Mary Scott;Female;51;Senior;Los Angeles;United States
+1807;26/09/2022;T-shirt;Clothing; 55 ; 71 ; 45 ;3;Delivered;01/10/2022;1;3; 48 ;Arnold Fazer;Elizabeth Pena;Male;58;Senior;Houston;United States
+1808;18/12/2022;Sandles;Footwear; 50 ; 66 ; 797 ;50;Delivered;19/12/2022;1;3; 800 ;Arnold Fazer;Dustin Anderson;Male;51;Senior;New York;United States
+1809;07/01/2022;Watch;Accessories; 99 ; 109 ; 288 ;29;Delivered;10/01/2022;3;2; 290 ;David Willy;Michael Bishop;Male;50;Middle Age;Atlanta;United States
+1810;30/07/2022;Laptop;Electronics; 62 ; 93 ; 553 ;18;Delivered;06/08/2022;7;5; 558 ;Chris Jordan;Carrie Short;Male;46;Middle Age;Atlanta;United States
+1811;25/02/2022;Sneakers;Footwear; 38 ; 58 ; 178 ;9;Delivered;04/03/2022;7;2; 180 ;Arnold Fazer;Francis Ramirez;Female;28;Young;New York;United States
+1812;13/11/2022;Sandles;Footwear; 99 ; 111 ; 69 ;6;Delivered;15/11/2022;2;3; 72 ;Arnold Fazer;Alison Fletcher;Female;20;Young;New York;United States
+1813;13/10/2022;Laptop;Electronics; 89 ; 104 ; 251 ;17;Delivered;16/10/2022;3;4; 255 ;David Willy;Victoria Rodriguez;Male;45;Middle Age;New York;United States
+1814;31/10/2022;Washing Machine;Appliances; 26 ; 44 ; 518 ;29;Delivered;02/11/2022;2;4; 522 ;Chris Jordan;Miguel Snyder;Male;45;Middle Age;Los Angeles;United States
+1815;03/05/2022;Watch;Accessories; 50 ; 60 ; 418 ;42;Delivered;07/05/2022;4;2; 420 ;Emily Lizz;Michael Hayes;Female;24;Young;Atlanta;United States
+1816;01/01/2022;T-shirt;Clothing; 50 ; 87 ; 1.737 ;47;Delivered;03/01/2022;1;2; 1.739 ;David Willy;Sherri Webster;Male;32;Middle Age;Boston;United States
+1817;15/01/2022;Laptop;Electronics; 95 ; 125 ; 55 ;2;Delivered;21/01/2022;6;5; 60 ;David Willy;Gabriel Hart;Female;62;Senior;San Francisco;United States
+1818;23/09/2022;Smartphone;Electronics; 75 ; 104 ; 664 ;23;Delivered;30/09/2022;7;3; 667 ;Emily Lizz;Tammy Sharp;Male;30;Young;Atlanta;United States
+1819;11/03/2022;Laptop;Electronics; 29 ; 59 ; 1.078 ;36;Delivered;16/03/2022;5;2; 1.080 ;Emily Lizz;Eric Walker;Male;44;Middle Age;Seattle;United States
+1820;11/03/2022;Washing Machine;Appliances; 60 ; 96 ; 573 ;16;Delivered;14/03/2022;3;3; 576 ;Chris Jordan;Tina Taylor;Male;60;Senior;New York;United States
+1821;29/07/2022;T-shirt;Clothing; 99 ; 117 ; 358 ;20;Delivered;04/08/2022;1;2; 360 ;Lisa Rizi;Ashley Marshall;Male;44;Middle Age;Boston;United States
+1822;25/07/2022;Watch;Accessories; 40 ; 60 ; 915 ;46;Delivered;01/08/2022;7;5; 920 ;Arnold Fazer;Alexander Spence;Male;59;Senior;Seattle;United States
+1823;25/01/2022;T-shirt;Clothing; 94 ; 113 ; 584 ;31;Delivered;31/01/2022;1;5; 589 ;Chris Jordan;Kimberly Rogers;Male;50;Middle Age;Atlanta;United States
+1824;11/09/2022;Watch;Accessories; 73 ; 101 ; 725 ;26;Delivered;16/09/2022;5;3; 728 ;Emily Lizz;Kimberly Orozco;Female;50;Middle Age;Miami;United States
+1825;25/12/2022;Washing Machine;Appliances; 56 ; 74 ; 753 ;42;Delivered;29/12/2022;4;3; 756 ;Chris Jordan;Michael Kelly;Male;60;Senior;Washington, D.C.;United States
+1826;21/12/2022;TV;Electronics; 96 ; 107 ; 349 ;32;Delivered;24/12/2022;3;3; 352 ;Arnold Fazer;Andrea Simmons;Male;55;Senior;New York;United States
+1827;01/10/2022;Sandles;Footwear; 33 ; 71 ; 1.402 ;37;Delivered;06/10/2022;5;4; 1.406 ;David Willy;Alex Taylor;Male;42;Middle Age;Atlanta;United States
+1828;31/03/2022;Laptop;Electronics; 76 ; 105 ; 633 ;22;Delivered;03/04/2022;3;5; 638 ;Emily Lizz;Douglas Austin;Male;39;Middle Age;Chicago;United States
+1829;01/11/2022;Smartphone;Electronics; 49 ; 63 ; 471 ;34;Delivered;02/11/2022;1;5; 476 ;Lisa Rizi;Molly Ashley;Male;50;Middle Age;Chicago;United States
+1830;03/06/2022;TV;Electronics; 63 ; 95 ; 796 ;25;Delivered;05/06/2022;2;4; 800 ;David Willy;John Anderson;Male;37;Middle Age;Seattle;United States
+1831;08/04/2022;Sandles;Footwear; 47 ; 79 ; 1.469 ;46;Delivered;13/04/2022;5;3; 1.472 ;Arnold Fazer;Jeremy Daniels;Female;38;Middle Age;Los Angeles;United States
+1832;13/04/2022;Refrigerator;Appliances; 31 ; 64 ; 1.647 ;50;Delivered;16/04/2022;3;3; 1.650 ;Lisa Rizi;Mr. Michael Rivera;Male;60;Senior;Chicago;United States
+1833;16/05/2022;Watch;Accessories; 50 ; 83 ; 1.118 ;34;Delivered;22/05/2022;6;4; 1.122 ;Lisa Rizi;Jacob Poole;Female;20;Young;Washington, D.C.;United States
+1834;25/09/2022;TV;Electronics; 96 ; 106 ; 237 ;24;Delivered;30/09/2022;5;3; 240 ;Lisa Rizi;Tracey Hunter;Male;27;Young;Houston;United States
+1835;14/11/2022;Sneakers;Footwear; 61 ; 72 ; 7 ;1;Delivered;21/11/2022;7;4; 11 ;Arnold Fazer;Douglas Hawkins;Female;48;Middle Age;Chicago;United States
+1836;17/05/2022;Sneakers;Footwear; 81 ; 107 ; 1.168 ;45;Delivered;19/05/2022;2;2; 1.170 ;Chris Jordan;Shannon Sullivan;Male;64;Senior;Miami;United States
+1837;07/12/2022;T-shirt;Clothing; 54 ; 89 ; 661 ;19;Delivered;14/12/2022;1;4; 665 ;David Willy;Michael Allen;Male;40;Middle Age;Seattle;United States
+1838;01/09/2022;T-shirt;Clothing; 32 ; 48 ; 126 ;8;Delivered;06/09/2022;1;2; 128 ;Lisa Rizi;Jonathan Thompson;Male;39;Middle Age;San Francisco;United States
+1839;04/09/2022;Sandles;Footwear; 32 ; 63 ; 742 ;24;Delivered;10/09/2022;6;2; 744 ;Arnold Fazer;Michael Williamson;Female;46;Middle Age;Houston;United States
+1840;11/07/2022;Laptop;Electronics; 24 ; 58 ; 1.120 ;33;Delivered;14/07/2022;3;2; 1.122 ;Lisa Rizi;Joseph Barnes;Female;40;Middle Age;Chicago;United States
+1841;31/03/2022;Laptop;Electronics; 98 ; 110 ; 513 ;43;Delivered;07/04/2022;7;3; 516 ;Arnold Fazer;Kendra Palmer;Female;49;Middle Age;Houston;United States
+1842;24/03/2022;Sandles;Footwear; 86 ; 120 ; 1.049 ;31;Delivered;25/03/2022;1;5; 1.054 ;David Willy;Alicia Alexander;Female;28;Young;Atlanta;United States
+1843;21/07/2022;Jeans;Clothing; 54 ; 88 ; 709 ;21;Delivered;22/07/2022;1;5; 714 ;Lisa Rizi;Cassandra Phillips;Female;33;Middle Age;San Francisco;United States
+1844;23/06/2022;Refrigerator;Appliances; 25 ; 48 ; 111 ;5;Delivered;24/06/2022;1;4; 115 ;David Willy;Jocelyn Schwartz;Female;47;Middle Age;Miami;United States
+1845;03/11/2022;Refrigerator;Appliances; 70 ; 100 ; 686 ;23;Delivered;09/11/2022;6;4; 690 ;David Willy;Zachary Harris;Female;31;Middle Age;Atlanta;United States
+1846;02/01/2022;Watch;Accessories; 29 ; 59 ; 595 ;20;Delivered;09/01/2022;7;5; 600 ;Lisa Rizi;Andrew Phillips;Female;48;Middle Age;Houston;United States
+1847;28/06/2022;Sneakers;Footwear; 100 ; 115 ; 28 ;2;Delivered;01/07/2022;3;2; 30 ;Arnold Fazer;Frank Fox;Male;45;Middle Age;New York;United States
+1848;11/10/2022;Laptop;Electronics; 42 ; 68 ; 465 ;18;Delivered;15/10/2022;4;3; 468 ;Lisa Rizi;Richard Warren;Female;55;Senior;Atlanta;United States
+1849;09/06/2022;Jeans;Clothing; 38 ; 59 ; 838 ;40;Delivered;11/06/2022;2;2; 840 ;Chris Jordan;Samantha Turner;Male;64;Senior;Boston;United States
+1850;24/02/2022;Jeans;Clothing; 89 ; 115 ; 1.141 ;44;Delivered;26/02/2022;2;3; 1.144 ;Arnold Fazer;Paul Trevino;Male;56;Senior;Atlanta;United States
+1851;13/02/2022;Laptop;Electronics; 34 ; 68 ; 267 ;8;Delivered;19/02/2022;6;5; 272 ;Lisa Rizi;Mariah Cook;Female;50;Middle Age;Miami;United States
+1852;07/12/2022;Watch;Accessories; 45 ; 68 ; 502 ;22;Delivered;08/12/2022;1;4; 506 ;Chris Jordan;Angela Osborne;Male;27;Young;Washington, D.C.;United States
+1853;20/08/2022;TV;Electronics; 50 ; 85 ; 103 ;3;Delivered;25/08/2022;5;2; 105 ;Arnold Fazer;David Rodriguez;Male;48;Middle Age;Seattle;United States
+1854;13/06/2022;Laptop;Electronics; 33 ; 70 ; 145 ;4;Delivered;14/06/2022;1;3; 148 ;David Willy;Stacy Kim;Female;29;Young;Atlanta;United States
+1855;02/08/2022;Washing Machine;Appliances; 69 ; 109 ; 637 ;16;Delivered;03/08/2022;1;3; 640 ;David Willy;Patrick Hernandez;Male;59;Senior;Chicago;United States
+1856;05/06/2022;Watch;Accessories; 38 ; 74 ; 1.220 ;34;Delivered;09/06/2022;4;4; 1.224 ;Arnold Fazer;Ethan Douglas;Male;60;Senior;Atlanta;United States
+1857;09/03/2022;Washing Machine;Appliances; 32 ; 55 ; 458 ;20;Delivered;12/03/2022;3;2; 460 ;Lisa Rizi;Michael Payne;Female;35;Middle Age;New York;United States
+1858;07/07/2022;TV;Electronics; 58 ; 86 ; 473 ;17;Delivered;10/07/2022;3;3; 476 ;Arnold Fazer;Jay Franco;Male;62;Senior;Washington, D.C.;United States
+1859;29/06/2022;T-shirt;Clothing; 47 ; 73 ; 492 ;19;Delivered;04/07/2022;1;2; 494 ;Lisa Rizi;Albert Thomas;Male;34;Middle Age;Houston;United States
+1860;19/08/2022;Sandles;Footwear; 98 ; 120 ; 1.051 ;48;Delivered;20/08/2022;1;5; 1.056 ;Emily Lizz;Aaron Kennedy;Female;43;Middle Age;Los Angeles;United States
+1861;10/08/2022;Laptop;Electronics; 29 ; 63 ; 914 ;27;Delivered;12/08/2022;2;4; 918 ;Chris Jordan;Julie Hernandez;Female;35;Middle Age;Atlanta;United States
+1862;13/07/2022;Jeans;Clothing; 78 ; 112 ; 100 ;3;Delivered;15/07/2022;2;2; 102 ;David Willy;Wendy Castro;Female;53;Senior;Boston;United States
+1863;24/03/2022;TV;Electronics; 64 ; 77 ; 632 ;49;Delivered;31/03/2022;7;5; 637 ;David Willy;Victoria Hall;Male;63;Senior;Boston;United States
+1864;31/03/2022;TV;Electronics; 21 ; 43 ; 941 ;43;Delivered;03/04/2022;3;5; 946 ;Lisa Rizi;Tyler Chang;Male;45;Middle Age;Boston;United States
+1865;12/02/2022;Watch;Accessories; 91 ; 129 ; 1.176 ;31;Delivered;15/02/2022;3;2; 1.178 ;Arnold Fazer;David Faulkner;Male;22;Young;Atlanta;United States
+1866;05/04/2022;Sneakers;Footwear; 41 ; 70 ; 1.012 ;35;Delivered;06/04/2022;1;3; 1.015 ;Lisa Rizi;Patrick Rios;Female;31;Middle Age;San Francisco;United States
+1867;13/04/2022;Sneakers;Footwear; 72 ; 99 ; 1.186 ;44;Delivered;15/04/2022;2;2; 1.188 ;Arnold Fazer;Benjamin Thompson;Female;56;Senior;Chicago;United States
+1868;12/11/2022;Refrigerator;Appliances; 24 ; 48 ; 405 ;17;Delivered;19/11/2022;7;3; 408 ;Lisa Rizi;Jeffery Macias;Female;28;Young;Seattle;United States
+1869;24/08/2022;TV;Electronics; 87 ; 97 ; 406 ;41;Delivered;28/08/2022;4;4; 410 ;Emily Lizz;Shawn Hood;Female;18;Young;Washington, D.C.;United States
+1870;30/03/2022;Washing Machine;Appliances; 53 ; 67 ; - ;26;Cancelled;01/04/2022;2;5; - ;Emily Lizz;Bryan Cummings;Female;27;Young;Houston;United States
+1871;14/04/2022;TV;Electronics; 73 ; 105 ; 635 ;20;Delivered;21/04/2022;7;5; 640 ;David Willy;Destiny Robbins;Female;32;Middle Age;New York;United States
+1872;11/06/2022;Refrigerator;Appliances; 100 ; 122 ; 436 ;20;Delivered;14/06/2022;3;4; 440 ;Lisa Rizi;Lauren Baxter;Female;59;Senior;Atlanta;United States
+1873;02/10/2022;Smartphone;Electronics; 61 ; 93 ; 1.564 ;49;Delivered;08/10/2022;6;4; 1.568 ;David Willy;Gabrielle Watson;Male;59;Senior;San Francisco;United States
+1874;27/12/2022;Refrigerator;Appliances; 81 ; 111 ; 628 ;21;Delivered;29/12/2022;2;2; 630 ;Chris Jordan;Meagan Hill;Female;58;Senior;New York;United States
+1875;12/11/2022;Jeans;Clothing; 33 ; 54 ; 17 ;1;Delivered;15/11/2022;3;4; 21 ;Arnold Fazer;Scott Pope;Female;58;Senior;San Francisco;United States
+1876;12/08/2022;Sneakers;Footwear; 37 ; 61 ; 261 ;11;Delivered;18/08/2022;6;3; 264 ;Lisa Rizi;Aaron Richardson;Male;27;Young;San Francisco;United States
+1877;26/08/2022;T-shirt;Clothing; 78 ; 100 ; 724 ;33;Delivered;29/08/2022;1;2; 726 ;Emily Lizz;Thomas Montgomery;Female;58;Senior;Boston;United States
+1878;11/09/2022;Refrigerator;Appliances; 52 ; 83 ; 89 ;3;Delivered;13/09/2022;2;4; 93 ;Chris Jordan;Lisa Payne;Male;47;Middle Age;San Francisco;United States
+1879;15/05/2022;Washing Machine;Appliances; 56 ; 68 ; 451 ;38;Delivered;17/05/2022;2;5; 456 ;David Willy;Scott Dyer;Male;17;Young;Atlanta;United States
+1880;13/08/2022;TV;Electronics; 34 ; 66 ; 795 ;25;Delivered;19/08/2022;6;5; 800 ;Chris Jordan;Christine Hodges;Female;61;Senior;Seattle;United States
+1881;03/03/2022;Laptop;Electronics; 26 ; 66 ; 1.995 ;50;Delivered;04/03/2022;1;5; 2.000 ;David Willy;David Jones;Male;52;Senior;Seattle;United States
+1882;20/03/2022;Smartphone;Electronics; 98 ; 130 ; 475 ;15;Delivered;22/03/2022;2;5; 480 ;David Willy;Gregory Valentine;Male;29;Young;Los Angeles;United States
+1883;24/05/2022;Sneakers;Footwear; 65 ; 92 ; 1.213 ;45;Delivered;27/05/2022;3;2; 1.215 ;Emily Lizz;Matthew Combs;Male;49;Middle Age;Houston;United States
+1884;21/01/2022;Washing Machine;Appliances; 36 ; 47 ; 314 ;29;Delivered;23/01/2022;2;5; 319 ;David Willy;Maria Peterson;Male;28;Young;Atlanta;United States
+1885;31/01/2022;Refrigerator;Appliances; 71 ; 108 ; 1.588 ;43;Delivered;04/02/2022;4;3; 1.591 ;Arnold Fazer;Richard Harris;Male;19;Young;Boston;United States
+1886;22/06/2022;Sandles;Footwear; 56 ; 70 ; 528 ;38;Delivered;27/06/2022;5;4; 532 ;Lisa Rizi;Nathan Dixon;Female;45;Middle Age;Houston;United States
+1887;24/03/2022;T-shirt;Clothing; 56 ; 87 ; 555 ;18;Delivered;31/03/2022;1;3; 558 ;Arnold Fazer;Jason Murray;Female;46;Middle Age;Houston;United States
+1888;23/09/2022;Watch;Accessories; 43 ; 68 ; 122 ;5;Delivered;30/09/2022;7;3; 125 ;Chris Jordan;Joseph Fitzpatrick;Female;17;Young;Chicago;United States
+1889;27/10/2022;Laptop;Electronics; 43 ; 72 ; 1.010 ;35;Delivered;29/10/2022;2;5; 1.015 ;David Willy;Heather Jackson;Female;21;Young;Houston;United States
+1890;26/02/2022;Watch;Accessories; 61 ; 73 ; 272 ;23;Delivered;28/02/2022;2;4; 276 ;Emily Lizz;Todd Powell;Male;48;Middle Age;Los Angeles;United States
+1891;01/02/2022;Washing Machine;Appliances; 45 ; 82 ; 994 ;27;Delivered;02/02/2022;1;5; 999 ;Arnold Fazer;Heather Church;Female;45;Middle Age;Washington, D.C.;United States
+1892;19/05/2022;Smartphone;Electronics; 92 ; 106 ; 583 ;42;Delivered;21/05/2022;2;5; 588 ;Emily Lizz;Stephen Galvan;Female;27;Young;Seattle;United States
+1893;04/12/2022;T-shirt;Clothing; 100 ; 137 ; 846 ;23;Delivered;10/12/2022;1;5; 851 ;David Willy;David Fitzgerald;Female;35;Middle Age;Houston;United States
+1894;02/01/2022;Laptop;Electronics; 95 ; 111 ; 222 ;14;Delivered;08/01/2022;6;2; 224 ;Lisa Rizi;Cynthia Martin;Female;27;Young;Miami;United States
+1895;20/07/2022;TV;Electronics; 68 ; 101 ; 1.416 ;43;Delivered;22/07/2022;2;3; 1.419 ;Chris Jordan;Jason Salas;Male;64;Senior;Miami;United States
+1896;29/05/2022;Watch;Accessories; 31 ; 68 ; 256 ;7;Delivered;04/06/2022;6;3; 259 ;Arnold Fazer;Travis Ramirez;Female;25;Young;Seattle;United States
+1897;06/05/2022;Refrigerator;Appliances; 29 ; 66 ; 1.771 ;48;Delivered;08/05/2022;2;5; 1.776 ;David Willy;Caroline Jackson;Male;38;Middle Age;Atlanta;United States
+1898;21/04/2022;T-shirt;Clothing; 84 ; 108 ; 670 ;28;Delivered;23/04/2022;1;2; 672 ;David Willy;Emily Boyd;Female;60;Senior;New York;United States
+1899;09/03/2022;Jeans;Clothing; 46 ; 77 ; 308 ;10;Delivered;15/03/2022;6;2; 310 ;Arnold Fazer;Brenda Garner;Male;46;Middle Age;Atlanta;United States
+1900;22/09/2022;TV;Electronics; 63 ; 86 ; 1.076 ;47;Delivered;27/09/2022;5;5; 1.081 ;Emily Lizz;Nathan Adams;Male;34;Middle Age;Atlanta;United States
+1901;27/03/2022;TV;Electronics; 44 ; 83 ; 1.246 ;32;Delivered;28/03/2022;1;2; 1.248 ;Arnold Fazer;James Ortega;Female;27;Young;San Francisco;United States
+1902;26/11/2022;Washing Machine;Appliances; 95 ; 120 ; 273 ;11;Delivered;30/11/2022;4;2; 275 ;Chris Jordan;Matthew Morales;Female;57;Senior;Miami;United States
+1903;09/03/2022;T-shirt;Clothing; 22 ; 46 ; 1.150 ;48;Delivered;12/03/2022;1;2; 1.152 ;Lisa Rizi;Donald Hays;Female;17;Young;Miami;United States
+1904;10/01/2022;Refrigerator;Appliances; 33 ; 57 ; 211 ;9;Delivered;13/01/2022;3;5; 216 ;Lisa Rizi;Heidi Garcia;Male;57;Senior;New York;United States
+1905;29/04/2022;Watch;Accessories; 93 ; 106 ; 413 ;32;Delivered;06/05/2022;7;3; 416 ;Lisa Rizi;Cory Jordan;Male;40;Middle Age;Atlanta;United States
+1906;24/03/2022;Smartphone;Electronics; 47 ; 80 ; 1.417 ;43;Delivered;26/03/2022;2;2; 1.419 ;Chris Jordan;Jason Nelson;Female;41;Middle Age;New York;United States
+1907;17/10/2022;Laptop;Electronics; 20 ; 59 ; 738 ;19;Delivered;24/10/2022;7;3; 741 ;Lisa Rizi;Michelle Smith;Female;36;Middle Age;Miami;United States
+1908;11/11/2022;T-shirt;Clothing; 31 ; 50 ; 720 ;38;Delivered;12/11/2022;1;2; 722 ;Lisa Rizi;Robert Jones;Male;53;Senior;Seattle;United States
+1909;28/12/2022;Smartphone;Electronics; 50 ; 87 ; 997 ;27;Delivered;01/01/2023;4;2; 999 ;David Willy;Mr. Chase Poole DDS;Male;58;Senior;Seattle;United States
+1910;10/12/2022;Washing Machine;Appliances; 81 ; 99 ; 266 ;15;Delivered;15/12/2022;5;4; 270 ;Arnold Fazer;Bryan Bennett;Male;63;Senior;Boston;United States
+1911;11/09/2022;Refrigerator;Appliances; 58 ; 71 ; 490 ;38;Delivered;14/09/2022;3;4; 494 ;Emily Lizz;Eric Smith;Male;63;Senior;Houston;United States
+1912;16/07/2022;Sandles;Footwear; 24 ; 53 ; 1.273 ;44;Delivered;21/07/2022;5;3; 1.276 ;Arnold Fazer;Jack Davis;Male;51;Senior;San Francisco;United States
+1913;02/05/2022;TV;Electronics; 68 ; 106 ; 948 ;25;Delivered;07/05/2022;5;2; 950 ;Emily Lizz;Kathleen Newton;Male;41;Middle Age;Seattle;United States
+1914;31/03/2022;Watch;Accessories; 82 ; 101 ; 148 ;8;Delivered;01/04/2022;1;4; 152 ;Chris Jordan;Mary Sanders;Female;38;Middle Age;Chicago;United States
+1915;20/11/2022;Sandles;Footwear; 95 ; 130 ; 871 ;25;Delivered;26/11/2022;6;4; 875 ;Chris Jordan;Mark Brown;Male;41;Middle Age;Boston;United States
+1916;29/04/2022;TV;Electronics; 84 ; 112 ; 331 ;12;Delivered;05/05/2022;6;5; 336 ;Arnold Fazer;Tracey Robinson;Female;17;Young;Houston;United States
+1917;20/11/2022;TV;Electronics; 60 ; 94 ; 1.117 ;33;Delivered;24/11/2022;4;5; 1.122 ;Chris Jordan;Nancy Long;Female;22;Young;Seattle;United States
+1918;01/12/2022;Watch;Accessories; 45 ; 77 ; 667 ;21;Delivered;06/12/2022;5;5; 672 ;David Willy;Erica Fuentes;Female;26;Young;Houston;United States
+1919;14/02/2022;Jeans;Clothing; 89 ; 114 ; 96 ;4;Delivered;20/02/2022;6;4; 100 ;Lisa Rizi;Kristen Powers;Female;56;Senior;Boston;United States
+1920;08/01/2022;Watch;Accessories; 43 ; 56 ; 544 ;42;Delivered;10/01/2022;2;2; 546 ;Lisa Rizi;Janet Hunter;Female;61;Senior;Houston;United States
+1921;14/06/2022;Laptop;Electronics; 28 ; 47 ; 264 ;14;Delivered;17/06/2022;3;2; 266 ;Chris Jordan;Arthur Stokes;Male;27;Young;Seattle;United States
+1922;10/09/2022;T-shirt;Clothing; 28 ; 57 ; 1.448 ;50;Delivered;15/09/2022;1;2; 1.450 ;David Willy;Alison Perez;Male;17;Young;New York;United States
+1923;20/05/2022;T-shirt;Clothing; 59 ; 94 ; 836 ;24;Delivered;25/05/2022;1;4; 840 ;Emily Lizz;Jeffery Smith;Female;48;Middle Age;Houston;United States
+1924;26/09/2022;Jeans;Clothing; 48 ; 70 ; 876 ;40;Delivered;27/09/2022;1;4; 880 ;David Willy;Jessica Allen;Male;27;Young;Houston;United States
+1925;19/12/2022;TV;Electronics; 62 ; 92 ; 567 ;19;Delivered;23/12/2022;4;3; 570 ;Lisa Rizi;Dustin Moore;Female;57;Senior;Miami;United States
+1926;27/08/2022;TV;Electronics; 63 ; 88 ; 798 ;32;Delivered;30/08/2022;3;2; 800 ;Lisa Rizi;Ronald Vargas;Male;60;Senior;Chicago;United States
+1927;04/04/2022;TV;Electronics; 98 ; 121 ; 458 ;20;Delivered;11/04/2022;7;2; 460 ;David Willy;Nichole Rose;Male;60;Senior;New York;United States
+1928;19/10/2022;Watch;Accessories; 89 ; 106 ; 199 ;12;Delivered;26/10/2022;7;5; 204 ;Emily Lizz;Brad Castillo;Female;58;Senior;New York;United States
+1929;07/07/2022;Jeans;Clothing; 68 ; 88 ; 455 ;23;Delivered;10/07/2022;3;5; 460 ;Arnold Fazer;Christopher Calderon;Female;42;Middle Age;Atlanta;United States
+1930;03/07/2022;Sneakers;Footwear; 29 ; 54 ; 697 ;28;Delivered;09/07/2022;6;3; 700 ;David Willy;Emily Bradley;Female;35;Middle Age;New York;United States
+1931;01/06/2022;Jeans;Clothing; 52 ; 71 ; 74 ;4;Delivered;07/06/2022;6;2; 76 ;Emily Lizz;Nancy Arroyo;Male;65;Senior;New York;United States
+1932;26/10/2022;Refrigerator;Appliances; 39 ; 56 ; 710 ;42;Delivered;30/10/2022;4;4; 714 ;Arnold Fazer;John Santana;Male;20;Young;Atlanta;United States
+1933;04/08/2022;Jeans;Clothing; 96 ; 135 ; 658 ;17;Delivered;10/08/2022;6;5; 663 ;David Willy;Andrea Lambert;Male;47;Middle Age;Boston;United States
+1934;01/10/2022;TV;Electronics; 90 ; 130 ; 1.435 ;36;Delivered;08/10/2022;7;5; 1.440 ;David Willy;Natasha Maldonado;Female;47;Middle Age;Miami;United States
+1935;09/07/2022;T-shirt;Clothing; 90 ; 119 ; 692 ;24;Delivered;13/07/2022;1;4; 696 ;Emily Lizz;Teresa Palmer;Female;24;Young;Houston;United States
+1936;04/05/2022;Sandles;Footwear; 91 ; 126 ; 1.325 ;38;Delivered;07/05/2022;3;5; 1.330 ;Arnold Fazer;Angela Hall;Male;59;Senior;Miami;United States
+1937;20/10/2022;Refrigerator;Appliances; 76 ; 115 ; 35 ;1;Delivered;22/10/2022;2;4; 39 ;David Willy;Allen Miller;Female;31;Middle Age;Seattle;United States
+1938;08/10/2022;Jeans;Clothing; 51 ; 77 ; 854 ;33;Delivered;11/10/2022;3;4; 858 ;Chris Jordan;Ian Allen;Female;25;Young;Los Angeles;United States
+1939;11/10/2022;Smartphone;Electronics; 75 ; 93 ; 627 ;35;Delivered;14/10/2022;3;3; 630 ;Chris Jordan;Anna Underwood;Female;33;Middle Age;Washington, D.C.;United States
+1940;02/12/2022;TV;Electronics; 95 ; 135 ; 1.638 ;41;Delivered;04/12/2022;2;2; 1.640 ;Chris Jordan;Terri Smith;Male;54;Senior;Miami;United States
+1941;13/09/2022;Laptop;Electronics; 40 ; 56 ; 396 ;25;Delivered;14/09/2022;1;4; 400 ;Emily Lizz;Michelle Flores;Female;46;Middle Age;Chicago;United States
+1942;21/03/2022;Sandles;Footwear; 63 ; 93 ; 1.348 ;45;Delivered;25/03/2022;4;2; 1.350 ;Chris Jordan;Rhonda Brown;Male;59;Senior;Washington, D.C.;United States
+1943;21/04/2022;Smartphone;Electronics; 51 ; 66 ; 358 ;24;Delivered;23/04/2022;2;2; 360 ;Chris Jordan;Tiffany Hamilton;Female;59;Senior;Seattle;United States
+1944;09/09/2022;Refrigerator;Appliances; 40 ; 61 ; 646 ;31;Delivered;16/09/2022;7;5; 651 ;David Willy;Molly Hudson;Female;48;Middle Age;San Francisco;United States
+1945;19/10/2022;Smartphone;Electronics; 24 ; 46 ; 1.052 ;48;Delivered;22/10/2022;3;4; 1.056 ;Emily Lizz;Melanie Robbins;Male;49;Middle Age;Washington, D.C.;United States
+1946;27/10/2022;Sneakers;Footwear; 86 ; 120 ; 1.527 ;45;Delivered;29/10/2022;2;3; 1.530 ;Lisa Rizi;Bobby Williams;Male;64;Senior;New York;United States
+1947;26/11/2022;Smartphone;Electronics; 48 ; 78 ; 596 ;20;Delivered;27/11/2022;1;4; 600 ;Chris Jordan;Victoria Johnson;Female;46;Middle Age;Los Angeles;United States
+1948;13/01/2022;Sandles;Footwear; 37 ; 47 ; 348 ;35;Delivered;19/01/2022;6;2; 350 ;Chris Jordan;Cathy Nichols;Male;59;Senior;San Francisco;United States
+1949;10/03/2022;Smartphone;Electronics; 23 ; 47 ; 982 ;41;Delivered;16/03/2022;6;2; 984 ;Arnold Fazer;Amanda Johnson;Male;47;Middle Age;Chicago;United States
+1950;25/07/2022;T-shirt;Clothing; 65 ; 88 ; 503 ;22;Delivered;27/07/2022;1;3; 506 ;Arnold Fazer;Thomas Gray;Female;17;Young;Boston;United States
+1951;03/01/2022;TV;Electronics; 48 ; 87 ; 1.828 ;47;Delivered;07/01/2022;4;5; 1.833 ;Emily Lizz;Angela Mooney;Male;27;Young;Houston;United States
+1952;29/01/2022;Laptop;Electronics; 57 ; 67 ; 28 ;3;Delivered;02/02/2022;4;2; 30 ;Chris Jordan;Christy Underwood;Male;55;Senior;Houston;United States
+1953;13/12/2022;Washing Machine;Appliances; 71 ; 93 ; 438 ;20;Delivered;15/12/2022;2;2; 440 ;Chris Jordan;Rebekah Thomas;Male;60;Senior;Chicago;United States
+1954;22/07/2022;TV;Electronics; 29 ; 49 ; 357 ;18;Delivered;29/07/2022;7;3; 360 ;Emily Lizz;Nichole Ramos;Female;61;Senior;Boston;United States
+1955;04/01/2022;Sandles;Footwear; 54 ; 94 ; 797 ;20;Delivered;08/01/2022;4;3; 800 ;Lisa Rizi;Kevin Gordon;Male;48;Middle Age;Miami;United States
+1956;26/11/2022;Refrigerator;Appliances; 59 ; 91 ; 766 ;24;Delivered;29/11/2022;3;2; 768 ;Lisa Rizi;Chad Medina;Male;31;Middle Age;Atlanta;United States
+1957;23/01/2022;Laptop;Electronics; 67 ; 98 ; 1.392 ;45;Delivered;29/01/2022;6;3; 1.395 ;David Willy;Cole Mullen;Female;23;Young;Seattle;United States
+1958;29/04/2022;Laptop;Electronics; 91 ; 101 ; 187 ;19;Delivered;03/05/2022;4;3; 190 ;Emily Lizz;Meagan Christensen;Male;63;Senior;New York;United States
+1959;05/02/2022;Laptop;Electronics; 30 ; 42 ; 127 ;11;Delivered;08/02/2022;3;5; 132 ;Lisa Rizi;Crystal Rivera PhD;Male;58;Senior;Houston;United States
+1960;26/06/2022;TV;Electronics; 56 ; 82 ; 595 ;23;Delivered;01/07/2022;5;3; 598 ;David Willy;Katrina Gonzalez;Female;57;Senior;Los Angeles;United States
+1961;30/05/2022;Refrigerator;Appliances; 73 ; 113 ; 1.755 ;44;Delivered;03/06/2022;4;5; 1.760 ;Arnold Fazer;Martin Nelson;Male;38;Middle Age;San Francisco;United States
+1962;18/06/2022;T-shirt;Clothing; 23 ; 53 ; 1.438 ;48;Delivered;24/06/2022;1;2; 1.440 ;Arnold Fazer;Annette Fitzpatrick;Female;48;Middle Age;Houston;United States
+1963;09/11/2022;Laptop;Electronics; 92 ; 105 ; 544 ;42;Delivered;11/11/2022;2;2; 546 ;David Willy;Annette Joyce;Female;38;Middle Age;Boston;United States
+1964;12/12/2022;TV;Electronics; 27 ; 50 ; 754 ;33;Delivered;16/12/2022;4;5; 759 ;Chris Jordan;Julie Baxter;Female;58;Senior;New York;United States
+1965;26/06/2022;T-shirt;Clothing; 56 ; 86 ; 296 ;10;Delivered;29/06/2022;1;4; 300 ;Arnold Fazer;Brandi Turner;Female;58;Senior;Seattle;United States
+1966;21/08/2022;Smartphone;Electronics; 21 ; 45 ; 213 ;9;Delivered;24/08/2022;3;3; 216 ;Arnold Fazer;Jonathan Frye MD;Female;40;Middle Age;New York;United States
+1967;22/03/2022;Sneakers;Footwear; 64 ; 93 ; 285 ;10;Delivered;24/03/2022;2;5; 290 ;David Willy;Eric Martin;Female;54;Senior;Washington, D.C.;United States
+1968;16/08/2022;Smartphone;Electronics; 97 ; 118 ; 145 ;7;Delivered;22/08/2022;6;2; 147 ;Chris Jordan;Thomas Sanchez;Male;17;Young;New York;United States
+1969;18/08/2022;Smartphone;Electronics; 63 ; 88 ; 773 ;31;Delivered;20/08/2022;2;2; 775 ;Emily Lizz;Deanna Sanders;Female;19;Young;Washington, D.C.;United States
+1970;02/11/2022;TV;Electronics; 54 ; 68 ; 165 ;12;Delivered;09/11/2022;7;3; 168 ;Lisa Rizi;Patrick Bryant;Female;18;Young;Washington, D.C.;United States
+1971;14/03/2022;Laptop;Electronics; 81 ; 111 ; 1.376 ;46;Delivered;15/03/2022;1;4; 1.380 ;Lisa Rizi;William Key;Female;22;Young;Chicago;United States
+1972;07/10/2022;Refrigerator;Appliances; 77 ; 113 ; 1.795 ;50;Delivered;10/10/2022;3;5; 1.800 ;Chris Jordan;Craig Reyes;Female;40;Middle Age;Houston;United States
+1973;15/05/2022;Smartphone;Electronics; 97 ; 127 ; 1.138 ;38;Delivered;22/05/2022;7;2; 1.140 ;Emily Lizz;Katie Taylor;Male;59;Senior;Los Angeles;United States
+1974;03/10/2022;Sandles;Footwear; 36 ; 49 ; 413 ;32;Delivered;07/10/2022;4;3; 416 ;Chris Jordan;Debra Hammond;Female;58;Senior;Chicago;United States
+1975;18/03/2022;Jeans;Clothing; 63 ; 77 ; 261 ;19;Delivered;25/03/2022;7;5; 266 ;Lisa Rizi;Tammy Hernandez;Female;31;Middle Age;Houston;United States
+1976;13/01/2022;Washing Machine;Appliances; 23 ; 55 ; 220 ;7;Delivered;20/01/2022;7;4; 224 ;Chris Jordan;Alexander King;Female;59;Senior;San Francisco;United States
+1977;20/02/2022;Smartphone;Electronics; 24 ; 56 ; 957 ;30;Delivered;21/02/2022;1;3; 960 ;David Willy;Deborah Gilbert;Male;26;Young;San Francisco;United States
+1978;18/10/2022;Jeans;Clothing; 47 ; 80 ; 227 ;7;Delivered;25/10/2022;7;4; 231 ;Lisa Rizi;Michelle Scott PhD;Female;30;Young;Miami;United States
+1979;30/04/2022;Jeans;Clothing; 55 ; 86 ; 1.266 ;41;Delivered;05/05/2022;5;5; 1.271 ;Chris Jordan;Tracy Wagner;Male;59;Senior;Chicago;United States
+1980;04/06/2022;Smartphone;Electronics; 42 ; 57 ; 641 ;43;Delivered;06/06/2022;2;4; 645 ;Lisa Rizi;Stephanie Robinson;Female;56;Senior;Boston;United States
+1981;25/03/2022;Washing Machine;Appliances; 85 ; 120 ; 1.465 ;42;Delivered;01/04/2022;7;5; 1.470 ;Emily Lizz;Jeremy Johnson;Female;35;Middle Age;San Francisco;United States
+1982;02/12/2022;TV;Electronics; 97 ; 116 ; 434 ;23;Delivered;04/12/2022;2;3; 437 ;David Willy;Wyatt Avery;Female;41;Middle Age;Chicago;United States
+1983;22/05/2022;Sneakers;Footwear; 63 ; 91 ; 163 ;6;Delivered;27/05/2022;5;5; 168 ;Arnold Fazer;Morgan Todd;Female;26;Young;Boston;United States
+1984;21/10/2022;Laptop;Electronics; 82 ; 112 ; 296 ;10;Delivered;24/10/2022;3;4; 300 ;Arnold Fazer;Ashley Kennedy;Female;58;Senior;Los Angeles;United States
+1985;24/11/2022;Laptop;Electronics; 82 ; 109 ; 131 ;5;Delivered;28/11/2022;4;4; 135 ;David Willy;Diana Ritter;Male;29;Young;Atlanta;United States
+1986;13/08/2022;Watch;Accessories; 57 ; 73 ; 668 ;42;Delivered;19/08/2022;6;4; 672 ;Emily Lizz;Brian Gutierrez;Male;36;Middle Age;Los Angeles;United States
+1987;05/09/2022;Sandles;Footwear; 50 ; 80 ; 1.197 ;40;Delivered;07/09/2022;2;3; 1.200 ;Arnold Fazer;Rachel Fernandez;Female;37;Middle Age;Washington, D.C.;United States
+1988;13/04/2022;Jeans;Clothing; 51 ; 80 ; 810 ;28;Delivered;17/04/2022;4;2; 812 ;David Willy;Derrick Collins;Female;57;Senior;Atlanta;United States
+1989;15/09/2022;TV;Electronics; 92 ; 118 ; 931 ;36;Delivered;18/09/2022;3;5; 936 ;Emily Lizz;Jeffery Moran;Female;59;Senior;San Francisco;United States
+1990;12/11/2022;Refrigerator;Appliances; 71 ; 110 ; 1.947 ;50;Delivered;14/11/2022;2;3; 1.950 ;Lisa Rizi;Heather Wheeler;Male;47;Middle Age;Chicago;United States
+1991;30/09/2022;Sneakers;Footwear; 96 ; 123 ; 77 ;3;Delivered;03/10/2022;3;4; 81 ;Emily Lizz;Daniel Davis;Female;45;Middle Age;Miami;United States
+1992;30/08/2022;Laptop;Electronics; 39 ; 59 ; 856 ;43;Delivered;03/09/2022;4;4; 860 ;Emily Lizz;Brandon Wood;Female;35;Middle Age;San Francisco;United States
+1993;03/02/2022;Laptop;Electronics; 88 ; 128 ; 518 ;13;Delivered;07/02/2022;4;2; 520 ;David Willy;Michele Schwartz;Female;62;Senior;Houston;United States
+1994;22/01/2022;TV;Electronics; 94 ; 123 ; 374 ;13;Delivered;27/01/2022;5;3; 377 ;Lisa Rizi;Kyle Smith;Female;37;Middle Age;Miami;United States
+1995;27/01/2022;Smartphone;Electronics; 59 ; 69 ; 405 ;41;Delivered;31/01/2022;4;5; 410 ;Lisa Rizi;Stephanie Barrera;Male;59;Senior;Chicago;United States
+1996;11/07/2022;Sandles;Footwear; 90 ; 129 ; 346 ;9;Delivered;15/07/2022;4;5; 351 ;Lisa Rizi;Andres Schwartz;Female;18;Young;Boston;United States
+1997;15/04/2022;Washing Machine;Appliances; 48 ; 74 ; 879 ;34;Delivered;22/04/2022;7;5; 884 ;David Willy;Michelle Neal;Male;41;Middle Age;Atlanta;United States
+1998;08/06/2022;TV;Electronics; 98 ; 137 ; 1.050 ;27;Delivered;13/06/2022;5;3; 1.053 ;Lisa Rizi;Elizabeth George;Female;50;Middle Age;Atlanta;United States
+1999;19/08/2022;Smartphone;Electronics; 87 ; 102 ; 403 ;27;Delivered;25/08/2022;6;2; 405 ;Emily Lizz;Patricia Garza;Female;33;Middle Age;Atlanta;United States
+2000;31/10/2022;Sandles;Footwear; 45 ; 66 ; - ;13;Cancelled;05/11/2022;5;4; - ;Arnold Fazer;Anthony Lane;Male;32;Middle Age;Miami;United States
